@@ -1,0 +1,80 @@
+### Hi there :wave:
+
+Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
+
+#### 🔭 Currently working on
+
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
+<details><summary>more</summary>
+
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
+1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (6 days ago)
+1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (6 days ago)
+1. [ShenMian/math](https://github.com/ShenMian/math) (1 week ago)
+1. [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 month ago)
+1. [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (2 months ago)
+1. [Fechin/reference](https://github.com/Fechin/reference) (5 months ago)
+1. [ShenMian/shell](https://github.com/ShenMian/shell) (5 months ago)
+</details>
+
+#### :star: Recent Stars
+
+- [ColemakMods/mod-dh](https://github.com/ColemakMods/mod-dh) - A Colemak mod for more comfortable typing. (1 day ago)
+- [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux. (2 days ago)
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing (2 days ago)
+<details><summary>more</summary>
+
+1. [ColemakMods/mod-dh](https://github.com/ColemakMods/mod-dh) - A Colemak mod for more comfortable typing. (1 day ago)
+1. [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux. (2 days ago)
+1. [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing (2 days ago)
+1. [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译 (3 days ago)
+1. [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (3 days ago)
+1. [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords (4 days ago)
+1. [theniceboy/.config](https://github.com/theniceboy/.config) - My dotfiles (4 days ago)
+1. [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester (5 days ago)
+1. [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) - A curated list of awesome Scoop resources and more. (5 days ago)
+1. [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. (1 week ago)
+</details>
+
+#### :hammer: Recent Pull Requests
+
+- [chore: update README.md](https://github.com/BoomingTech/Piccolo/pull/423) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (4 days ago)
+- [fix: fix a typo](https://github.com/BoomingTech/Piccolo/pull/394) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 month ago)
+- [[vim/en] Update vim.html.markdown](https://github.com/adambard/learnxinyminutes-docs/pull/4538) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (2 months ago)
+<details><summary>more</summary>
+
+1. [chore: update README.md](https://github.com/BoomingTech/Piccolo/pull/423) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (4 days ago)
+1. [fix: fix a typo](https://github.com/BoomingTech/Piccolo/pull/394) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 month ago)
+1. [[vim/en] Update vim.html.markdown](https://github.com/adambard/learnxinyminutes-docs/pull/4538) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (2 months ago)
+1. [Support OpenGL DSA](https://github.com/ShenMian/graphics/pull/14) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (5 months ago)
+1. [Use std::array instead of C-style array](https://github.com/Fechin/reference/pull/258) on [Fechin/reference](https://github.com/Fechin/reference) (5 months ago)
+1. [Update Swap in cpp.md](https://github.com/Fechin/reference/pull/257) on [Fechin/reference](https://github.com/Fechin/reference) (5 months ago)
+1. [feat: improve &#39;oo&#39; module](https://github.com/ShenMian/shell/pull/2) on [ShenMian/shell](https://github.com/ShenMian/shell) (5 months ago)
+1. [Refactor build_linux.yml](https://github.com/BoomingTech/Piccolo/pull/316) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (5 months ago)
+1. [Fix conan error](https://github.com/ShenMian/graphics/pull/13) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (5 months ago)
+1. [Fix ubuntu build](https://github.com/ShenMian/graphics/pull/12) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (5 months ago)
+</details>
+
+#### :seedling: Latest releases I've contributed to
+
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) ([v2.0.0](https://github.com/SpaceVim/SpaceVim/releases/tag/v2.0.0), 6 months ago) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 7 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
+<details><summary>more</summary>
+
+1. [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) ([v2.0.0](https://github.com/SpaceVim/SpaceVim/releases/tag/v2.0.0), 6 months ago) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+1. [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 7 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
+</details>
+
+#### :speech_balloon: Contact
+- Telegram: [**@ShenMian**](https://t.me/shenmian).
+- E-mail: sms_school@outlook.com.
+
+[C++]:                      https://github.com/ShenMian/Notes/tree/main/docs/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/C%2B%2B
+[Computer Graphics]:        https://github.com/ShenMian/Notes/tree/main/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6
+[Game Engine Architecture]: https://github.com/ShenMian/Notes/tree/main/docs/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E6%9E%B6%E6%9E%84
+
+
