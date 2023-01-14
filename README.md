@@ -23,11 +23,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let&#39;s write an OS which can run on RISC-V in Rust from scratch! (today)
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 day ago)
 - [ColemakMods/mod-dh](https://github.com/ColemakMods/mod-dh) - A Colemak mod for more comfortable typing. (2 days ago)
-- [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux. (3 days ago)
 <details><summary>more</summary>
 
+1. [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let&#39;s write an OS which can run on RISC-V in Rust from scratch! (today)
 1. [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 day ago)
 1. [ColemakMods/mod-dh](https://github.com/ColemakMods/mod-dh) - A Colemak mod for more comfortable typing. (2 days ago)
 1. [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux. (3 days ago)
@@ -37,7 +38,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords (5 days ago)
 1. [theniceboy/.config](https://github.com/theniceboy/.config) - My dotfiles (5 days ago)
 1. [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester (6 days ago)
-1. [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) - A curated list of awesome Scoop resources and more. (6 days ago)
 </details>
 
 #### :hammer: Recent Pull Requests
