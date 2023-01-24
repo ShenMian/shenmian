@@ -4,15 +4,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/math](https://github.com/ShenMian/math) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+- [ShenMian/math](https://github.com/ShenMian/math) (1 day ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 <details><summary>more</summary>
 
-1. [ShenMian/math](https://github.com/ShenMian/math) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
-1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (6 days ago)
+1. [ShenMian/math](https://github.com/ShenMian/math) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (2 weeks ago)
 1. [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 month ago)
@@ -37,7 +37,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ColemakMods/mod-dh](https://github.com/ColemakMods/mod-dh) - A Colemak mod for more comfortable typing. (1 week ago)
 1. [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux. (1 week ago)
 1. [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing (1 week ago)
-1. [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译 (1 week ago)
+1. [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh) - 手撸解释器教程《Crafting Interpreters》中文翻译 (2 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
