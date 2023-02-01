@@ -36,8 +36,8 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let&#39;s write an OS which can run on RISC-V in Rust from scratch! (2 weeks ago)
 1. [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (2 weeks ago)
 1. [ColemakMods/mod-dh](https://github.com/ColemakMods/mod-dh) - A Colemak mod for more comfortable typing. (2 weeks ago)
-1. [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux. (2 weeks ago)
-1. [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing (2 weeks ago)
+1. [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux. (3 weeks ago)
+1. [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing (3 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
