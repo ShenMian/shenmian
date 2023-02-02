@@ -12,9 +12,9 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (today)
-1. [ShenMian/math](https://github.com/ShenMian/math) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (today)
+1. [ShenMian/math](https://github.com/ShenMian/math) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (1 day ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
 1. [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (2 months ago)
 1. [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (2 months ago)
@@ -35,7 +35,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (2 weeks ago)
 1. [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let&#39;s write an OS which can run on RISC-V in Rust from scratch! (2 weeks ago)
 1. [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (2 weeks ago)
-1. [ColemakMods/mod-dh](https://github.com/ColemakMods/mod-dh) - A Colemak mod for more comfortable typing. (2 weeks ago)
+1. [ColemakMods/mod-dh](https://github.com/ColemakMods/mod-dh) - A Colemak mod for more comfortable typing. (3 weeks ago)
 1. [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux. (3 weeks ago)
 1. [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing (3 weeks ago)
 </details>
@@ -55,7 +55,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [Update Swap in cpp.md](https://github.com/Fechin/reference/pull/257) on [Fechin/reference](https://github.com/Fechin/reference) (5 months ago)
 1. [feat: improve &#39;oo&#39; module](https://github.com/ShenMian/shell/pull/2) on [ShenMian/shell](https://github.com/ShenMian/shell) (5 months ago)
 1. [Refactor build_linux.yml](https://github.com/BoomingTech/Piccolo/pull/316) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (5 months ago)
-1. [Fix conan error](https://github.com/ShenMian/graphics/pull/13) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (5 months ago)
+1. [Fix conan error](https://github.com/ShenMian/graphics/pull/13) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (6 months ago)
 1. [Fix ubuntu build](https://github.com/ShenMian/graphics/pull/12) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (6 months ago)
 </details>
 
