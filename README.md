@@ -23,11 +23,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (today)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 week ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (2 weeks ago)
-- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. (3 weeks ago)
 <details><summary>more</summary>
 
+1. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (today)
 1. [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 week ago)
 1. [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (2 weeks ago)
 1. [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. (3 weeks ago)
@@ -37,7 +38,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let&#39;s write an OS which can run on RISC-V in Rust from scratch! (4 weeks ago)
 1. [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (4 weeks ago)
 1. [ColemakMods/mod-dh](https://github.com/ColemakMods/mod-dh) - A Colemak mod for more comfortable typing. (1 month ago)
-1. [a-nikolaev/curseofwar](https://github.com/a-nikolaev/curseofwar) - A Real Time Strategy game for Linux. (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
