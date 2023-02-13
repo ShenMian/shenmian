@@ -5,15 +5,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 #### 🔭 Currently working on
 
 - [ShenMian/clementine](https://github.com/ShenMian/clementine) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-- [ShenMian/math](https://github.com/ShenMian/math) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/math](https://github.com/ShenMian/math) (2 days ago)
 <details><summary>more</summary>
 
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/math](https://github.com/ShenMian/math) (1 day ago)
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 days ago)
-1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/math](https://github.com/ShenMian/math) (2 days ago)
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (4 days ago)
+1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (4 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 1. [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (2 months ago)
@@ -23,19 +23,19 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (1 day ago)
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (2 days ago)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 week ago)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (2 weeks ago)
 <details><summary>more</summary>
 
-1. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (1 day ago)
+1. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (2 days ago)
 1. [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 week ago)
 1. [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (2 weeks ago)
-1. [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. (3 weeks ago)
+1. [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. (4 weeks ago)
 1. [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components (4 weeks ago)
 1. [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs (4 weeks ago)
-1. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (4 weeks ago)
-1. [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let&#39;s write an OS which can run on RISC-V in Rust from scratch! (4 weeks ago)
+1. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (1 month ago)
+1. [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let&#39;s write an OS which can run on RISC-V in Rust from scratch! (1 month ago)
 1. [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 month ago)
 1. [ColemakMods/mod-dh](https://github.com/ColemakMods/mod-dh) - A Colemak mod for more comfortable typing. (1 month ago)
 </details>
