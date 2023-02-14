@@ -4,14 +4,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
+- [ShenMian/clementine](https://github.com/ShenMian/clementine) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-- [ShenMian/clementine](https://github.com/ShenMian/clementine) (today)
 <details><summary>more</summary>
 
+1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (today)
 1. [ShenMian/math](https://github.com/ShenMian/math) (3 days ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (5 days ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (5 days ago)
