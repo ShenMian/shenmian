@@ -24,12 +24,11 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 #### :star: Recent Stars
 
 - [flosse/linuxconsole](https://github.com/flosse/linuxconsole) - http://sourceforge.net/projects/linuxconsole/ (1 day ago)
-- [drewnoakes/joystick](https://github.com/drewnoakes/joystick) - A minimal C&#43;&#43; object-oriented API onto joystick devices under Linux (1 day ago)
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (4 days ago)
+- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 week ago)
 <details><summary>more</summary>
 
 1. [flosse/linuxconsole](https://github.com/flosse/linuxconsole) - http://sourceforge.net/projects/linuxconsole/ (1 day ago)
-1. [drewnoakes/joystick](https://github.com/drewnoakes/joystick) - A minimal C&#43;&#43; object-oriented API onto joystick devices under Linux (1 day ago)
 1. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (4 days ago)
 1. [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 week ago)
 1. [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (3 weeks ago)
@@ -38,6 +37,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs (1 month ago)
 1. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials. (1 month ago)
 1. [rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let&#39;s write an OS which can run on RISC-V in Rust from scratch! (1 month ago)
+1. [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
