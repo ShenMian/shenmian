@@ -44,7 +44,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :speech_balloon: Contact
 - Telegram: [**@ShenMian**](https://t.me/shenmian).
-- E-mail: sms_school@outlook.com.
+- Matrix: [**@shenmian:matrix.org**](https://matrix.to/#/@shenmian:matrix.org).
 
 [C++]:                      https://github.com/ShenMian/Notes/tree/main/docs/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/C%2B%2B
 [Computer Graphics]:        https://github.com/ShenMian/Notes/tree/main/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6
