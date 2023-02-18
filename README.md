@@ -23,11 +23,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT (today)
 - [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2 (2 days ago)
 - [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C&#43;&#43;11/14/17/20 (2 days ago)
-- [abeimler/ecs_benchmark](https://github.com/abeimler/ecs_benchmark) - Benchmarks of common ECS (Entity-Component-System)-Frameworks in C&#43;&#43; (or C) (2 days ago)
 <details><summary>more</summary>
 
+1. [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT (today)
 1. [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2 (2 days ago)
 1. [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C&#43;&#43;11/14/17/20 (2 days ago)
 1. [abeimler/ecs_benchmark](https://github.com/abeimler/ecs_benchmark) - Benchmarks of common ECS (Entity-Component-System)-Frameworks in C&#43;&#43; (or C) (2 days ago)
@@ -37,7 +38,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs. (3 weeks ago)
 1. [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. (1 month ago)
 1. [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components (1 month ago)
-1. [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
