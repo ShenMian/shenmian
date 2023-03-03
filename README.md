@@ -4,16 +4,16 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/math](https://github.com/ShenMian/math) (today)
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/math](https://github.com/ShenMian/math) (1 day ago)
+- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 days ago)
 <details><summary>more</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/math](https://github.com/ShenMian/math) (today)
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
-1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (6 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/math](https://github.com/ShenMian/math) (1 day ago)
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
+1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (1 week ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 1. [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (3 months ago)
@@ -23,13 +23,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (2 days ago)
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (4 days ago)
+- [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (3 days ago)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (5 days ago)
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT (1 week ago)
 <details><summary>more</summary>
 
-1. [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (2 days ago)
-1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (4 days ago)
+1. [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (3 days ago)
+1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (5 days ago)
 1. [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT (1 week ago)
 1. [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2 (2 weeks ago)
 1. [martinus/nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C&#43;&#43;11/14/17/20 (2 weeks ago)
