@@ -42,11 +42,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :hammer: Recent Pull Requests
 
+- [Vulkan 断言条件修正](https://github.com/BoomingTech/Piccolo/pull/438) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (today)
 - [chore: update README.md](https://github.com/BoomingTech/Piccolo/pull/423) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 month ago)
 - [fix: fix a typo](https://github.com/BoomingTech/Piccolo/pull/394) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (3 months ago)
-- [[vim/en] Update vim.html.markdown](https://github.com/adambard/learnxinyminutes-docs/pull/4538) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (3 months ago)
 <details><summary>more</summary>
 
+1. [Vulkan 断言条件修正](https://github.com/BoomingTech/Piccolo/pull/438) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (today)
 1. [chore: update README.md](https://github.com/BoomingTech/Piccolo/pull/423) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 month ago)
 1. [fix: fix a typo](https://github.com/BoomingTech/Piccolo/pull/394) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (3 months ago)
 1. [[vim/en] Update vim.html.markdown](https://github.com/adambard/learnxinyminutes-docs/pull/4538) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (3 months ago)
@@ -56,7 +57,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [feat: improve &#39;oo&#39; module](https://github.com/ShenMian/shell/pull/2) on [ShenMian/shell](https://github.com/ShenMian/shell) (6 months ago)
 1. [Refactor build_linux.yml](https://github.com/BoomingTech/Piccolo/pull/316) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (7 months ago)
 1. [Fix conan error](https://github.com/ShenMian/graphics/pull/13) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (7 months ago)
-1. [Fix ubuntu build](https://github.com/ShenMian/graphics/pull/12) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (7 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
