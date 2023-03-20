@@ -25,12 +25,11 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (today)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (2 weeks ago)
-- [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (2 weeks ago)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (3 weeks ago)
 <details><summary>more</summary>
 
 1. [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (today)
 1. [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (2 weeks ago)
-1. [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (2 weeks ago)
 1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (3 weeks ago)
 1. [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT (1 month ago)
 1. [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2 (1 month ago)
@@ -38,6 +37,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [abeimler/ecs_benchmark](https://github.com/abeimler/ecs_benchmark) - Benchmarks of common ECS (Entity-Component-System)-Frameworks in C&#43;&#43; (or C) (1 month ago)
 1. [flosse/linuxconsole](https://github.com/flosse/linuxconsole) - http://sourceforge.net/projects/linuxconsole/ (1 month ago)
 1. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (1 month ago)
+1. [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
