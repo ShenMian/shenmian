@@ -4,14 +4,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 - [ShenMian/math](https://github.com/ShenMian/math) (today)
 - [ShenMian/graphics](https://github.com/ShenMian/graphics) (3 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 <details><summary>more</summary>
 
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/math](https://github.com/ShenMian/math) (today)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (3 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (3 days ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 week ago)
@@ -23,11 +23,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (today)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (2 weeks ago)
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (2 weeks ago)
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (3 weeks ago)
 <details><summary>more</summary>
 
+1. [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (today)
 1. [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (2 weeks ago)
 1. [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (2 weeks ago)
 1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (3 weeks ago)
@@ -37,7 +38,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [abeimler/ecs_benchmark](https://github.com/abeimler/ecs_benchmark) - Benchmarks of common ECS (Entity-Component-System)-Frameworks in C&#43;&#43; (or C) (1 month ago)
 1. [flosse/linuxconsole](https://github.com/flosse/linuxconsole) - http://sourceforge.net/projects/linuxconsole/ (1 month ago)
 1. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (1 month ago)
-1. [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
