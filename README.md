@@ -23,11 +23,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (today)
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (1 week ago)
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (3 weeks ago)
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (4 weeks ago)
 <details><summary>more</summary>
 
+1. [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (today)
 1. [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (1 week ago)
 1. [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (3 weeks ago)
 1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (4 weeks ago)
@@ -37,7 +38,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [abeimler/ecs_benchmark](https://github.com/abeimler/ecs_benchmark) - Benchmarks of common ECS (Entity-Component-System)-Frameworks in C&#43;&#43; (or C) (1 month ago)
 1. [flosse/linuxconsole](https://github.com/flosse/linuxconsole) - http://sourceforge.net/projects/linuxconsole/ (1 month ago)
 1. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (1 month ago)
-1. [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
