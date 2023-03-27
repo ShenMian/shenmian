@@ -4,15 +4,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 <details><summary>more</summary>
 
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
-1. [ShenMian/math](https://github.com/ShenMian/math) (2 days ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
+1. [ShenMian/math](https://github.com/ShenMian/math) (3 days ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (1 week ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 week ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 weeks ago)
@@ -23,13 +23,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (6 days ago)
-- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (2 weeks ago)
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (1 week ago)
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (3 weeks ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (4 weeks ago)
 <details><summary>more</summary>
 
-1. [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (6 days ago)
-1. [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (2 weeks ago)
+1. [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line (1 week ago)
+1. [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (3 weeks ago)
 1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (4 weeks ago)
 1. [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT (1 month ago)
 1. [ConfettiFX/The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2 (1 month ago)
@@ -62,11 +62,11 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 #### :seedling: Latest releases I've contributed to
 
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) ([v2.0.0](https://github.com/SpaceVim/SpaceVim/releases/tag/v2.0.0), 8 months ago) - A community-driven modular vim/neovim distribution - The ultimate vimrc
-- [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 9 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
+- [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 10 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
 <details><summary>more</summary>
 
 1. [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) ([v2.0.0](https://github.com/SpaceVim/SpaceVim/releases/tag/v2.0.0), 8 months ago) - A community-driven modular vim/neovim distribution - The ultimate vimrc
-1. [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 9 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
+1. [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 10 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
 </details>
 
 #### :speech_balloon: Contact
