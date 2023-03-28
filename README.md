@@ -42,11 +42,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :hammer: Recent Pull Requests
 
+- [feat: in online mode, the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
 - [Vulkan 断言条件修正](https://github.com/BoomingTech/Piccolo/pull/438) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (2 weeks ago)
 - [chore: update README.md](https://github.com/BoomingTech/Piccolo/pull/423) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (2 months ago)
-- [fix: fix a typo](https://github.com/BoomingTech/Piccolo/pull/394) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (4 months ago)
 <details><summary>more</summary>
 
+1. [feat: in online mode, the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
 1. [Vulkan 断言条件修正](https://github.com/BoomingTech/Piccolo/pull/438) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (2 weeks ago)
 1. [chore: update README.md](https://github.com/BoomingTech/Piccolo/pull/423) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (2 months ago)
 1. [fix: fix a typo](https://github.com/BoomingTech/Piccolo/pull/394) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (4 months ago)
@@ -56,7 +57,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [Update Swap in cpp.md](https://github.com/Fechin/reference/pull/257) on [Fechin/reference](https://github.com/Fechin/reference) (7 months ago)
 1. [feat: improve &#39;oo&#39; module](https://github.com/ShenMian/shell/pull/2) on [ShenMian/shell](https://github.com/ShenMian/shell) (7 months ago)
 1. [Refactor build_linux.yml](https://github.com/BoomingTech/Piccolo/pull/316) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (7 months ago)
-1. [Fix conan error](https://github.com/ShenMian/graphics/pull/13) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (7 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
