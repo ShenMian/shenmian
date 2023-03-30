@@ -2,6 +2,8 @@
 
 Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShenMian&theme=dark&show_icons=true" />
+
 #### 🔭 Currently working on
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
