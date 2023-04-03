@@ -2,12 +2,11 @@
 
 Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShenMian&theme=dark&show_icons=true" />
-
 #### 🔭 Currently working on
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
+
 <details><summary>more</summary>
 {{range recentContributions 10}}
 1. [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
@@ -18,6 +17,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 {{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
+
 <details><summary>more</summary>
 {{range recentStars 10}}
 1. [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
@@ -28,6 +28,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 {{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+
 <details><summary>more</summary>
 {{range recentPullRequests 10}}
 1. [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
@@ -38,6 +39,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
+
 <details><summary>more</summary>
 {{range recentReleases 10}}
 1. [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
