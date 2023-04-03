@@ -2,20 +2,19 @@
 
 Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShenMian&theme=dark&show_icons=true" />
-
 #### 🔭 Currently working on
 
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 days ago)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
+
 <details><summary>more</summary>
 
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (4 days ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (4 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (1 week ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 weeks ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 weeks ago)
@@ -28,6 +27,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展  (4 days ago)
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows (4 days ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (5 days ago)
+
 <details><summary>more</summary>
 
 1. [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展  (4 days ago)
@@ -47,6 +47,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 - [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (3 days ago)
 - [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (6 days ago)
 - [Vulkan 断言条件修正](https://github.com/BoomingTech/Piccolo/pull/438) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (3 weeks ago)
+
 <details><summary>more</summary>
 
 1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (3 days ago)
@@ -65,6 +66,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) ([v2.1.0](https://github.com/SpaceVim/SpaceVim/releases/tag/v2.1.0), 4 days ago) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 10 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
+
 <details><summary>more</summary>
 
 1. [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) ([v2.1.0](https://github.com/SpaceVim/SpaceVim/releases/tag/v2.1.0), 4 days ago) - A community-driven modular vim/neovim distribution - The ultimate vimrc
