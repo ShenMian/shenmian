@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [dmadison/ArduinoXInput](https://github.com/dmadison/ArduinoXInput) - XInput library for USB capable Arduino boards (today)
 - [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (today)
 - [multiwii/multiwii-firmware](https://github.com/multiwii/multiwii-firmware) - Firmware - GitHub mirror of the official SVN multiwii project (today)
-- [adafruit/Adafruit_BMP280_Library](https://github.com/adafruit/Adafruit_BMP280_Library) - Arduino Library for BMP280 sensors (1 day ago)
 
 <details><summary>more</summary>
 
+1. [dmadison/ArduinoXInput](https://github.com/dmadison/ArduinoXInput) - XInput library for USB capable Arduino boards (today)
 1. [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (today)
 1. [multiwii/multiwii-firmware](https://github.com/multiwii/multiwii-firmware) - Firmware - GitHub mirror of the official SVN multiwii project (today)
 1. [adafruit/Adafruit_BMP280_Library](https://github.com/adafruit/Adafruit_BMP280_Library) - Arduino Library for BMP280 sensors (1 day ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 week ago)
 1. [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码&#43;教程，基于Alpha-Beta剪枝算法（不是神经网络） (1 week ago)
 1. [lihongxun945/myblog](https://github.com/lihongxun945/myblog) - 言川的博客-前端工程师的笔记 (1 week ago)
-1. [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing&#39;s AI-powered chat (Windows, macOS and Linux) (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
