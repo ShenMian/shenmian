@@ -24,12 +24,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) - This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope. (today)
+- [rfetick/Kalman](https://github.com/rfetick/Kalman) - Implement Kalman filter for your Arduino projects (today)
 - [mikalhart/TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus) - A new, customizable Arduino NMEA parsing library (today)
-- [dmadison/ArduinoXInput](https://github.com/dmadison/ArduinoXInput) - XInput library for USB capable Arduino boards (3 days ago)
-- [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (3 days ago)
 
 <details><summary>more</summary>
 
+1. [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) - This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope. (today)
+1. [rfetick/Kalman](https://github.com/rfetick/Kalman) - Implement Kalman filter for your Arduino projects (today)
 1. [mikalhart/TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus) - A new, customizable Arduino NMEA parsing library (today)
 1. [dmadison/ArduinoXInput](https://github.com/dmadison/ArduinoXInput) - XInput library for USB capable Arduino boards (3 days ago)
 1. [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (3 days ago)
@@ -38,8 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ElectronicCats/mpu6050](https://github.com/ElectronicCats/mpu6050) - MPU6050 Arduino Library (4 days ago)
 1. [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展  (1 week ago)
 1. [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows (1 week ago)
-1. [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 week ago)
-1. [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码&#43;教程，基于Alpha-Beta剪枝算法（不是神经网络） (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
