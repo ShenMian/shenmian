@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [Crazepony/crazepony-firmware-none](https://github.com/Crazepony/crazepony-firmware-none) - Crazepony flight control source code with no RTOS. (today)
 - [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) - This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope. (1 day ago)
 - [rfetick/Kalman](https://github.com/rfetick/Kalman) - Implement Kalman filter for your Arduino projects (1 day ago)
-- [mikalhart/TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus) - A new, customizable Arduino NMEA parsing library (1 day ago)
 
 <details><summary>more</summary>
 
+1. [Crazepony/crazepony-firmware-none](https://github.com/Crazepony/crazepony-firmware-none) - Crazepony flight control source code with no RTOS. (today)
 1. [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) - This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope. (1 day ago)
 1. [rfetick/Kalman](https://github.com/rfetick/Kalman) - Implement Kalman filter for your Arduino projects (1 day ago)
 1. [mikalhart/TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus) - A new, customizable Arduino NMEA parsing library (1 day ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [adafruit/Adafruit_BMP280_Library](https://github.com/adafruit/Adafruit_BMP280_Library) - Arduino Library for BMP280 sensors (5 days ago)
 1. [ElectronicCats/mpu6050](https://github.com/ElectronicCats/mpu6050) - MPU6050 Arduino Library (5 days ago)
 1. [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展  (1 week ago)
-1. [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
