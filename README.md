@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source (today)
 - [cleanflight/cleanflight](https://github.com/cleanflight/cleanflight) - Clean-code version of the baseflight flight controller firmware (1 day ago)
 - [Crazepony/crazepony-firmware-none](https://github.com/Crazepony/crazepony-firmware-none) - Crazepony flight control source code with no RTOS. (1 day ago)
-- [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) - This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope. (2 days ago)
 
 <details><summary>more</summary>
 
+1. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source (today)
 1. [cleanflight/cleanflight](https://github.com/cleanflight/cleanflight) - Clean-code version of the baseflight flight controller firmware (1 day ago)
 1. [Crazepony/crazepony-firmware-none](https://github.com/Crazepony/crazepony-firmware-none) - Crazepony flight control source code with no RTOS. (1 day ago)
 1. [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) - This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope. (2 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (5 days ago)
 1. [multiwii/multiwii-firmware](https://github.com/multiwii/multiwii-firmware) - Firmware - GitHub mirror of the official SVN multiwii project (5 days ago)
 1. [adafruit/Adafruit_BMP280_Library](https://github.com/adafruit/Adafruit_BMP280_Library) - Arduino Library for BMP280 sensors (6 days ago)
-1. [ElectronicCats/mpu6050](https://github.com/ElectronicCats/mpu6050) - MPU6050 Arduino Library (6 days ago)
 </details>
 
 #### :hammer: Recent Pull Requests
