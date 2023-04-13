@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [adafruit/Adafruit_MPU6050](https://github.com/adafruit/Adafruit_MPU6050) -  Arduino library for MPU6050 (today)
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source (1 day ago)
 - [cleanflight/cleanflight](https://github.com/cleanflight/cleanflight) - Clean-code version of the baseflight flight controller firmware (2 days ago)
-- [Crazepony/crazepony-firmware-none](https://github.com/Crazepony/crazepony-firmware-none) - Crazepony flight control source code with no RTOS. (2 days ago)
 
 <details><summary>more</summary>
 
+1. [adafruit/Adafruit_MPU6050](https://github.com/adafruit/Adafruit_MPU6050) -  Arduino library for MPU6050 (today)
 1. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source (1 day ago)
 1. [cleanflight/cleanflight](https://github.com/cleanflight/cleanflight) - Clean-code version of the baseflight flight controller firmware (2 days ago)
 1. [Crazepony/crazepony-firmware-none](https://github.com/Crazepony/crazepony-firmware-none) - Crazepony flight control source code with no RTOS. (2 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [dmadison/ArduinoXInput](https://github.com/dmadison/ArduinoXInput) - XInput library for USB capable Arduino boards (6 days ago)
 1. [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (6 days ago)
 1. [multiwii/multiwii-firmware](https://github.com/multiwii/multiwii-firmware) - Firmware - GitHub mirror of the official SVN multiwii project (6 days ago)
-1. [adafruit/Adafruit_BMP280_Library](https://github.com/adafruit/Adafruit_BMP280_Library) - Arduino Library for BMP280 sensors (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
