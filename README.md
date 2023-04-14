@@ -64,12 +64,10 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :seedling: Latest releases I've contributed to
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) ([v2.1.0](https://github.com/SpaceVim/SpaceVim/releases/tag/v2.1.0), 2 weeks ago) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 10 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
 
 <details><summary>more</summary>
 
-1. [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) ([v2.1.0](https://github.com/SpaceVim/SpaceVim/releases/tag/v2.1.0), 2 weeks ago) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 1. [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 10 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
 </details>
 
