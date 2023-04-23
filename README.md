@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (today)
 - [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag. (2 days ago)
 - [adafruit/Adafruit_MPU6050](https://github.com/adafruit/Adafruit_MPU6050) -  Arduino library for MPU6050 (1 week ago)
-- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source (1 week ago)
 
 <details><summary>more</summary>
 
+1. [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (today)
 1. [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag. (2 days ago)
 1. [adafruit/Adafruit_MPU6050](https://github.com/adafruit/Adafruit_MPU6050) -  Arduino library for MPU6050 (1 week ago)
 1. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source (1 week ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [rfetick/Kalman](https://github.com/rfetick/Kalman) - Implement Kalman filter for your Arduino projects (1 week ago)
 1. [mikalhart/TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus) - A new, customizable Arduino NMEA parsing library (1 week ago)
 1. [dmadison/ArduinoXInput](https://github.com/dmadison/ArduinoXInput) - XInput library for USB capable Arduino boards (2 weeks ago)
-1. [betaflight/betaflight](https://github.com/betaflight/betaflight) - Open Source Flight Controller Firmware (2 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
