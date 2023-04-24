@@ -4,15 +4,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/math](https://github.com/ShenMian/math) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
+- [ShenMian/math](https://github.com/ShenMian/math) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/math](https://github.com/ShenMian/math) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
+1. [ShenMian/math](https://github.com/ShenMian/math) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (3 weeks ago)
@@ -24,22 +24,22 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (today)
-- [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag. (2 days ago)
-- [adafruit/Adafruit_MPU6050](https://github.com/adafruit/Adafruit_MPU6050) -  Arduino library for MPU6050 (1 week ago)
+- [CieNTi/serial_port_plotter](https://github.com/CieNTi/serial_port_plotter) - Displays real time data from serial port (1 day ago)
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (1 day ago)
+- [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag. (3 days ago)
 
 <details><summary>more</summary>
 
-1. [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (today)
-1. [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag. (2 days ago)
+1. [CieNTi/serial_port_plotter](https://github.com/CieNTi/serial_port_plotter) - Displays real time data from serial port (1 day ago)
+1. [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (1 day ago)
+1. [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag. (3 days ago)
 1. [adafruit/Adafruit_MPU6050](https://github.com/adafruit/Adafruit_MPU6050) -  Arduino library for MPU6050 (1 week ago)
 1. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source (1 week ago)
 1. [cleanflight/cleanflight](https://github.com/cleanflight/cleanflight) - Clean-code version of the baseflight flight controller firmware (1 week ago)
 1. [Crazepony/crazepony-firmware-none](https://github.com/Crazepony/crazepony-firmware-none) - Crazepony flight control source code with no RTOS. (1 week ago)
-1. [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) - This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope. (1 week ago)
-1. [rfetick/Kalman](https://github.com/rfetick/Kalman) - Implement Kalman filter for your Arduino projects (1 week ago)
-1. [mikalhart/TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus) - A new, customizable Arduino NMEA parsing library (1 week ago)
-1. [dmadison/ArduinoXInput](https://github.com/dmadison/ArduinoXInput) - XInput library for USB capable Arduino boards (2 weeks ago)
+1. [TKJElectronics/KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) - This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope. (2 weeks ago)
+1. [rfetick/Kalman](https://github.com/rfetick/Kalman) - Implement Kalman filter for your Arduino projects (2 weeks ago)
+1. [mikalhart/TinyGPSPlus](https://github.com/mikalhart/TinyGPSPlus) - A new, customizable Arduino NMEA parsing library (2 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
