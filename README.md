@@ -4,18 +4,18 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
 - [ShenMian/clementine](https://github.com/ShenMian/clementine) (1 day ago)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (4 weeks ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 month ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 month ago)
 1. [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (5 months ago)
