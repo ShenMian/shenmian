@@ -4,13 +4,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (5 days ago)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
-- [ShenMian/clementine](https://github.com/ShenMian/clementine) (6 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (5 days ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (6 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
@@ -19,7 +20,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 month ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 month ago)
 1. [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (5 months ago)
-1. [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (5 months ago)
 </details>
 
 #### :star: Recent Stars
