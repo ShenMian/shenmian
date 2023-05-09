@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (today)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (6 days ago)
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (1 week ago)
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 week ago)
 
 <details><summary>more</summary>
 
+1. [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (today)
 1. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (6 days ago)
 1. [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (1 week ago)
 1. [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 week ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (2 weeks ago)
 1. [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag. (2 weeks ago)
 1. [adafruit/Adafruit_MPU6050](https://github.com/adafruit/Adafruit_MPU6050) -  Arduino library for MPU6050 (3 weeks ago)
-1. [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source (3 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
