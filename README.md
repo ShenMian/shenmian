@@ -4,13 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 - [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 weeks ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
@@ -24,13 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (6 days ago)
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (1 week ago)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (1 week ago)
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (6 days ago)
+1. [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (1 week ago)
 1. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (1 week ago)
 1. [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (2 weeks ago)
 1. [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 weeks ago)
