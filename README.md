@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (today)
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (1 week ago)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (1 week ago)
-- [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (2 weeks ago)
 
 <details><summary>more</summary>
 
+1. [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (today)
 1. [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (1 week ago)
 1. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (1 week ago)
 1. [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (2 weeks ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [CieNTi/serial_port_plotter](https://github.com/CieNTi/serial_port_plotter) - Displays real time data from serial port (3 weeks ago)
 1. [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (3 weeks ago)
 1. [bitcraze/crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) - The main firmware for the Crazyflie Nano Quadcopter, Crazyflie Bolt Quadcopter and Roadrunner Positioning Tag. (3 weeks ago)
-1. [adafruit/Adafruit_MPU6050](https://github.com/adafruit/Adafruit_MPU6050) -  Arduino library for MPU6050 (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
