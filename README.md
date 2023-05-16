@@ -6,14 +6,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
-- [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 weeks ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
 
 <details><summary>more</summary>
 
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
-1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 weeks ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
+1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (3 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
