@@ -24,17 +24,17 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (3 days ago)
+- [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (4 days ago)
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (1 week ago)
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (3 days ago)
+1. [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (4 days ago)
 1. [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (1 week ago)
 1. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (2 weeks ago)
 1. [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (2 weeks ago)
-1. [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 weeks ago)
+1. [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (3 weeks ago)
 1. [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding. (3 weeks ago)
 1. [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范 (3 weeks ago)
 1. [CieNTi/serial_port_plotter](https://github.com/CieNTi/serial_port_plotter) - Displays real time data from serial port (3 weeks ago)
