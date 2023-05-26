@@ -4,14 +4,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 weeks ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 weeks ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (3 weeks ago)
@@ -65,12 +65,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 #### :seedling: Latest releases I've contributed to
 
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 4 weeks ago) - A simple gomoku.
-- [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 11 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
+- [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 1 year ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
 
 <details><summary>more</summary>
 
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 4 weeks ago) - A simple gomoku.
-1. [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 11 months ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
+1. [JingYiJun/sfSnakePro](https://github.com/JingYiJun/sfSnakePro) ([Release_v1.1](https://github.com/JingYiJun/sfSnakePro/releases/tag/Release_v1.1), 1 year ago) - 基于SFML图形库的贪吃蛇小游戏，2022年春季复旦大学面向对象程序设计课程大作业（个人作业版本）
 </details>
 
 #### :speech_balloon: Contact
