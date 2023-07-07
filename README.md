@@ -5,14 +5,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 #### 🔭 Currently working on
 
 - [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 days ago)
 
 <details><summary>more</summary>
 
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 days ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (6 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (2 weeks ago)
