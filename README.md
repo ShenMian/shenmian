@@ -4,19 +4,19 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 days ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 days ago)
-1. [ShenMian/math](https://github.com/ShenMian/math) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 days ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 days ago)
+1. [ShenMian/math](https://github.com/ShenMian/math) (3 days ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 weeks ago)
-1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (4 weeks ago)
+1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 month ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 months ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 months ago)
 1. [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (7 months ago)
@@ -24,14 +24,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 (today)
-- [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client (2 days ago)
+- [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 (1 day ago)
+- [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client (3 days ago)
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). (1 week ago)
 
 <details><summary>more</summary>
 
-1. [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 (today)
-1. [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client (2 days ago)
+1. [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 (1 day ago)
+1. [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client (3 days ago)
 1. [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). (1 week ago)
 1. [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (2 months ago)
 1. [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (2 months ago)
