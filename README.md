@@ -24,14 +24,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 (3 days ago)
-- [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client (5 days ago)
 - [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). (2 weeks ago)
+- [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (2 months ago)
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (2 months ago)
 
 <details><summary>more</summary>
 
-1. [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 (3 days ago)
-1. [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client (5 days ago)
 1. [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). (2 weeks ago)
 1. [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (2 months ago)
 1. [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (2 months ago)
@@ -40,6 +38,8 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 months ago)
 1. [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding. (2 months ago)
 1. [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范 (2 months ago)
+1. [CieNTi/serial_port_plotter](https://github.com/CieNTi/serial_port_plotter) - Displays real time data from serial port (3 months ago)
+1. [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (3 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
