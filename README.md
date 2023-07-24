@@ -4,18 +4,18 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
+- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 
 <details><summary>more</summary>
 
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (6 days ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (6 days ago)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 weeks ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 month ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 months ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 months ago)
