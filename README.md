@@ -4,17 +4,17 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 - [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 day ago)
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 
 <details><summary>more</summary>
 
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 day ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (1 week ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 month ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 months ago)
@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (today)
 - [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (1 day ago)
 - [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (1 day ago)
-- [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows) - Kiwix JS Offline Browser for Windows and Linux, packaged as PWA, Electron, NWJS and UWP (2 days ago)
 
 <details><summary>more</summary>
 
+1. [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (today)
 1. [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (1 day ago)
 1. [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (1 day ago)
 1. [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows) - Kiwix JS Offline Browser for Windows and Linux, packaged as PWA, Electron, NWJS and UWP (2 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (2 months ago)
 1. [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (2 months ago)
 1. [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 months ago)
-1. [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding. (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
