@@ -4,18 +4,18 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
+- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 day ago)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
-1. [ShenMian/math](https://github.com/ShenMian/math) (6 days ago)
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 day ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+1. [ShenMian/math](https://github.com/ShenMian/math) (1 week ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 month ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 months ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 months ago)
@@ -24,15 +24,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (today)
-- [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (today)
-- [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows) - Kiwix JS Offline Browser for Windows and Linux, packaged as PWA, Electron, NWJS and UWP (1 day ago)
+- [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (1 day ago)
+- [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (1 day ago)
+- [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows) - Kiwix JS Offline Browser for Windows and Linux, packaged as PWA, Electron, NWJS and UWP (2 days ago)
 
 <details><summary>more</summary>
 
-1. [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (today)
-1. [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (today)
-1. [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows) - Kiwix JS Offline Browser for Windows and Linux, packaged as PWA, Electron, NWJS and UWP (1 day ago)
+1. [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (1 day ago)
+1. [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (1 day ago)
+1. [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows) - Kiwix JS Offline Browser for Windows and Linux, packaged as PWA, Electron, NWJS and UWP (2 days ago)
 1. [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). (2 weeks ago)
 1. [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (2 months ago)
 1. [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (2 months ago)
