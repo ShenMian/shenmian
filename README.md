@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust (today)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (today)
 - [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (1 day ago)
-- [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (1 day ago)
 
 <details><summary>more</summary>
 
+1. [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust (today)
 1. [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (today)
 1. [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (1 day ago)
 1. [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (1 day ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (2 months ago)
 1. [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。 (2 months ago)
 1. [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (2 months ago)
-1. [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
