@@ -5,16 +5,16 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 #### 🔭 Currently working on
 
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 days ago)
 
 <details><summary>more</summary>
 
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 days ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 days ago)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 days ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 days ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 days ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (1 week ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 month ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (2 months ago)
@@ -24,17 +24,17 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust (1 day ago)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 day ago)
-- [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (2 days ago)
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust (2 days ago)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 days ago)
+- [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (3 days ago)
 
 <details><summary>more</summary>
 
-1. [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust (1 day ago)
-1. [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 day ago)
-1. [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (2 days ago)
-1. [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (2 days ago)
-1. [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows) - Kiwix JS Offline Browser for Windows and Linux, packaged as PWA, Electron, NWJS and UWP (3 days ago)
+1. [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust (2 days ago)
+1. [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 days ago)
+1. [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (3 days ago)
+1. [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (3 days ago)
+1. [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows) - Kiwix JS Offline Browser for Windows and Linux, packaged as PWA, Electron, NWJS and UWP (4 days ago)
 1. [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). (2 weeks ago)
 1. [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (2 months ago)
 1. [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (2 months ago)
@@ -44,13 +44,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :hammer: Recent Pull Requests
 
-- [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 month ago)
+- [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 months ago)
 - [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (3 months ago)
 - [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 months ago)
 
 <details><summary>more</summary>
 
-1. [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 month ago)
+1. [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 months ago)
 1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (3 months ago)
 1. [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 months ago)
 1. [Vulkan 断言条件修正](https://github.com/BoomingTech/Piccolo/pull/438) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (4 months ago)
