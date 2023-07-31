@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (today)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (1 day ago)
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (4 days ago)
-- [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin (4 days ago)
 
 <details><summary>more</summary>
 
+1. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (today)
 1. [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (1 day ago)
 1. [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! (4 days ago)
 1. [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin (4 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [oktal/result](https://github.com/oktal/result) - My implementation of a C&#43;&#43; Result&lt;T, E&gt; type inspired by Rust (1 week ago)
 1. [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows) - Kiwix JS Offline Browser for Windows and Linux, packaged as PWA, Electron, NWJS and UWP (1 week ago)
 1. [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). (3 weeks ago)
-1. [chunqiuyiyu/bing-chat-prompt-keywords](https://github.com/chunqiuyiyu/bing-chat-prompt-keywords) - Use specific keywords to chat with Bing AI more effectively. (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
