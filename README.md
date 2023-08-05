@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers! (today)
 - [skywind3000/RenderHelp](https://github.com/skywind3000/RenderHelp) - :zap: 可编程渲染管线实现，帮助初学者学习渲染  (today)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (4 days ago)
-- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (5 days ago)
 
 <details><summary>more</summary>
 
+1. [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers! (today)
 1. [skywind3000/RenderHelp](https://github.com/skywind3000/RenderHelp) - :zap: 可编程渲染管线实现，帮助初学者学习渲染  (today)
 1. [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (4 days ago)
 1. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester&#39;s companion. It&#39;s a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. (5 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust (1 week ago)
 1. [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
 1. [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (1 week ago)
-1. [kiwix/kiwix-js-windows](https://github.com/kiwix/kiwix-js-windows) - Kiwix JS Offline Browser for Windows and Linux, packaged as PWA, Electron, NWJS and UWP (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
