@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (today)
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers! (1 day ago)
 - [skywind3000/RenderHelp](https://github.com/skywind3000/RenderHelp) - :zap: 可编程渲染管线实现，帮助初学者学习渲染  (1 day ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (5 days ago)
 
 <details><summary>more</summary>
 
+1. [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (today)
 1. [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers! (1 day ago)
 1. [skywind3000/RenderHelp](https://github.com/skywind3000/RenderHelp) - :zap: 可编程渲染管线实现，帮助初学者学习渲染  (1 day ago)
 1. [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (5 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin (1 week ago)
 1. [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust (1 week ago)
 1. [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
-1. [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
