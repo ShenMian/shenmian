@@ -35,7 +35,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (4 days ago)
 1. [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads (1 week ago)
 1. [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs (1 week ago)
-1. [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more (2 weeks ago)
+1. [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more (2 weeks ago)
 1. [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 (2 weeks ago)
 1. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (2 weeks ago)
 1. [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库 (2 weeks ago)
