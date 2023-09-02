@@ -4,14 +4,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 month ago)
@@ -24,13 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (5 days ago)
+- [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (6 days ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (1 week ago)
 - [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (1 week ago)
 
 <details><summary>more</summary>
 
-1. [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (5 days ago)
+1. [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (6 days ago)
 1. [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (1 week ago)
 1. [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (1 week ago)
 1. [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads (2 weeks ago)
