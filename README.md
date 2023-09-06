@@ -4,12 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
+- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 - [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 
 <details><summary>more</summary>
 
+1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
@@ -19,7 +20,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (2 months ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (4 months ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (5 months ago)
-1. [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (9 months ago)
 </details>
 
 #### :star: Recent Stars
