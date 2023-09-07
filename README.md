@@ -4,35 +4,35 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
+- [ShenMian/bucket](https://github.com/ShenMian/bucket) (today)
+- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
+1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (today)
+1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 month ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (1 month ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (2 months ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (4 months ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (5 months ago)
 </details>
 
 #### :star: Recent Stars
 
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (1 week ago)
-- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (1 week ago)
-- [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (1 week ago)
+- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (2 weeks ago)
+- [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (2 weeks ago)
 
 <details><summary>more</summary>
 
 1. [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (1 week ago)
-1. [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (1 week ago)
-1. [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (1 week ago)
+1. [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (2 weeks ago)
+1. [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (2 weeks ago)
 1. [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads (3 weeks ago)
 1. [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs (3 weeks ago)
 1. [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more (3 weeks ago)
