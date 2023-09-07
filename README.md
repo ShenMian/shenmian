@@ -4,19 +4,19 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 - [ShenMian/bucket](https://github.com/ShenMian/bucket) (today)
 - [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
 <details><summary>more</summary>
 
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (today)
 1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 month ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (1 month ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (2 months ago)
 1. [ShenMian/clementine](https://github.com/ShenMian/clementine) (4 months ago)
@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (today)
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (1 week ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (2 weeks ago)
-- [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (2 weeks ago)
 
 <details><summary>more</summary>
 
+1. [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (today)
 1. [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (1 week ago)
 1. [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (2 weeks ago)
 1. [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (2 weeks ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 (3 weeks ago)
 1. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (3 weeks ago)
 1. [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库 (3 weeks ago)
-1. [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
