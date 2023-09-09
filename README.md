@@ -4,17 +4,17 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (today)
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
+- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
+- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (today)
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
-1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 day ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 days ago)
+1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (1 month ago)
@@ -24,13 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (1 day ago)
+- [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (2 days ago)
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (1 week ago)
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (1 day ago)
+1. [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (2 days ago)
 1. [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (1 week ago)
 1. [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (2 weeks ago)
 1. [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (2 weeks ago)
