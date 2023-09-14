@@ -4,13 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 - [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (6 days ago)
 - [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (6 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (6 days ago)
 1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (6 days ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 week ago)
