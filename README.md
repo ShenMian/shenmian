@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (today)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (6 days ago)
-- [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (1 week ago)
 
 <details><summary>more</summary>
 
+1. [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (today)
 1. [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
 1. [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (6 days ago)
 1. [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (1 week ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads (1 month ago)
 1. [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs (1 month ago)
 1. [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more (1 month ago)
-1. [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
