@@ -4,15 +4,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (6 days ago)
-- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (6 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 week ago)
+- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 week ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (6 days ago)
-1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (6 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 week ago)
+1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 week ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 week ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
@@ -24,20 +24,20 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (today)
-- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (5 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (6 days ago)
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (1 week ago)
 
 <details><summary>more</summary>
 
-1. [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (today)
-1. [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (5 days ago)
+1. [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
+1. [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (6 days ago)
 1. [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (1 week ago)
 1. [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (2 weeks ago)
 1. [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (3 weeks ago)
 1. [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (3 weeks ago)
-1. [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads (4 weeks ago)
-1. [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs (4 weeks ago)
+1. [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads (1 month ago)
+1. [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs (1 month ago)
 1. [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more (1 month ago)
 1. [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 (1 month ago)
 </details>
