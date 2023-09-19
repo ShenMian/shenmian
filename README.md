@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform (today)
 - [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine (1 day ago)
 - [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (4 days ago)
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (5 days ago)
 
 <details><summary>more</summary>
 
+1. [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform (today)
 1. [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine (1 day ago)
 1. [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (4 days ago)
 1. [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (5 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (3 weeks ago)
 1. [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (3 weeks ago)
 1. [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads (1 month ago)
-1. [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
