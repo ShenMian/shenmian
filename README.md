@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [leech001/MPU6050](https://github.com/leech001/MPU6050) - STM32 HAL library for GY-521 (MPU6050) with Kalman filter (today)
 - [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform (5 days ago)
 - [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine (6 days ago)
-- [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (1 week ago)
 
 <details><summary>more</summary>
 
+1. [leech001/MPU6050](https://github.com/leech001/MPU6050) - STM32 HAL library for GY-521 (MPU6050) with Kalman filter (today)
 1. [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform (5 days ago)
 1. [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine (6 days ago)
 1. [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (1 week ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (4 weeks ago)
 1. [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (1 month ago)
 1. [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (1 month ago)
-1. [rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads) - Unified repository for different Metasploit Framework payloads (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
