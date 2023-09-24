@@ -24,12 +24,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (today)
+- [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (today)
 - [leech001/MPU6050](https://github.com/leech001/MPU6050) - STM32 HAL library for GY-521 (MPU6050) with Kalman filter (today)
-- [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform (5 days ago)
-- [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine (6 days ago)
 
 <details><summary>more</summary>
 
+1. [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (today)
+1. [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (today)
 1. [leech001/MPU6050](https://github.com/leech001/MPU6050) - STM32 HAL library for GY-521 (MPU6050) with Kalman filter (today)
 1. [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform (5 days ago)
 1. [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine (6 days ago)
@@ -38,8 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (2 weeks ago)
 1. [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (2 weeks ago)
 1. [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (4 weeks ago)
-1. [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async. (1 month ago)
-1. [peterkrull/quad](https://github.com/peterkrull/quad) - Firmware, hardware and documentation for my autonomous quad copter project (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
