@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (today)
 - [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (2 days ago)
 - [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (2 days ago)
-- [leech001/MPU6050](https://github.com/leech001/MPU6050) - STM32 HAL library for GY-521 (MPU6050) with Kalman filter (2 days ago)
 
 <details><summary>more</summary>
 
+1. [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (today)
 1. [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (2 days ago)
 1. [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (2 days ago)
 1. [leech001/MPU6050](https://github.com/leech001/MPU6050) - STM32 HAL library for GY-521 (MPU6050) with Kalman filter (2 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 1. [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (2 weeks ago)
 1. [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (2 weeks ago)
-1. [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
