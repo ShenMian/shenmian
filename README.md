@@ -4,15 +4,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (2 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
+- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (3 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (2 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
+1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 week ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 weeks ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (2 weeks ago)
@@ -24,16 +24,16 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (today)
-- [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (2 days ago)
-- [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (2 days ago)
+- [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (1 day ago)
+- [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (3 days ago)
+- [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (3 days ago)
 
 <details><summary>more</summary>
 
-1. [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (today)
-1. [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (2 days ago)
-1. [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (2 days ago)
-1. [leech001/MPU6050](https://github.com/leech001/MPU6050) - STM32 HAL library for GY-521 (MPU6050) with Kalman filter (2 days ago)
+1. [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (1 day ago)
+1. [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (3 days ago)
+1. [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (3 days ago)
+1. [leech001/MPU6050](https://github.com/leech001/MPU6050) - STM32 HAL library for GY-521 (MPU6050) with Kalman filter (3 days ago)
 1. [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform (1 week ago)
 1. [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine (1 week ago)
 1. [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (1 week ago)
@@ -45,13 +45,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 #### :hammer: Recent Pull Requests
 
 - [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (4 months ago)
-- [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (5 months ago)
+- [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (6 months ago)
 - [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (6 months ago)
 
 <details><summary>more</summary>
 
 1. [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (4 months ago)
-1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (5 months ago)
+1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (6 months ago)
 1. [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (6 months ago)
 1. [Vulkan 断言条件修正](https://github.com/BoomingTech/Piccolo/pull/438) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (6 months ago)
 1. [chore: update README.md](https://github.com/BoomingTech/Piccolo/pull/423) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (8 months ago)
