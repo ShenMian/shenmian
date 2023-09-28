@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (today)
 - [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (2 days ago)
 - [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (4 days ago)
-- [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (4 days ago)
 
 <details><summary>more</summary>
 
+1. [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (today)
 1. [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (2 days ago)
 1. [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (4 days ago)
 1. [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (4 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (1 week ago)
 1. [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 weeks ago)
 1. [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (2 weeks ago)
-1. [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder: (3 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
