@@ -24,14 +24,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (today)
 - [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (today)
-- [TomasVanRoose/RF24-rs](https://github.com/TomasVanRoose/RF24-rs) - Platform agnostic Rust driver for the nRF24L01 2.4 GHz transciever for wireless communication between embedded devices. (today)
 - [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (3 days ago)
 
 <details><summary>more</summary>
 
+1. [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (today)
 1. [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (today)
-1. [TomasVanRoose/RF24-rs](https://github.com/TomasVanRoose/RF24-rs) - Platform agnostic Rust driver for the nRF24L01 2.4 GHz transciever for wireless communication between embedded devices. (today)
 1. [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (3 days ago)
 1. [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (5 days ago)
 1. [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (1 week ago)
