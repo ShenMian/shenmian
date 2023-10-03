@@ -4,12 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
+- [ShenMian/controller](https://github.com/ShenMian/controller) (today)
 - [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
 - [ShenMian/nrf24l01p](https://github.com/ShenMian/nrf24l01p) (2 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 
 <details><summary>more</summary>
 
+1. [ShenMian/controller](https://github.com/ShenMian/controller) (today)
 1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
 1. [ShenMian/nrf24l01p](https://github.com/ShenMian/nrf24l01p) (2 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
@@ -19,7 +20,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 months ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (2 months ago)
-1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (3 months ago)
 </details>
 
 #### :star: Recent Stars
