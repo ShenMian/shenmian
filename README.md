@@ -5,16 +5,16 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 #### 🔭 Currently working on
 
 - [ShenMian/controller](https://github.com/ShenMian/controller) (today)
-- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
-- [ShenMian/nrf24l01p](https://github.com/ShenMian/nrf24l01p) (2 days ago)
+- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (2 days ago)
+- [ShenMian/nrf24l01p](https://github.com/ShenMian/nrf24l01p) (3 days ago)
 
 <details><summary>more</summary>
 
 1. [ShenMian/controller](https://github.com/ShenMian/controller) (today)
-1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
-1. [ShenMian/nrf24l01p](https://github.com/ShenMian/nrf24l01p) (2 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
+1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (2 days ago)
+1. [ShenMian/nrf24l01p](https://github.com/ShenMian/nrf24l01p) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 weeks ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 weeks ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 weeks ago)
@@ -24,15 +24,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (2 days ago)
-- [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (2 days ago)
-- [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (5 days ago)
+- [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (3 days ago)
+- [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (3 days ago)
+- [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (6 days ago)
 
 <details><summary>more</summary>
 
-1. [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (2 days ago)
-1. [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (2 days ago)
-1. [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (5 days ago)
+1. [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (3 days ago)
+1. [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (3 days ago)
+1. [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (6 days ago)
 1. [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (1 week ago)
 1. [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (1 week ago)
 1. [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (1 week ago)
