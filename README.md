@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (today)
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (4 days ago)
 - [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (4 days ago)
-- [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (1 week ago)
 
 <details><summary>more</summary>
 
+1. [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (today)
 1. [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (4 days ago)
 1. [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (4 days ago)
 1. [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (1 week ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [leech001/MPU6050](https://github.com/leech001/MPU6050) - STM32 HAL library for GY-521 (MPU6050) with Kalman filter (1 week ago)
 1. [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform (2 weeks ago)
 1. [thephet/BevyRoguelike](https://github.com/thephet/BevyRoguelike) - Roguelike game using Rust and the Bevy engine (2 weeks ago)
-1. [nrc/r4cppp](https://github.com/nrc/r4cppp) - Rust for C&#43;&#43; programmers (2 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
