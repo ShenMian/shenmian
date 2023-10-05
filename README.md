@@ -4,14 +4,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/controller](https://github.com/ShenMian/controller) (1 day ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 
 <details><summary>more</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/controller](https://github.com/ShenMian/controller) (1 day ago)
 1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (3 days ago)
 1. [ShenMian/nrf24l01p](https://github.com/ShenMian/nrf24l01p) (4 days ago)
@@ -19,7 +20,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 weeks ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (4 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 months ago)
-1. [ShenMian/math](https://github.com/ShenMian/math) (2 months ago)
 </details>
 
 #### :star: Recent Stars
@@ -64,10 +64,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :seedling: Latest releases I've contributed to
 
+- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.2](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.2), 6 days ago) - SSD1306 OLED driver
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 5 months ago) - A simple gomoku.
 
 <details><summary>more</summary>
 
+1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.2](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.2), 6 days ago) - SSD1306 OLED driver
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 5 months ago) - A simple gomoku.
 </details>
 
