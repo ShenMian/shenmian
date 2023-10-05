@@ -44,12 +44,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :hammer: Recent Pull Requests
 
+- [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (today)
 - [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (1 day ago)
 - [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (4 months ago)
-- [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (6 months ago)
 
 <details><summary>more</summary>
 
+1. [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (today)
 1. [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (1 day ago)
 1. [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (4 months ago)
 1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (6 months ago)
@@ -59,7 +60,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [fix: fix a typo](https://github.com/BoomingTech/Piccolo/pull/394) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (10 months ago)
 1. [[vim/en] Update vim.html.markdown](https://github.com/adambard/learnxinyminutes-docs/pull/4538) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (10 months ago)
 1. [Support OpenGL DSA](https://github.com/ShenMian/graphics/pull/14) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 year ago)
-1. [Use std::array instead of C-style array](https://github.com/Fechin/reference/pull/258) on [Fechin/reference](https://github.com/Fechin/reference) (1 year ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
