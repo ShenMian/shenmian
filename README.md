@@ -4,17 +4,17 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 - [ShenMian/controller](https://github.com/ShenMian/controller) (1 day ago)
-- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (3 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/controller](https://github.com/ShenMian/controller) (1 day ago)
 1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (3 days ago)
 1. [ShenMian/nrf24l01p](https://github.com/ShenMian/nrf24l01p) (4 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 weeks ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (3 weeks ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (4 weeks ago)
