@@ -33,7 +33,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (1 day ago)
 1. [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (5 days ago)
 1. [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (5 days ago)
-1. [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (1 week ago)
+1. [cmsis-svd/cmsis-svd](https://github.com/cmsis-svd/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (1 week ago)
 1. [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (1 week ago)
 1. [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (1 week ago)
 1. [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (1 week ago)
