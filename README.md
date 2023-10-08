@@ -4,13 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/controller](https://github.com/ShenMian/controller) (1 day ago)
+- [ShenMian/controller](https://github.com/ShenMian/controller) (today)
 - [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (3 days ago)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/controller](https://github.com/ShenMian/controller) (1 day ago)
+1. [ShenMian/controller](https://github.com/ShenMian/controller) (today)
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (3 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
