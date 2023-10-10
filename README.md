@@ -4,22 +4,22 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/controller](https://github.com/ShenMian/controller) (2 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
 - [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (5 days ago)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/controller](https://github.com/ShenMian/controller) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (5 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
 1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 week ago)
 1. [ShenMian/nrf24l01p](https://github.com/ShenMian/nrf24l01p) (1 week ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 weeks ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 month ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 month ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 months ago)
+1. [ShenMian/math](https://github.com/ShenMian/math) (2 months ago)
 </details>
 
 #### :star: Recent Stars
