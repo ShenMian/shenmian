@@ -4,15 +4,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
-- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (5 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
+- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (6 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
-1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (5 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
+1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (6 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 week ago)
 1. [ShenMian/nrf24l01p](https://github.com/ShenMian/nrf24l01p) (1 week ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 weeks ago)
@@ -24,13 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (5 days ago)
+- [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (6 days ago)
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (1 week ago)
 - [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (1 week ago)
 
 <details><summary>more</summary>
 
-1. [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (5 days ago)
+1. [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (6 days ago)
 1. [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (1 week ago)
 1. [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (1 week ago)
 1. [cmsis-svd/cmsis-svd](https://github.com/cmsis-svd/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (1 week ago)
@@ -44,14 +44,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :hammer: Recent Pull Requests
 
-- [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (5 days ago)
-- [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (6 days ago)
+- [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (6 days ago)
+- [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (1 week ago)
 - [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (4 months ago)
 
 <details><summary>more</summary>
 
-1. [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (5 days ago)
-1. [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (6 days ago)
+1. [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (6 days ago)
+1. [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (1 week ago)
 1. [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (4 months ago)
 1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (6 months ago)
 1. [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (6 months ago)
@@ -64,12 +64,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :seedling: Latest releases I've contributed to
 
-- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 1 day ago) - SSD1306 OLED driver
+- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 2 days ago) - SSD1306 OLED driver
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 5 months ago) - A simple gomoku.
 
 <details><summary>more</summary>
 
-1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 1 day ago) - SSD1306 OLED driver
+1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 2 days ago) - SSD1306 OLED driver
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 5 months ago) - A simple gomoku.
 </details>
 
