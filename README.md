@@ -4,13 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (today)
+- [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 - [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (1 week ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (today)
+1. [ShenMian/quadcopter](https://github.com/ShenMian/quadcopter) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
@@ -64,12 +64,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :seedling: Latest releases I've contributed to
 
-- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 3 days ago) - SSD1306 OLED driver
+- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 4 days ago) - SSD1306 OLED driver
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 5 months ago) - A simple gomoku.
 
 <details><summary>more</summary>
 
-1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 3 days ago) - SSD1306 OLED driver
+1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 4 days ago) - SSD1306 OLED driver
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 5 months ago) - A simple gomoku.
 </details>
 
