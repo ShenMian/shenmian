@@ -24,13 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (today)
+- [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (1 day ago)
 - [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) - Yet Another Kalman Filter Implementation.  As well as Lie Theory (Lie group and algebra) on SE(3).  [no_std] is supported by default. (1 week ago)
 - [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (today)
+1. [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (1 day ago)
 1. [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) - Yet Another Kalman Filter Implementation.  As well as Lie Theory (Lie group and algebra) on SE(3).  [no_std] is supported by default. (1 week ago)
 1. [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (2 weeks ago)
 1. [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (3 weeks ago)
@@ -64,12 +64,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :seedling: Latest releases I've contributed to
 
-- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 1 week ago) - SSD1306 OLED driver
+- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 2 weeks ago) - SSD1306 OLED driver
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 5 months ago) - A simple gomoku.
 
 <details><summary>more</summary>
 
-1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 1 week ago) - SSD1306 OLED driver
+1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.3](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.3), 2 weeks ago) - SSD1306 OLED driver
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 5 months ago) - A simple gomoku.
 </details>
 
