@@ -4,14 +4,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 days ago)
-- [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 week ago)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (4 days ago)
+- [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (2 weeks ago)
 - [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 days ago)
-1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 week ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (4 days ago)
+1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (2 weeks ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 weeks ago)
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (3 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
@@ -24,19 +24,19 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (4 days ago)
-- [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (5 days ago)
-- [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) - Yet Another Kalman Filter Implementation.  As well as Lie Theory (Lie group and algebra) on SE(3).  [no_std] is supported by default. (1 week ago)
+- [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (5 days ago)
+- [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (6 days ago)
+- [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) - Yet Another Kalman Filter Implementation.  As well as Lie Theory (Lie group and algebra) on SE(3).  [no_std] is supported by default. (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (4 days ago)
-1. [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (5 days ago)
-1. [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) - Yet Another Kalman Filter Implementation.  As well as Lie Theory (Lie group and algebra) on SE(3).  [no_std] is supported by default. (1 week ago)
+1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (5 days ago)
+1. [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (6 days ago)
+1. [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) - Yet Another Kalman Filter Implementation.  As well as Lie Theory (Lie group and algebra) on SE(3).  [no_std] is supported by default. (2 weeks ago)
 1. [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (3 weeks ago)
 1. [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (3 weeks ago)
 1. [astro/embedded-nrf24l01](https://github.com/astro/embedded-nrf24l01) - A pure Rust driver for NRF24L01(&#43;) transceivers on embedded-hal platforms (3 weeks ago)
-1. [cmsis-svd/cmsis-svd](https://github.com/cmsis-svd/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (4 weeks ago)
+1. [cmsis-svd/cmsis-svd](https://github.com/cmsis-svd/cmsis-svd) - Aggegration of ARM Cortex-M (and other) CMSIS SVDs and related tools (1 month ago)
 1. [stm32-rs/stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - A Rust embedded-hal HAL for all MCUs in the STM32 F4 family (1 month ago)
 1. [elmot/nrf24l01-lib](https://github.com/elmot/nrf24l01-lib) - Library for NRF24L01 &#43; Demo projects for STM32 NUCLEO boards. (1 month ago)
 1. [ciastkolog/BMP280_STM32](https://github.com/ciastkolog/BMP280_STM32) - BMP280 / BME280 driver STM32 HAL I2C (1 month ago)
@@ -64,12 +64,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :seedling: Latest releases I've contributed to
 
-- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), today) - SSD1306 OLED driver
+- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 1 day ago) - SSD1306 OLED driver
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 6 months ago) - A simple gomoku.
 
 <details><summary>more</summary>
 
-1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), today) - SSD1306 OLED driver
+1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 1 day ago) - SSD1306 OLED driver
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 6 months ago) - A simple gomoku.
 </details>
 
