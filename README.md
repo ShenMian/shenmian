@@ -4,17 +4,17 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 week ago)
 - [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (2 weeks ago)
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 weeks ago)
 
 <details><summary>more</summary>
 
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 week ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (2 weeks ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 weeks ago)
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (3 weeks ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 weeks ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 month ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 months ago)
