@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (today)
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (2 days ago)
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (2 days ago)
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (2 days ago)
 
 <details><summary>more</summary>
 
+1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (today)
 1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (2 days ago)
 1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (2 days ago)
 1. [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (2 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (3 weeks ago)
 1. [wangxiaochuTHU/yakf](https://github.com/wangxiaochuTHU/yakf) - Yet Another Kalman Filter Implementation.  As well as Lie Theory (Lie group and algebra) on SE(3).  [no_std] is supported by default. (4 weeks ago)
 1. [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 (1 month ago)
-1. [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust. (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
