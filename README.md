@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (today)
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 day ago)
 - [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (1 day ago)
-- [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (2 days ago)
 
 <details><summary>more</summary>
 
+1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (today)
 1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 day ago)
 1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (1 day ago)
 1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (2 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [haubek/bootstrap4c-chosen](https://github.com/haubek/bootstrap4c-chosen) - Bootstrap 4 Component - Chosen (4 days ago)
 1. [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap. (4 days ago)
 1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (3 weeks ago)
-1. [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (3 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
