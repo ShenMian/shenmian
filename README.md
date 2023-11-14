@@ -6,13 +6,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 week ago)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
 
 <details><summary>more</summary>
 
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 month ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 month ago)
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (1 month ago)
@@ -24,20 +24,20 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (today)
-- [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (today)
-- [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (1 day ago)
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 day ago)
+- [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (1 day ago)
+- [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (2 days ago)
 
 <details><summary>more</summary>
 
-1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (today)
-1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (today)
-1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (1 day ago)
-1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (3 days ago)
-1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (3 days ago)
-1. [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (3 days ago)
-1. [haubek/bootstrap4c-chosen](https://github.com/haubek/bootstrap4c-chosen) - Bootstrap 4 Component - Chosen (3 days ago)
-1. [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap. (3 days ago)
+1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 day ago)
+1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (1 day ago)
+1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (2 days ago)
+1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (4 days ago)
+1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (4 days ago)
+1. [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (4 days ago)
+1. [haubek/bootstrap4c-chosen](https://github.com/haubek/bootstrap4c-chosen) - Bootstrap 4 Component - Chosen (4 days ago)
+1. [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap. (4 days ago)
 1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (3 weeks ago)
 1. [fralken/ray-tracing-in-one-weekend](https://github.com/fralken/ray-tracing-in-one-weekend) - Rust implementation of Peter Shirley&#39;s &#34;Ray Tracing in One Weekend&#34; (3 weeks ago)
 </details>
