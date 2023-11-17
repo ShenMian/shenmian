@@ -24,21 +24,21 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (2 days ago)
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (3 days ago)
-- [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (3 days ago)
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (3 days ago)
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (4 days ago)
+- [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (4 days ago)
 
 <details><summary>more</summary>
 
-1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (2 days ago)
-1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (3 days ago)
-1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (3 days ago)
-1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (4 days ago)
-1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (6 days ago)
-1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (6 days ago)
-1. [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (6 days ago)
-1. [haubek/bootstrap4c-chosen](https://github.com/haubek/bootstrap4c-chosen) - Bootstrap 4 Component - Chosen (6 days ago)
-1. [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap. (6 days ago)
+1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (3 days ago)
+1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (4 days ago)
+1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (4 days ago)
+1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (5 days ago)
+1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (1 week ago)
+1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (1 week ago)
+1. [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (1 week ago)
+1. [haubek/bootstrap4c-chosen](https://github.com/haubek/bootstrap4c-chosen) - Bootstrap 4 Component - Chosen (1 week ago)
+1. [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap. (1 week ago)
 1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (3 weeks ago)
 </details>
 
@@ -57,19 +57,19 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (7 months ago)
 1. [Vulkan 断言条件修正](https://github.com/BoomingTech/Piccolo/pull/438) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (8 months ago)
 1. [chore: update README.md](https://github.com/BoomingTech/Piccolo/pull/423) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (10 months ago)
-1. [fix: fix a typo](https://github.com/BoomingTech/Piccolo/pull/394) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (11 months ago)
+1. [fix: fix a typo](https://github.com/BoomingTech/Piccolo/pull/394) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 year ago)
 1. [[vim/en] Update vim.html.markdown](https://github.com/adambard/learnxinyminutes-docs/pull/4538) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (1 year ago)
 1. [Support OpenGL DSA](https://github.com/ShenMian/graphics/pull/14) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 year ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
 
-- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 2 weeks ago) - SSD1306 OLED driver
+- [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 3 weeks ago) - SSD1306 OLED driver
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 6 months ago) - A simple gomoku.
 
 <details><summary>more</summary>
 
-1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 2 weeks ago) - SSD1306 OLED driver
+1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 3 weeks ago) - SSD1306 OLED driver
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 6 months ago) - A simple gomoku.
 </details>
 
