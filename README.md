@@ -24,22 +24,22 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (5 days ago)
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (6 days ago)
-- [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (6 days ago)
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (6 days ago)
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 week ago)
+- [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (1 week ago)
 
 <details><summary>more</summary>
 
-1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (5 days ago)
-1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (6 days ago)
-1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (6 days ago)
+1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (6 days ago)
+1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 week ago)
+1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (1 week ago)
 1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (1 week ago)
 1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (1 week ago)
 1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (1 week ago)
 1. [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (1 week ago)
 1. [haubek/bootstrap4c-chosen](https://github.com/haubek/bootstrap4c-chosen) - Bootstrap 4 Component - Chosen (1 week ago)
 1. [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap. (1 week ago)
-1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (3 weeks ago)
+1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (4 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
