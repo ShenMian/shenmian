@@ -4,13 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 weeks ago)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 month ago)
@@ -39,7 +39,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (1 week ago)
 1. [haubek/bootstrap4c-chosen](https://github.com/haubek/bootstrap4c-chosen) - Bootstrap 4 Component - Chosen (1 week ago)
 1. [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap. (1 week ago)
-1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (4 weeks ago)
+1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
