@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (today)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
 - [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (2 days ago)
-- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (1 week ago)
 
 <details><summary>more</summary>
 
+1. [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (today)
 1. [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
 1. [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (2 days ago)
 1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (1 week ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (2 weeks ago)
 1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (2 weeks ago)
 1. [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (2 weeks ago)
-1. [haubek/bootstrap4c-chosen](https://github.com/haubek/bootstrap4c-chosen) - Bootstrap 4 Component - Chosen (2 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
