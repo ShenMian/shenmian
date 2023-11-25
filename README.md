@@ -4,13 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 weeks ago)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 month ago)
@@ -24,14 +24,14 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (today)
-- [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (1 day ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
+- [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (2 days ago)
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (1 week ago)
 
 <details><summary>more</summary>
 
-1. [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (today)
-1. [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (1 day ago)
+1. [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
+1. [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (2 days ago)
 1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (1 week ago)
 1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 week ago)
 1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (1 week ago)
