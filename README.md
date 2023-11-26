@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (today)
 - [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (1 day ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
-- [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (3 days ago)
 
 <details><summary>more</summary>
 
+1. [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (today)
 1. [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (1 day ago)
 1. [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
 1. [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (3 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (2 weeks ago)
 1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (2 weeks ago)
 1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (2 weeks ago)
-1. [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. (2 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
