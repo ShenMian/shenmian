@@ -4,13 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 weeks ago)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 month ago)
@@ -24,19 +24,19 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (today)
-- [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (1 day ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
+- [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (1 day ago)
+- [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (2 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 days ago)
 
 <details><summary>more</summary>
 
-1. [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (today)
-1. [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (1 day ago)
-1. [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 days ago)
-1. [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (3 days ago)
+1. [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (1 day ago)
+1. [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (2 days ago)
+1. [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 days ago)
+1. [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (4 days ago)
 1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (1 week ago)
-1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (1 week ago)
-1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (1 week ago)
+1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (2 weeks ago)
+1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (2 weeks ago)
 1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (2 weeks ago)
 1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (2 weeks ago)
 1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (2 weeks ago)
