@@ -4,12 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
+- [ShenMian/music](https://github.com/ShenMian/music) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 weeks ago)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 weeks ago)
 
 <details><summary>more</summary>
 
+1. [ShenMian/music](https://github.com/ShenMian/music) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 weeks ago)
@@ -19,7 +20,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (2 months ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 months ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (4 months ago)
-1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (5 months ago)
 </details>
 
 #### :star: Recent Stars
