@@ -24,12 +24,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (1 week ago)
-- [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (1 week ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (today)
+- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (today)
+- [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django (today)
 
 <details><summary>more</summary>
 
+1. [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (today)
+1. [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (today)
+1. [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django (today)
 1. [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (1 week ago)
 1. [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (1 week ago)
 1. [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
@@ -37,9 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (2 weeks ago)
 1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (2 weeks ago)
 1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (2 weeks ago)
-1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (3 weeks ago)
-1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (3 weeks ago)
-1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (3 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
