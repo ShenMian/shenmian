@@ -4,16 +4,16 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (today)
-- [ShenMian/music](https://github.com/ShenMian/music) (3 days ago)
+- [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 day ago)
+- [ShenMian/music](https://github.com/ShenMian/music) (4 days ago)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (today)
-1. [ShenMian/music](https://github.com/ShenMian/music) (3 days ago)
+1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 day ago)
+1. [ShenMian/music](https://github.com/ShenMian/music) (4 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (3 weeks ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (4 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 month ago)
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (1 month ago)
@@ -24,20 +24,20 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (6 days ago)
+- [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (1 week ago)
 - [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (1 week ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 
 <details><summary>more</summary>
 
-1. [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (6 days ago)
+1. [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (1 week ago)
 1. [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (1 week ago)
 1. [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 1. [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (1 week ago)
 1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (2 weeks ago)
 1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (2 weeks ago)
 1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (2 weeks ago)
-1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (2 weeks ago)
+1. [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML. (3 weeks ago)
 1. [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library (3 weeks ago)
 1. [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (3 weeks ago)
 </details>
@@ -45,13 +45,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 #### :hammer: Recent Pull Requests
 
 - [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (1 month ago)
-- [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (1 month ago)
+- [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (2 months ago)
 - [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (6 months ago)
 
 <details><summary>more</summary>
 
 1. [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (1 month ago)
-1. [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (1 month ago)
+1. [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (2 months ago)
 1. [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (6 months ago)
 1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (8 months ago)
 1. [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (8 months ago)
