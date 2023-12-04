@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework (today)
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (1 day ago)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (1 day ago)
-- [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django (1 day ago)
 
 <details><summary>more</summary>
 
+1. [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework (today)
 1. [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (1 day ago)
 1. [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (1 day ago)
 1. [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django (1 day ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [Morakito/Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译 (1 week ago)
 1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (2 weeks ago)
 1. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI&#39;s Code Interpreter in your terminal, running locally (3 weeks ago)
-1. [fishfolk/jumpy](https://github.com/fishfolk/jumpy) - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 (3 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
