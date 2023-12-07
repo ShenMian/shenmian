@@ -4,15 +4,15 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/music](https://github.com/ShenMian/music) (today)
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
-- [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (4 days ago)
+- [ShenMian/music](https://github.com/ShenMian/music) (1 day ago)
+- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
+- [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (5 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/music](https://github.com/ShenMian/music) (today)
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (today)
-1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (4 days ago)
+1. [ShenMian/music](https://github.com/ShenMian/music) (1 day ago)
+1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 day ago)
+1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (5 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 month ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
@@ -24,19 +24,19 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
-- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (today)
-- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (today)
-- [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript (1 day ago)
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 day ago)
+- [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (1 day ago)
+- [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript (2 days ago)
 
 <details><summary>more</summary>
 
-1. [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (today)
-1. [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (today)
-1. [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript (1 day ago)
-1. [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework (2 days ago)
-1. [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (3 days ago)
-1. [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (3 days ago)
-1. [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django (3 days ago)
+1. [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 day ago)
+1. [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (1 day ago)
+1. [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript (2 days ago)
+1. [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework (3 days ago)
+1. [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (4 days ago)
+1. [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (4 days ago)
+1. [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django (4 days ago)
 1. [tugbadogan/hotelmanagement](https://github.com/tugbadogan/hotelmanagement) - Hotel Management Software (1 week ago)
 1. [matthunz/embedded-flight](https://github.com/matthunz/embedded-flight) -  (1 week ago)
 1. [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
