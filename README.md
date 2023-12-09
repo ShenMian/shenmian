@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4 (today)
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server (1 day ago)
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware (2 days ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more. (2 days ago)
 
 <details><summary>more</summary>
 
+1. [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4 (today)
 1. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server (1 day ago)
 1. [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware (2 days ago)
 1. [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more. (2 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework (5 days ago)
 1. [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (6 days ago)
 1. [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (6 days ago)
-1. [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django (6 days ago)
 </details>
 
 #### :hammer: Recent Pull Requests
