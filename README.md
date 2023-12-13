@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (today)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 day ago)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (3 days ago)
-- [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4 (4 days ago)
 
 <details><summary>more</summary>
 
+1. [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (today)
 1. [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 day ago)
 1. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (3 days ago)
 1. [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4 (4 days ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (1 week ago)
 1. [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript (1 week ago)
 1. [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework (1 week ago)
-1. [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
