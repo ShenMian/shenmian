@@ -4,13 +4,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 - [ShenMian/music](https://github.com/ShenMian/music) (1 week ago)
 - [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 week ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/music](https://github.com/ShenMian/music) (1 week ago)
 1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (1 week ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 week ago)
@@ -19,23 +19,23 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (2 months ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 months ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 months ago)
-1. [ShenMian/math](https://github.com/ShenMian/math) (4 months ago)
+1. [ShenMian/math](https://github.com/ShenMian/math) (5 months ago)
 </details>
 
 #### :star: Recent Stars
 
-- [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C &amp; C&#43;&#43; (1 day ago)
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 day ago)
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (2 days ago)
+- [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C &amp; C&#43;&#43; (2 days ago)
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (2 days ago)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (3 days ago)
 
 <details><summary>more</summary>
 
-1. [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C &amp; C&#43;&#43; (1 day ago)
-1. [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 day ago)
-1. [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (2 days ago)
-1. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (4 days ago)
-1. [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4 (5 days ago)
-1. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server (6 days ago)
+1. [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C &amp; C&#43;&#43; (2 days ago)
+1. [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (2 days ago)
+1. [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (3 days ago)
+1. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (5 days ago)
+1. [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4 (6 days ago)
+1. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server (1 week ago)
 1. [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware (1 week ago)
 1. [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 week ago)
 1. [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (1 week ago)
