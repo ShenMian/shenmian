@@ -6,13 +6,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 - [ShenMian/music](https://github.com/ShenMian/music) (2 weeks ago)
-- [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 weeks ago)
+- [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (2 weeks ago)
 
 <details><summary>more</summary>
 
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/music](https://github.com/ShenMian/music) (2 weeks ago)
-1. [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (2 weeks ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (2 weeks ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 month ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
@@ -20,6 +19,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 months ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 months ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (5 months ago)
+1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (6 months ago)
 </details>
 
 #### :star: Recent Stars
@@ -46,13 +46,12 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 - [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (2 months ago)
 - [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (2 months ago)
-- [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (6 months ago)
+- [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (8 months ago)
 
 <details><summary>more</summary>
 
 1. [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (2 months ago)
 1. [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (2 months ago)
-1. [refactor code](https://github.com/ShenMian/cppkg/pull/1) on [ShenMian/cppkg](https://github.com/ShenMian/cppkg) (6 months ago)
 1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (8 months ago)
 1. [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (8 months ago)
 1. [Vulkan 断言条件修正](https://github.com/BoomingTech/Piccolo/pull/438) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (9 months ago)
@@ -60,6 +59,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [fix: fix a typo](https://github.com/BoomingTech/Piccolo/pull/394) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 year ago)
 1. [[vim/en] Update vim.html.markdown](https://github.com/adambard/learnxinyminutes-docs/pull/4538) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (1 year ago)
 1. [Support OpenGL DSA](https://github.com/ShenMian/graphics/pull/14) on [ShenMian/graphics](https://github.com/ShenMian/graphics) (1 year ago)
+1. [Use std::array instead of C-style array](https://github.com/Fechin/reference/pull/258) on [Fechin/reference](https://github.com/Fechin/reference) (1 year ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
