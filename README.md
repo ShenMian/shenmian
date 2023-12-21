@@ -17,7 +17,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (2 months ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 months ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 months ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (5 months ago)
 1. [ShenMian/math](https://github.com/ShenMian/math) (5 months ago)
 1. [ShenMian/graphics](https://github.com/ShenMian/graphics) (6 months ago)
 </details>
@@ -36,7 +36,7 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 week ago)
 1. [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4 (1 week ago)
 1. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server (1 week ago)
-1. [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware (1 week ago)
+1. [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware (2 weeks ago)
 1. [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (2 weeks ago)
 1. [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (2 weeks ago)
 1. [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript (2 weeks ago)
