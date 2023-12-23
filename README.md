@@ -24,12 +24,13 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### :star: Recent Stars
 
+- [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - RusttT 翻译小组的官方仓库，这里有国外优秀的技术文章、学习教程、新闻资讯的高质量翻译。 (today)
 - [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C &amp; C&#43;&#43; (1 week ago)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 week ago)
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 week ago)
 
 <details><summary>more</summary>
 
+1. [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - RusttT 翻译小组的官方仓库，这里有国外优秀的技术文章、学习教程、新闻资讯的高质量翻译。 (today)
 1. [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C &amp; C&#43;&#43; (1 week ago)
 1. [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 week ago)
 1. [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 week ago)
@@ -39,7 +40,6 @@ Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
 1. [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware (2 weeks ago)
 1. [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (2 weeks ago)
 1. [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C&#43;&#43; (2 weeks ago)
-1. [bootstrap-vue-next/bootstrap-vue-next](https://github.com/bootstrap-vue-next/bootstrap-vue-next) - Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript (2 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
