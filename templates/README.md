@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Currently learning [C++], [Computer Graphics] and [Game Engine Architecture].
+Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Architecture].
 
 #### 🔭 Currently working on
 {{range recentContributions 3}}
