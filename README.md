@@ -4,13 +4,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 #### 🔭 Currently working on
 
-- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 days ago)
+
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
 - [ShenMian/music](https://github.com/ShenMian/music) (3 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 days ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
 1. [ShenMian/music](https://github.com/ShenMian/music) (3 weeks ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (3 weeks ago)
@@ -23,6 +24,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 </details>
 
 #### :star: Recent Stars
+
 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (3 days ago)
 - [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - In-App editor tools for bevy applications (5 days ago)
@@ -44,6 +46,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 #### :hammer: Recent Pull Requests
 
+
 - [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (2 months ago)
 - [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (2 months ago)
 - [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (9 months ago)
@@ -64,6 +67,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 #### :seedling: Latest releases I've contributed to
 
+
 - [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 2 months ago) - SSD1306 OLED driver
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 8 months ago) - A simple gomoku.
 
@@ -74,8 +78,10 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 </details>
 
 #### :speech_balloon: Contact
+
 - Telegram: [**@ShenMian**](https://t.me/shenmian).
 - Matrix: [**@shenmian:matrix.org**](https://matrix.to/#/@shenmian:matrix.org).
+- OpenPGP: `264514499FE580D7`.
 
 [C++]:                      https://github.com/ShenMian/Notes/tree/main/docs/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/C%2B%2B
 [Computer Graphics]:        https://github.com/ShenMian/Notes/tree/main/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6
