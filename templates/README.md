@@ -54,7 +54,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 - Telegram: [**@ShenMian**](https://t.me/shenmian).
 - Matrix: [**@shenmian:matrix.org**](https://matrix.to/#/@shenmian:matrix.org).
-- OpenPGP: `264514499FE580D7`.
+- PGP Key ID: `264514499FE580D7`.
 
 [C++]:                      https://github.com/ShenMian/Notes/tree/main/docs/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/C%2B%2B
 [Computer Graphics]:        https://github.com/ShenMian/Notes/tree/main/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6
