@@ -6,12 +6,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 - [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
-- [ShenMian/music](https://github.com/ShenMian/music) (3 weeks ago)
 
 <details><summary>more</summary>
 
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
 1. [ShenMian/music](https://github.com/ShenMian/music) (3 weeks ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (4 weeks ago)
@@ -20,7 +21,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (2 months ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 months ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (5 months ago)
-1. [ShenMian/math](https://github.com/ShenMian/math) (5 months ago)
 </details>
 
 #### :star: Recent Stars
