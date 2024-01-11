@@ -37,7 +37,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - RusttT 翻译小组的官方仓库，这里有国外优秀的技术文章、学习教程、新闻资讯的高质量翻译。 (2 weeks ago)
 1. [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C &amp; C&#43;&#43; (4 weeks ago)
 1. [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (4 weeks ago)
-1. [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (4 weeks ago)
+1. [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 month ago)
 1. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 month ago)
 1. [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - Rust bindings of GTK 4 (1 month ago)
 1. [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server (1 month ago)
