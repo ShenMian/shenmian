@@ -5,22 +5,22 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (today)
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 - [ShenMian/bucket](https://github.com/ShenMian/bucket) (2 days ago)
 
 <details><summary>more</summary>
 
+1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
 1. [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 weeks ago)
 1. [ShenMian/music](https://github.com/ShenMian/music) (1 month ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 month ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 months ago)
-1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (3 months ago)
 </details>
 
 #### :star: Recent Stars
