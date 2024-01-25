@@ -6,13 +6,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 - [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (today)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 days ago)
 
 <details><summary>more</summary>
 
 1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (today)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
