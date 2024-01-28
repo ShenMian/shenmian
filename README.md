@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust (today)
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based modular layout system built on top of Bevy ECS. (2 days ago)
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance (5 days ago)
-- [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification (1 week ago)
 
 <details><summary>more</summary>
 
+1. [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust (today)
 1. [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based modular layout system built on top of Bevy ECS. (2 days ago)
 1. [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance (5 days ago)
 1. [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification (1 week ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (1 month ago)
 1. [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - In-App editor tools for bevy applications (1 month ago)
 1. [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - RusttT 翻译小组的官方仓库，这里有国外优秀的技术文章、学习教程、新闻资讯的高质量翻译。 (1 month ago)
-1. [SanderMertens/flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C &amp; C&#43;&#43; (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
