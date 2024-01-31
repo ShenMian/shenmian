@@ -18,9 +18,9 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (2 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
-1. [ShenMian/music](https://github.com/ShenMian/music) (1 month ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (2 months ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 months ago)
+1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (3 months ago)
 </details>
 
 #### :star: Recent Stars
