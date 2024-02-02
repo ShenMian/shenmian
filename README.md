@@ -6,12 +6,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+- [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (1 day ago)
 - [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 week ago)
-- [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 week ago)
 
 <details><summary>more</summary>
 
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+1. [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (1 day ago)
 1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 week ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
@@ -20,7 +21,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (2 months ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 months ago)
-1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (4 months ago)
 </details>
 
 #### :star: Recent Stars
