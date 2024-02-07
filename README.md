@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC! (today)
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language (1 week ago)
 - [VersBinarii/bme280-rs](https://github.com/VersBinarii/bme280-rs) - A platform agnostic Rust driver for the Bosch BM[PE]-280 (1 week ago)
-- [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust (1 week ago)
 
 <details><summary>more</summary>
 
+1. [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC! (today)
 1. [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language (1 week ago)
 1. [VersBinarii/bme280-rs](https://github.com/VersBinarii/bme280-rs) - A platform agnostic Rust driver for the Bosch BM[PE]-280 (1 week ago)
 1. [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust (1 week ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (2 weeks ago)
 1. [zhiburt/tabled](https://github.com/zhiburt/tabled) - An easy to use library for pretty print tables of Rust structs and enums. (2 weeks ago)
 1. [linebender/xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework (3 weeks ago)
-1. [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands. (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
