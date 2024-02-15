@@ -5,15 +5,15 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-- [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (1 week ago)
-- [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 weeks ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+- [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (2 weeks ago)
+- [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (3 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-1. [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (1 week ago)
-1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 weeks ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+1. [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (2 weeks ago)
+1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (3 weeks ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 weeks ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
@@ -26,13 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (6 days ago)
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 week ago)
 - [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC! (1 week ago)
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (6 days ago)
+1. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 week ago)
 1. [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC! (1 week ago)
 1. [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language (2 weeks ago)
 1. [VersBinarii/bme280-rs](https://github.com/VersBinarii/bme280-rs) - A platform agnostic Rust driver for the Bosch BM[PE]-280 (2 weeks ago)
@@ -48,14 +48,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 - [Add sokoban.json](https://github.com/Calinou/scoop-games/pull/1079) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (3 weeks ago)
-- [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 weeks ago)
-- [feat: solver lower bounds visualization](https://github.com/ShenMian/sokoban-rs/pull/1) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 weeks ago)
+- [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 weeks ago)
+- [feat: solver lower bounds visualization](https://github.com/ShenMian/sokoban-rs/pull/1) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 
 <details><summary>more</summary>
 
 1. [Add sokoban.json](https://github.com/Calinou/scoop-games/pull/1079) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (3 weeks ago)
-1. [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 weeks ago)
-1. [feat: solver lower bounds visualization](https://github.com/ShenMian/sokoban-rs/pull/1) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 weeks ago)
+1. [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 weeks ago)
+1. [feat: solver lower bounds visualization](https://github.com/ShenMian/sokoban-rs/pull/1) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 1. [Add game &#34;sokoban-rs&#34;](https://github.com/bevyengine/bevy-assets/pull/399) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 month ago)
 1. [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (4 months ago)
 1. [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (4 months ago)
