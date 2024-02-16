@@ -5,13 +5,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 - [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 - [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (2 weeks ago)
 1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (3 weeks ago)
@@ -37,7 +37,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language (2 weeks ago)
 1. [VersBinarii/bme280-rs](https://github.com/VersBinarii/bme280-rs) - A platform agnostic Rust driver for the Bosch BM[PE]-280 (2 weeks ago)
 1. [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust (2 weeks ago)
-1. [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based modular layout system built on top of Bevy ECS. (2 weeks ago)
+1. [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based modular layout system built on top of Bevy ECS. (3 weeks ago)
 1. [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance (3 weeks ago)
 1. [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification (3 weeks ago)
 1. [rayon-rs/rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust (3 weeks ago)
