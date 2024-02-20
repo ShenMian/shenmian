@@ -5,13 +5,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 - [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (2 weeks ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (2 weeks ago)
 1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (3 weeks ago)
@@ -47,13 +47,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
-- [chore(deps): update dependencies](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+- [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [Add sokoban.json](https://github.com/Calinou/scoop-games/pull/1079) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 month ago)
 - [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 
 <details><summary>more</summary>
 
-1. [chore(deps): update dependencies](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+1. [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [Add sokoban.json](https://github.com/Calinou/scoop-games/pull/1079) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 month ago)
 1. [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 1. [feat: solver lower bounds visualization](https://github.com/ShenMian/sokoban-rs/pull/1) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
