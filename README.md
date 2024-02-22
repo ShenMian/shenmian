@@ -5,19 +5,19 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 - [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
-- [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (3 weeks ago)
 
 <details><summary>more</summary>
 
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
 1. [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (3 weeks ago)
 1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (4 weeks ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 month ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 month ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 1. [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 month ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (2 months ago)
