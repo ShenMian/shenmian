@@ -5,14 +5,15 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
+- [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (today)
 - [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
+- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
 
 <details><summary>more</summary>
 
-1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
+1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (1 month ago)
@@ -20,7 +21,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 month ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 month ago)
 1. [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 month ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
 </details>
 
 #### :star: Recent Stars
@@ -69,14 +69,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.11](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.11), 2 weeks ago) - A sokoban with solver.
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.2.0](https://github.com/ShenMian/sokoban/releases/tag/v0.2.0), 1 month ago) - A simple sokoban.
+- [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 1 month ago) - A simple sokoban.
 - [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 4 months ago) - SSD1306 OLED driver
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 10 months ago) - A simple gomoku.
 
 <details><summary>more</summary>
 
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.11](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.11), 2 weeks ago) - A sokoban with solver.
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.2.0](https://github.com/ShenMian/sokoban/releases/tag/v0.2.0), 1 month ago) - A simple sokoban.
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 1 month ago) - A simple sokoban.
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 4 months ago) - SSD1306 OLED driver
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 10 months ago) - A simple gomoku.
 </details>
