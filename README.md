@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (today)
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (1 day ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (1 week ago)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (1 week ago)
 
 <details><summary>more</summary>
 
+1. [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (today)
 1. [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (1 day ago)
 1. [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (1 week ago)
 1. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (1 week ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language (1 month ago)
 1. [VersBinarii/bme280-rs](https://github.com/VersBinarii/bme280-rs) - A platform agnostic Rust driver for the Bosch BM[PE]-280 (1 month ago)
 1. [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust (1 month ago)
-1. [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based modular layout system built on top of Bevy ECS. (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
