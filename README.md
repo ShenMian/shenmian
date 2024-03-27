@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [txstc55/simple-avatar](https://github.com/txstc55/simple-avatar) -  (today)
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance. (1 day ago)
 - [lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex) - A preprocessor for mdBook, rendering LaTex equations to HTML at build time. (2 weeks ago)
-- [badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid) - A preprocessor for mdbook to add mermaid support (2 weeks ago)
 
 <details><summary>more</summary>
 
+1. [txstc55/simple-avatar](https://github.com/txstc55/simple-avatar) -  (today)
 1. [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance. (1 day ago)
 1. [lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex) - A preprocessor for mdBook, rendering LaTex equations to HTML at build time. (2 weeks ago)
 1. [badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid) - A preprocessor for mdbook to add mermaid support (2 weeks ago)
@@ -41,18 +42,18 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (1 month ago)
 1. [hoodie/concatenation_benchmarks-rs](https://github.com/hoodie/concatenation_benchmarks-rs) - 📈 benchmarking different ways to concatenate strings in rust (1 month ago)
 1. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 month ago)
-1. [louisgv/local.ai](https://github.com/louisgv/local.ai) - 🎒 local.ai - Run AI locally on your PC! (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
 
 
+- [Update `sokoban-rs` description and image](https://github.com/bevyengine/bevy-assets/pull/423) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (today)
 - [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 - [Add sokoban.json](https://github.com/Calinou/scoop-games/pull/1079) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 months ago)
-- [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
 
 <details><summary>more</summary>
 
+1. [Update `sokoban-rs` description and image](https://github.com/bevyengine/bevy-assets/pull/423) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (today)
 1. [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 1. [Add sokoban.json](https://github.com/Calinou/scoop-games/pull/1079) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 months ago)
 1. [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
@@ -62,20 +63,19 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (5 months ago)
 1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 year ago)
 1. [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 year ago)
-1. [Vulkan 断言条件修正](https://github.com/BoomingTech/Piccolo/pull/438) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 year ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.11](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.11), 1 month ago) - A sokoban with solver.
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.12](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.12), today) - A sokoban with solver.
 - [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 2 months ago) - A simple sokoban.
 - [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 5 months ago) - SSD1306 OLED driver
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 11 months ago) - A simple gomoku.
 
 <details><summary>more</summary>
 
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.11](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.11), 1 month ago) - A sokoban with solver.
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.12](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.12), today) - A sokoban with solver.
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 2 months ago) - A simple sokoban.
 1. [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 5 months ago) - SSD1306 OLED driver
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 11 months ago) - A simple gomoku.
