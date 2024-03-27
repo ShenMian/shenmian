@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [txstc55/duck-duck-duck](https://github.com/txstc55/duck-duck-duck) -  (today)
 - [txstc55/simple-avatar](https://github.com/txstc55/simple-avatar) -  (today)
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance. (1 day ago)
-- [lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex) - A preprocessor for mdBook, rendering LaTex equations to HTML at build time. (2 weeks ago)
 
 <details><summary>more</summary>
 
+1. [txstc55/duck-duck-duck](https://github.com/txstc55/duck-duck-duck) -  (today)
 1. [txstc55/simple-avatar](https://github.com/txstc55/simple-avatar) -  (today)
 1. [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance. (1 day ago)
 1. [lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex) - A preprocessor for mdBook, rendering LaTex equations to HTML at build time. (2 weeks ago)
@@ -40,7 +41,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (3 weeks ago)
 1. [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (1 month ago)
 1. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (1 month ago)
-1. [hoodie/concatenation_benchmarks-rs](https://github.com/hoodie/concatenation_benchmarks-rs) - 📈 benchmarking different ways to concatenate strings in rust (1 month ago)
 1. [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (1 month ago)
 </details>
 
