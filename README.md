@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (today)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (1 week ago)
 - [txstc55/duck-duck-duck](https://github.com/txstc55/duck-duck-duck) -  (1 week ago)
-- [txstc55/simple-avatar](https://github.com/txstc55/simple-avatar) -  (1 week ago)
 
 <details><summary>more</summary>
 
+1. [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (today)
 1. [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (1 week ago)
 1. [txstc55/duck-duck-duck](https://github.com/txstc55/duck-duck-duck) -  (1 week ago)
 1. [txstc55/simple-avatar](https://github.com/txstc55/simple-avatar) -  (1 week ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (4 weeks ago)
 1. [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (1 month ago)
 1. [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models. (1 month ago)
-1. [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
