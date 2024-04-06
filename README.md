@@ -5,15 +5,15 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (3 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 
 <details><summary>more</summary>
 
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
 1. [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 week ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 month ago)
@@ -26,14 +26,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
-- [guimcaballero/bevy_chess](https://github.com/guimcaballero/bevy_chess) - Chess demo in Bevy (1 day ago)
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (2 days ago)
+- [guimcaballero/bevy_chess](https://github.com/guimcaballero/bevy_chess) - Chess demo in Bevy (2 days ago)
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (3 days ago)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (1 week ago)
 
 <details><summary>more</summary>
 
-1. [guimcaballero/bevy_chess](https://github.com/guimcaballero/bevy_chess) - Chess demo in Bevy (1 day ago)
-1. [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (2 days ago)
+1. [guimcaballero/bevy_chess](https://github.com/guimcaballero/bevy_chess) - Chess demo in Bevy (2 days ago)
+1. [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (3 days ago)
 1. [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (1 week ago)
 1. [txstc55/duck-duck-duck](https://github.com/txstc55/duck-duck-duck) -  (1 week ago)
 1. [txstc55/simple-avatar](https://github.com/txstc55/simple-avatar) -  (1 week ago)
