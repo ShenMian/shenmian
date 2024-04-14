@@ -5,14 +5,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (4 days ago)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 
 <details><summary>more</summary>
 
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (4 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (2 weeks ago)
 1. [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (2 weeks ago)
@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (today)
 - [guimcaballero/bevy_chess](https://github.com/guimcaballero/bevy_chess) - Chess demo in Bevy (1 week ago)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (1 week ago)
-- [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (2 weeks ago)
 
 <details><summary>more</summary>
 
+1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (today)
 1. [guimcaballero/bevy_chess](https://github.com/guimcaballero/bevy_chess) - Chess demo in Bevy (1 week ago)
 1. [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (1 week ago)
 1. [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (2 weeks ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex) - A preprocessor for mdBook, rendering LaTex equations to HTML at build time. (1 month ago)
 1. [badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid) - A preprocessor for mdbook to add mermaid support (1 month ago)
 1. [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (1 month ago)
-1. [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
