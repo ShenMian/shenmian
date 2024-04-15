@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (today)
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (1 day ago)
 - [guimcaballero/bevy_chess](https://github.com/guimcaballero/bevy_chess) - Chess demo in Bevy (1 week ago)
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (1 week ago)
 
 <details><summary>more</summary>
 
+1. [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (today)
 1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (1 day ago)
 1. [guimcaballero/bevy_chess](https://github.com/guimcaballero/bevy_chess) - Chess demo in Bevy (1 week ago)
 1. [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (1 week ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance. (2 weeks ago)
 1. [lzanini/mdbook-katex](https://github.com/lzanini/mdbook-katex) - A preprocessor for mdBook, rendering LaTex equations to HTML at build time. (1 month ago)
 1. [badboy/mdbook-mermaid](https://github.com/badboy/mdbook-mermaid) - A preprocessor for mdbook to add mermaid support (1 month ago)
-1. [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
