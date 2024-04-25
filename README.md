@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android (today)
 - [rustcn-org/async-book](https://github.com/rustcn-org/async-book) - 该书是中文 Rust 教程 &lt;&lt;Rust语言圣经&gt;&gt; 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序 (2 days ago)
 - [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (1 week ago)
-- [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (1 week ago)
 
 <details><summary>more</summary>
 
+1. [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android (today)
 1. [rustcn-org/async-book](https://github.com/rustcn-org/async-book) - 该书是中文 Rust 教程 &lt;&lt;Rust语言圣经&gt;&gt; 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序 (2 days ago)
 1. [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (1 week ago)
 1. [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (1 week ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (4 weeks ago)
 1. [txstc55/duck-duck-duck](https://github.com/txstc55/duck-duck-duck) -  (4 weeks ago)
 1. [txstc55/simple-avatar](https://github.com/txstc55/simple-avatar) -  (4 weeks ago)
-1. [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance. (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
