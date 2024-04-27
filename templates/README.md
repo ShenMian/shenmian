@@ -8,7 +8,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
-<details><summary>more</summary>
+<details><summary>more...</summary>
 {{range recentContributions 10}}
 1. [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
@@ -20,7 +20,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-<details><summary>more</summary>
+<details><summary>more...</summary>
 {{range recentStars 10}}
 1. [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
@@ -32,7 +32,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-<details><summary>more</summary>
+<details><summary>more...</summary>
 {{range recentPullRequests 10}}
 1. [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
@@ -44,7 +44,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-<details><summary>more</summary>
+<details><summary>more...</summary>
 {{range recentReleases 10}}
 1. [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
