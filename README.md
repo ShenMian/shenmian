@@ -5,22 +5,22 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 - [ShenMian/test](https://github.com/ShenMian/test) (today)
 - [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 
-<details><summary>more</summary>
+<details><summary>more...</summary>
 
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/test](https://github.com/ShenMian/test) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 week ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 1. [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 month ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 month ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
-1. [ShenMian/icm42688p-rs](https://github.com/ShenMian/icm42688p-rs) (2 months ago)
 </details>
 
 #### :star: Recent Stars
@@ -30,7 +30,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 - [rustcn-org/async-book](https://github.com/rustcn-org/async-book) - 该书是中文 Rust 教程 &lt;&lt;Rust语言圣经&gt;&gt; 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序 (4 days ago)
 - [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (1 week ago)
 
-<details><summary>more</summary>
+<details><summary>more...</summary>
 
 1. [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android (2 days ago)
 1. [rustcn-org/async-book](https://github.com/rustcn-org/async-book) - 该书是中文 Rust 教程 &lt;&lt;Rust语言圣经&gt;&gt; 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序 (4 days ago)
@@ -51,7 +51,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 - [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
 - [Add sokoban.json](https://github.com/Calinou/scoop-games/pull/1079) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (3 months ago)
 
-<details><summary>more</summary>
+<details><summary>more...</summary>
 
 1. [Update `sokoban-rs` description and image](https://github.com/bevyengine/bevy-assets/pull/423) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 month ago)
 1. [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
@@ -74,7 +74,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 - [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) ([v0.8.4](https://github.com/jamwaffles/ssd1306/releases/tag/v0.8.4), 6 months ago) - SSD1306 OLED driver
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 1 year ago) - A simple gomoku, supports LAN multiplayer.
 
-<details><summary>more</summary>
+<details><summary>more...</summary>
 
 1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.2](https://github.com/ShenMian/test/releases/tag/v0.1.2), 1 day ago) - 
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.14](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.14), 2 days ago) - A sokoban with solver.
