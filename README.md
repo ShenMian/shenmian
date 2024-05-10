@@ -5,22 +5,22 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 - [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (5 days ago)
-- [ShenMian/test](https://github.com/ShenMian/test) (6 days ago)
 - [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (6 days ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (5 days ago)
-1. [ShenMian/test](https://github.com/ShenMian/test) (6 days ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (6 days ago)
+1. [ShenMian/test](https://github.com/ShenMian/test) (6 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (3 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 weeks ago)
 1. [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (1 month ago)
-1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 month ago)
 </details>
 
 #### :star: Recent Stars
