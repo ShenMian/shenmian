@@ -5,17 +5,17 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 - [ShenMian/test](https://github.com/ShenMian/test) (1 week ago)
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
-1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (3 weeks ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 weeks ago)
+1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (4 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 month ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
@@ -59,7 +59,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 months ago)
 1. [feat: solver lower bounds visualization](https://github.com/ShenMian/sokoban-rs/pull/1) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 months ago)
 1. [Add game &#34;sokoban-rs&#34;](https://github.com/bevyengine/bevy-assets/pull/399) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (4 months ago)
-1. [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (7 months ago)
+1. [chore: update comment](https://github.com/jamwaffles/ssd1306/pull/198) on [jamwaffles/ssd1306](https://github.com/jamwaffles/ssd1306) (8 months ago)
 1. [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (8 months ago)
 1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 year ago)
 1. [feat: the waiting part can continue to move the cursor](https://github.com/ShenMian/gomoku/pull/1) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 year ago)
