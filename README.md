@@ -68,7 +68,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.0](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.0), today) - 
+- [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.1](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.1), today) - 
 - [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), today) - 
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.15](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.15), 4 days ago) - A sokoban with solver.
 - [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 5 months ago) - A simple sokoban.
@@ -76,7 +76,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 <details><summary>more...</summary>
 
-1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.0](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.0), today) - 
+1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.1](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.1), today) - 
 1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), today) - 
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.15](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.15), 4 days ago) - A sokoban with solver.
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 5 months ago) - A simple sokoban.
