@@ -7,13 +7,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 - [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (today)
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 1. [ShenMian/test](https://github.com/ShenMian/test) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (1 month ago)
