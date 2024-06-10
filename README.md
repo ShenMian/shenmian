@@ -19,8 +19,8 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (1 month ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 month ago)
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 month ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 month ago)
 </details>
 
 #### :star: Recent Stars
