@@ -68,16 +68,16 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :seedling: Latest releases I've contributed to
 
 
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.17](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.17), today) - A sokoban with solver.
 - [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.15](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.15), 5 days ago) - 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.16](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.16), 1 week ago) - A sokoban with solver.
 - [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 1 week ago) - 
 - [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 5 months ago) - A simple sokoban.
 - [rust-embedded-community/ssd1306](https://github.com/rust-embedded-community/ssd1306) ([v0.8.4](https://github.com/rust-embedded-community/ssd1306/releases/tag/v0.8.4), 7 months ago) - SSD1306 OLED driver
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.17](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.17), today) - A sokoban with solver.
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.15](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.15), 5 days ago) - 
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.16](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.16), 1 week ago) - A sokoban with solver.
 1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 1 week ago) - 
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 5 months ago) - A simple sokoban.
 1. [rust-embedded-community/ssd1306](https://github.com/rust-embedded-community/ssd1306) ([v0.8.4](https://github.com/rust-embedded-community/ssd1306/releases/tag/v0.8.4), 7 months ago) - SSD1306 OLED driver
