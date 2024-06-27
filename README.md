@@ -5,12 +5,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (today)
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (today)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
@@ -20,7 +21,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (1 month ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (2 months ago)
 </details>
 
 #### :star: Recent Stars
