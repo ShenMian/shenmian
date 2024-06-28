@@ -5,15 +5,15 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (today)
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
+- [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 day ago)
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 day ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (today)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 day ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (1 week ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (1 week ago)
