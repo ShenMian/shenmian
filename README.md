@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (today)
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (today)
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) -  (2 weeks ago)
-- [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS. (2 weeks ago)
 
 <details><summary>more...</summary>
 
+1. [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (today)
 1. [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (today)
 1. [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) -  (2 weeks ago)
 1. [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS. (2 weeks ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (2 months ago)
 1. [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (2 months ago)
 1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (2 months ago)
-1. [guimcaballero/bevy_chess](https://github.com/guimcaballero/bevy_chess) - Chess demo in Bevy (3 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
