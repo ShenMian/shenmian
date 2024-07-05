@@ -5,16 +5,16 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 week ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (2 weeks ago)
@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (today)
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) -  (2 weeks ago)
 - [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS. (2 weeks ago)
-- [aevyrie/bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking) - Picking and pointer events for Bevy. (2 weeks ago)
 
 <details><summary>more...</summary>
 
+1. [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (today)
 1. [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) -  (2 weeks ago)
 1. [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS. (2 weeks ago)
 1. [aevyrie/bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking) - Picking and pointer events for Bevy. (2 weeks ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (2 months ago)
 1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (2 months ago)
 1. [guimcaballero/bevy_chess](https://github.com/guimcaballero/bevy_chess) - Chess demo in Bevy (3 months ago)
-1. [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (3 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
