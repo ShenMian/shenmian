@@ -47,12 +47,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
+- [Add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian/pull/1) on [Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian) (today)
 - [chore(deps): update bevy to v0.14](https://github.com/ShenMian/sokoban-rs/pull/7) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [Update `sokoban-rs` description and image](https://github.com/bevyengine/bevy-assets/pull/423) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (3 months ago)
-- [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 months ago)
 
 <details><summary>more...</summary>
 
+1. [Add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian/pull/1) on [Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian) (today)
 1. [chore(deps): update bevy to v0.14](https://github.com/ShenMian/sokoban-rs/pull/7) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [Update `sokoban-rs` description and image](https://github.com/bevyengine/bevy-assets/pull/423) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (3 months ago)
 1. [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 months ago)
@@ -62,7 +63,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [Add game &#34;sokoban-rs&#34;](https://github.com/bevyengine/bevy-assets/pull/399) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (5 months ago)
 1. [chore: update comment](https://github.com/rust-embedded-community/ssd1306/pull/198) on [rust-embedded-community/ssd1306](https://github.com/rust-embedded-community/ssd1306) (9 months ago)
 1. [将 Github 改为 GitHub](https://github.com/LCTT/LCRH/pull/214) on [LCTT/LCRH](https://github.com/LCTT/LCRH) (9 months ago)
-1. [refactor(editor): adjust menu item names](https://github.com/BoomingTech/Piccolo/pull/444) on [BoomingTech/Piccolo](https://github.com/BoomingTech/Piccolo) (1 year ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
