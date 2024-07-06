@@ -5,16 +5,16 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 week ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (2 weeks ago)
@@ -26,14 +26,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
-- [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (today)
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (today)
+- [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (1 day ago)
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (1 day ago)
 - [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) -  (2 weeks ago)
 
 <details><summary>more...</summary>
 
-1. [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (today)
-1. [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (today)
+1. [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (1 day ago)
+1. [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (1 day ago)
 1. [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) -  (2 weeks ago)
 1. [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS. (2 weeks ago)
 1. [aevyrie/bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking) - Picking and pointer events for Bevy. (2 weeks ago)
@@ -70,7 +70,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.17](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.17), 2 weeks ago) - A sokoban with solver.
 - [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.15](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.15), 3 weeks ago) - 
-- [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 3 weeks ago) - 
+- [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 4 weeks ago) - 
 - [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 5 months ago) - A simple sokoban.
 - [rust-embedded-community/ssd1306](https://github.com/rust-embedded-community/ssd1306) ([v0.8.4](https://github.com/rust-embedded-community/ssd1306/releases/tag/v0.8.4), 8 months ago) - SSD1306 OLED driver
 
@@ -78,7 +78,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.17](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.17), 2 weeks ago) - A sokoban with solver.
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.15](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.15), 3 weeks ago) - 
-1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 3 weeks ago) - 
+1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 4 weeks ago) - 
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 5 months ago) - A simple sokoban.
 1. [rust-embedded-community/ssd1306](https://github.com/rust-embedded-community/ssd1306) ([v0.8.4](https://github.com/rust-embedded-community/ssd1306/releases/tag/v0.8.4), 8 months ago) - SSD1306 OLED driver
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 1 year ago) - A simple gomoku, supports LAN multiplayer.
