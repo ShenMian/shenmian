@@ -47,12 +47,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
+- [Refactor state management to use StateScoped instead of explicit cleanup](https://github.com/rparrett/entytd/pull/7) on [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 - [Upgrade to Bevy 0.14](https://github.com/rparrett/entytd/pull/6) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 day ago)
 - [Add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian/pull/1) on [Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian) (4 days ago)
-- [chore(deps): update bevy to v0.14](https://github.com/ShenMian/sokoban-rs/pull/7) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 days ago)
 
 <details><summary>more...</summary>
 
+1. [Refactor state management to use StateScoped instead of explicit cleanup](https://github.com/rparrett/entytd/pull/7) on [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 1. [Upgrade to Bevy 0.14](https://github.com/rparrett/entytd/pull/6) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 day ago)
 1. [Add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian/pull/1) on [Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian) (4 days ago)
 1. [chore(deps): update bevy to v0.14](https://github.com/ShenMian/sokoban-rs/pull/7) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 days ago)
@@ -62,7 +63,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 months ago)
 1. [feat: solver lower bounds visualization](https://github.com/ShenMian/sokoban-rs/pull/1) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 months ago)
 1. [Add game &#34;sokoban-rs&#34;](https://github.com/bevyengine/bevy-assets/pull/399) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (6 months ago)
-1. [chore: update comment](https://github.com/rust-embedded-community/ssd1306/pull/198) on [rust-embedded-community/ssd1306](https://github.com/rust-embedded-community/ssd1306) (9 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
