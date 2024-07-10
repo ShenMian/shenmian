@@ -5,12 +5,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (today)
+- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (today)
+1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
@@ -19,19 +21,18 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 days ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 week ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (2 weeks ago)
-1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (2 weeks ago)
-1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (2 months ago)
 </details>
 
 #### :star: Recent Stars
 
 
+- [rparrett/entytd](https://github.com/rparrett/entytd) - A 2d mining Tower Defense game for Bevy Jam 4 (today)
 - [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (5 days ago)
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (5 days ago)
-- [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) -  (3 weeks ago)
 
 <details><summary>more...</summary>
 
+1. [rparrett/entytd](https://github.com/rparrett/entytd) - A 2d mining Tower Defense game for Bevy Jam 4 (today)
 1. [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (5 days ago)
 1. [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (5 days ago)
 1. [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) -  (3 weeks ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [rustcn-org/async-book](https://github.com/rustcn-org/async-book) - 该书是中文 Rust 教程 &lt;&lt;Rust语言圣经&gt;&gt; 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序 (2 months ago)
 1. [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (2 months ago)
 1. [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe (2 months ago)
-1. [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4 (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
