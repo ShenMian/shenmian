@@ -5,17 +5,17 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 - [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 - [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (today)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (today)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 days ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 days ago)
