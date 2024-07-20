@@ -47,12 +47,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
+- [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 - [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 - [Refactor state management to use StateScoped instead of explicit cleanup](https://github.com/rparrett/entytd/pull/7) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
-- [Upgrade to Bevy 0.14](https://github.com/rparrett/entytd/pull/6) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
 
 <details><summary>more...</summary>
 
+1. [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 1. [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 1. [Refactor state management to use StateScoped instead of explicit cleanup](https://github.com/rparrett/entytd/pull/7) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
 1. [Upgrade to Bevy 0.14](https://github.com/rparrett/entytd/pull/6) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
@@ -62,7 +63,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 months ago)
 1. [Add sokoban.json](https://github.com/Calinou/scoop-games/pull/1079) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (6 months ago)
 1. [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (6 months ago)
-1. [feat: solver lower bounds visualization](https://github.com/ShenMian/sokoban-rs/pull/1) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (6 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
