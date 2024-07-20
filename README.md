@@ -7,17 +7,17 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 - [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+- [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+1. [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (6 days ago)
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (1 week ago)
-1. [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (3 weeks ago)
