@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (today)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
 - [rparrett/entytd](https://github.com/rparrett/entytd) - A 2d mining Tower Defense game for Bevy Jam 4 (1 week ago)
-- [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (2 weeks ago)
 
 <details><summary>more...</summary>
 
+1. [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (today)
 1. [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
 1. [rparrett/entytd](https://github.com/rparrett/entytd) - A 2d mining Tower Defense game for Bevy Jam 4 (1 week ago)
 1. [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (2 weeks ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [aevyrie/bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking) - Picking and pointer events for Bevy. (1 month ago)
 1. [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android (2 months ago)
 1. [rustcn-org/async-book](https://github.com/rustcn-org/async-book) - 该书是中文 Rust 教程 &lt;&lt;Rust语言圣经&gt;&gt; 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序 (3 months ago)
-1. [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (3 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
