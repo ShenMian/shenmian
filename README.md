@@ -26,12 +26,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer for Neovim (today)
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (1 day ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 weeks ago)
-- [rparrett/entytd](https://github.com/rparrett/entytd) - A 2d mining Tower Defense game for Bevy Jam 4 (2 weeks ago)
 
 <details><summary>more...</summary>
 
+1. [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer for Neovim (today)
 1. [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper. (1 day ago)
 1. [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 weeks ago)
 1. [rparrett/entytd](https://github.com/rparrett/entytd) - A 2d mining Tower Defense game for Bevy Jam 4 (2 weeks ago)
@@ -41,7 +42,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS. (1 month ago)
 1. [aevyrie/bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking) - Picking and pointer events for Bevy. (1 month ago)
 1. [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android (3 months ago)
-1. [rustcn-org/async-book](https://github.com/rustcn-org/async-book) - 该书是中文 Rust 教程 &lt;&lt;Rust语言圣经&gt;&gt; 中的镜像专题，高质量手翻 Asynchronous Programming in Rust， 深入讲述了如何编写 Rust 高并发异步程序 (3 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
