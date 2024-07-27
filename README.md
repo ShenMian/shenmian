@@ -39,7 +39,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 weeks ago)
 1. [rparrett/entytd](https://github.com/rparrett/entytd) - A 2d mining Tower Defense game for Bevy Jam 4 (2 weeks ago)
 1. [SolarLiner/bevy-kira-components](https://github.com/SolarLiner/bevy-kira-components) - Experimental Bevy &lt;-&gt; Kira integration crate (3 weeks ago)
-1. [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫 (3 weeks ago)
+1. [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate awesome commits with AI in 1 second 🤯🔫 (3 weeks ago)
 1. [bevyengine/bevy_github_ci_template](https://github.com/bevyengine/bevy_github_ci_template) -  (1 month ago)
 1. [bytestring-net/bevy_lunex](https://github.com/bytestring-net/bevy_lunex) - Blazingly fast path based retained layout engine for Bevy entities, built around vanilla Bevy ECS. (1 month ago)
 </details>
