@@ -5,16 +5,16 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 - [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (1 week ago)
@@ -47,12 +47,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
+- [chore(deps): update leafwing-input-manager to v0.15](https://github.com/ShenMian/sokoban-rs/pull/10) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 weeks ago)
 - [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 weeks ago)
-- [Refactor state management to use StateScoped instead of explicit cleanup](https://github.com/rparrett/entytd/pull/7) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 month ago)
 
 <details><summary>more...</summary>
 
+1. [chore(deps): update leafwing-input-manager to v0.15](https://github.com/ShenMian/sokoban-rs/pull/10) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 weeks ago)
 1. [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 weeks ago)
 1. [Refactor state management to use StateScoped instead of explicit cleanup](https://github.com/rparrett/entytd/pull/7) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 month ago)
@@ -62,7 +63,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [Update `sokoban-rs` description and image](https://github.com/bevyengine/bevy-assets/pull/423) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (4 months ago)
 1. [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 months ago)
 1. [Add sokoban.json](https://github.com/Calinou/scoop-games/pull/1079) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (6 months ago)
-1. [feat: support player animation](https://github.com/ShenMian/sokoban-rs/pull/2) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (6 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
