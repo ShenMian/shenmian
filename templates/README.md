@@ -4,7 +4,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 #### 🔭 Currently working on
 
-{{range recentContributions 3}}
+{{range recentContributions 2}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
@@ -16,7 +16,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 #### :star: Recent Stars
 
-{{range recentStars 3}}
+{{range recentStars 2}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
