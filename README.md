@@ -7,7 +7,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 - [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 
 <details><summary>more...</summary>
 
@@ -28,7 +27,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash (5 days ago)
 - [lborb/book](https://github.com/lborb/book) - The Little Book of Rust Books (1 week ago)
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (2 weeks ago)
 
 <details><summary>more...</summary>
 
