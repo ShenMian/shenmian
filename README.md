@@ -5,15 +5,15 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (3 weeks ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (3 weeks ago)
@@ -33,7 +33,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (1 week ago)
 1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. (1 week ago)
 1. [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash (1 week ago)
-1. [lborb/book](https://github.com/lborb/book) - The Little Book of Rust Books (2 weeks ago)
+1. [lborb/book](https://github.com/lborb/book) - The Little Book of Rust Books (3 weeks ago)
 1. [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (3 weeks ago)
 1. [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI (3 weeks ago)
 1. [mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources (4 weeks ago)
