@@ -33,7 +33,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm. (1 day ago)
 1. [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc. (3 weeks ago)
 1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. (3 weeks ago)
-1. [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash (1 month ago)
+1. [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash (1 month ago)
 1. [lborb/book](https://github.com/lborb/book) - The Little Book of Rust Books (1 month ago)
 1. [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (1 month ago)
 1. [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI (1 month ago)
