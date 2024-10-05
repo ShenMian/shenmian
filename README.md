@@ -66,15 +66,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :seedling: Latest releases I've contributed to
 
 
-- [rust-embedded-community/ssd1306](https://github.com/rust-embedded-community/ssd1306) ([v0.9.0](https://github.com/rust-embedded-community/ssd1306/releases/tag/v0.9.0), 1 month ago) - SSD1306 OLED driver
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 3 months ago) - A sokoban with solver.
 - [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.15](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.15), 3 months ago) - 
 - [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 3 months ago) - 
 - [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 8 months ago) - A simple sokoban.
+- [rparrett/entytd](https://github.com/rparrett/entytd) ([v0.3.0](https://github.com/rparrett/entytd/releases/tag/v0.3.0), 9 months ago) - A 2d mining Tower Defense game for Bevy Jam 4
 
 <details><summary>more...</summary>
 
-1. [rust-embedded-community/ssd1306](https://github.com/rust-embedded-community/ssd1306) ([v0.9.0](https://github.com/rust-embedded-community/ssd1306/releases/tag/v0.9.0), 1 month ago) - SSD1306 OLED driver
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 3 months ago) - A sokoban with solver.
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.15](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.15), 3 months ago) - 
 1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 3 months ago) - 
