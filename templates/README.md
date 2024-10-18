@@ -50,6 +50,9 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 {{- end}}
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### :speech_balloon: Contact
 
 - Telegram: [**@ShenMian**](https://t.me/shenmian).
