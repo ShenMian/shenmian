@@ -84,6 +84,15 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 
+```txt
+Markdown     2 hrs 51 mins   ██████████████████░░░░░░░   71.36 %
+Java         53 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
+PowerShell   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
+
 
 #### :speech_balloon: Contact
 
