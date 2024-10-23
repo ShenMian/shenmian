@@ -53,11 +53,11 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     15 hrs 43 mins  ██████████████████▓░░░░░░   74.20 %
-Haskell      3 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Java         1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Lua          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-PowerShell   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Markdown     18 hrs 16 mins  ███████████████████░░░░░░   75.59 %
+Haskell      3 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+Java         1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Lua          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+PowerShell   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
