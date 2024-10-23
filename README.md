@@ -6,12 +6,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 day ago)
+- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 day ago)
+1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (5 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 weeks ago)
