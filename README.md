@@ -25,11 +25,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game  (today)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects. (today)
-- [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows (3 weeks ago)
 
 <details><summary>more...</summary>
 
+1. [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game  (today)
 1. [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects. (today)
 1. [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows (3 weeks ago)
 1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. (4 weeks ago)
@@ -39,7 +40,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash (2 months ago)
 1. [lborb/book](https://github.com/lborb/book) - The Little Book of Rust Books (2 months ago)
 1. [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (2 months ago)
-1. [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
