@@ -5,12 +5,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 - [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
@@ -25,14 +25,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
-- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (2 days ago)
-- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game  (3 days ago)
+- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (3 days ago)
+- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game  (4 days ago)
 
 <details><summary>more...</summary>
 
-1. [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (2 days ago)
-1. [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game  (3 days ago)
-1. [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects. (3 days ago)
+1. [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (3 days ago)
+1. [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game  (4 days ago)
+1. [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects. (4 days ago)
 1. [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows (3 weeks ago)
 1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. (1 month ago)
 1. [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex &amp; inline html) previewer for Neovim (1 month ago)
@@ -70,7 +70,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 - [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.15](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.15), 4 months ago) - 
 - [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 4 months ago) - 
 - [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 9 months ago) - A simple sokoban.
-- [rparrett/entytd](https://github.com/rparrett/entytd) ([v0.3.0](https://github.com/rparrett/entytd/releases/tag/v0.3.0), 9 months ago) - A 2d mining Tower Defense game for Bevy Jam 4
+- [rparrett/entytd](https://github.com/rparrett/entytd) ([v0.3.0](https://github.com/rparrett/entytd/releases/tag/v0.3.0), 10 months ago) - A 2d mining Tower Defense game for Bevy Jam 4
 
 <details><summary>more...</summary>
 
@@ -78,7 +78,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.15](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.15), 4 months ago) - 
 1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 4 months ago) - 
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 9 months ago) - A simple sokoban.
-1. [rparrett/entytd](https://github.com/rparrett/entytd) ([v0.3.0](https://github.com/rparrett/entytd/releases/tag/v0.3.0), 9 months ago) - A 2d mining Tower Defense game for Bevy Jam 4
+1. [rparrett/entytd](https://github.com/rparrett/entytd) ([v0.3.0](https://github.com/rparrett/entytd/releases/tag/v0.3.0), 10 months ago) - A 2d mining Tower Defense game for Bevy Jam 4
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 2 years ago) - A simple gomoku, supports LAN multiplayer.
 </details>
 
