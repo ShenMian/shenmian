@@ -85,11 +85,11 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 ```txt
-Typst         23 hrs 34 mins  ███████████████░░░░░░░░░░   60.27 %
-Markdown      8 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-Python        2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-YAML          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Java          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Typst         23 hrs 54 mins  ████████████████░░░░░░░░░   64.37 %
+Markdown      6 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
+Python        2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+YAML          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Java          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 
