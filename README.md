@@ -5,14 +5,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (3 weeks ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
@@ -45,12 +45,15 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
-- [chore(deps): update leafwing-input-manager to v0.15](https://github.com/ShenMian/sokoban-rs/pull/10) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
-- [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
-- [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
+- [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/3) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
+- [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/2) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
+- [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/1) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
 
 <details><summary>more...</summary>
 
+1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/3) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
+1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/2) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
+1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/1) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
 1. [chore(deps): update leafwing-input-manager to v0.15](https://github.com/ShenMian/sokoban-rs/pull/10) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
 1. [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
 1. [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
@@ -58,9 +61,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [Upgrade to Bevy 0.14](https://github.com/rparrett/entytd/pull/6) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
 1. [Add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian/pull/1) on [Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian) (4 months ago)
 1. [chore(deps): update bevy to v0.14](https://github.com/ShenMian/sokoban-rs/pull/7) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 months ago)
-1. [Update `sokoban-rs` description and image](https://github.com/bevyengine/bevy-assets/pull/423) on [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) (7 months ago)
-1. [chore(deps): update bevy to v0.13](https://github.com/ShenMian/sokoban-rs/pull/5) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (8 months ago)
-1. [Add sokoban.json](https://github.com/Calinou/scoop-games/pull/1079) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (9 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
@@ -85,11 +85,11 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 ```txt
-Typst         23 hrs 54 mins  ████████████████░░░░░░░░░   64.37 %
-Markdown      6 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-Python        2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-YAML          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Java          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Typst         24 hrs 1 min    ███████████████████░░░░░░   75.76 %
+Markdown      3 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+YAML          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Java          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+SQL           45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 
