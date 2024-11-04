@@ -5,13 +5,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (3 weeks ago)
@@ -25,12 +25,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
-- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (6 days ago)
+- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (1 week ago)
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game  (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (6 days ago)
+1. [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (1 week ago)
 1. [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game  (1 week ago)
 1. [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 week ago)
 1. [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows (4 weeks ago)
@@ -45,16 +45,16 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
-- [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (today)
-- [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/3) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
-- [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/2) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
+- [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 day ago)
+- [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/3) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (1 day ago)
+- [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/2) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (today)
-1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/3) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
-1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/2) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
-1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/1) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (today)
+1. [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 day ago)
+1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/3) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (1 day ago)
+1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/2) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (1 day ago)
+1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/1) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (1 day ago)
 1. [chore(deps): update leafwing-input-manager to v0.15](https://github.com/ShenMian/sokoban-rs/pull/10) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
 1. [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
 1. [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
