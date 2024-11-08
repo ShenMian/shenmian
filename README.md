@@ -45,12 +45,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
+- [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (today)
 - [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (5 days ago)
 - [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/3) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (5 days ago)
-- [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/2) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (5 days ago)
 
 <details><summary>more...</summary>
 
+1. [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (today)
 1. [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (5 days ago)
 1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/3) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (5 days ago)
 1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/2) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (5 days ago)
@@ -60,7 +61,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
 1. [Refactor state management to use StateScoped instead of explicit cleanup](https://github.com/rparrett/entytd/pull/7) on [rparrett/entytd](https://github.com/rparrett/entytd) (4 months ago)
 1. [Upgrade to Bevy 0.14](https://github.com/rparrett/entytd/pull/6) on [rparrett/entytd](https://github.com/rparrett/entytd) (4 months ago)
-1. [Add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian/pull/1) on [Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian) (4 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
