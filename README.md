@@ -85,11 +85,11 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 ```txt
-SQL           10 hrs 1 min    ██████████▓░░░░░░░░░░░░░░   42.68 %
-Typst         7 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.91 %
-Markdown      2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Haskell       1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-YAML          57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+SQL           10 hrs 1 min    ██████████░░░░░░░░░░░░░░░   39.74 %
+Typst         9 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   37.95 %
+Markdown      2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Haskell       1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Other         1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 
