@@ -47,15 +47,15 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 - [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 day ago)
 - [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (6 days ago)
-- [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/3) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (6 days ago)
+- [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes-old/pull/3) on [Apoxtq/notes-old](https://github.com/Apoxtq/notes-old) (6 days ago)
 
 <details><summary>more...</summary>
 
 1. [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 day ago)
 1. [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (6 days ago)
-1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/3) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (6 days ago)
-1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/2) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (6 days ago)
-1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes/pull/1) on [Apoxtq/notes](https://github.com/Apoxtq/notes) (6 days ago)
+1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes-old/pull/3) on [Apoxtq/notes-old](https://github.com/Apoxtq/notes-old) (6 days ago)
+1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes-old/pull/2) on [Apoxtq/notes-old](https://github.com/Apoxtq/notes-old) (6 days ago)
+1. [Update Markdown_语法笔记.md](https://github.com/Apoxtq/notes-old/pull/1) on [Apoxtq/notes-old](https://github.com/Apoxtq/notes-old) (6 days ago)
 1. [chore(deps): update leafwing-input-manager to v0.15](https://github.com/ShenMian/sokoban-rs/pull/10) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
 1. [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
 1. [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
