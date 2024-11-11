@@ -14,12 +14,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
+1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 week ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (2 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 weeks ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (3 months ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (3 months ago)
 1. [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
-1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) (4 months ago)
 </details>
 
 #### :star: Recent Stars
@@ -66,14 +66,15 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :seedling: Latest releases I've contributed to
 
 
+- [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.0.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.0.0), 2 months ago) - Simple admonishment for typst
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 4 months ago) - A sokoban with solver.
 - [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.15](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.15), 5 months ago) - 
 - [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 5 months ago) - 
 - [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 10 months ago) - A simple sokoban.
-- [rparrett/entytd](https://github.com/rparrett/entytd) ([v0.3.0](https://github.com/rparrett/entytd/releases/tag/v0.3.0), 10 months ago) - A 2d mining Tower Defense game for Bevy Jam 4
 
 <details><summary>more...</summary>
 
+1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.0.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.0.0), 2 months ago) - Simple admonishment for typst
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 4 months ago) - A sokoban with solver.
 1. [ShenMian/bevy_game_template](https://github.com/ShenMian/bevy_game_template) ([v0.0.15](https://github.com/ShenMian/bevy_game_template/releases/tag/v0.0.15), 5 months ago) - 
 1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 5 months ago) - 
