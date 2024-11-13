@@ -5,21 +5,21 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 
 <details><summary>more...</summary>
 
+1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 week ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (3 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 weeks ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (3 months ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (3 months ago)
-1. [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
 </details>
 
 #### :star: Recent Stars
