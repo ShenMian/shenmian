@@ -12,10 +12,10 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 week ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (3 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 weeks ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (3 months ago)
@@ -86,11 +86,11 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 ```txt
-Typst         7 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.48 %
-SQL           5 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
-Markdown      4 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-Haskell       2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-Other         1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+Typst         5 hrs 37 mins   █████████▓░░░░░░░░░░░░░░░   38.62 %
+Markdown      4 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   32.69 %
+Haskell       2 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
+Other         1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Git           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 
