@@ -5,19 +5,19 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 day ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
 
 <details><summary>more...</summary>
 
-1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 day ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (3 weeks ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 weeks ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (4 weeks ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (3 months ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (3 months ago)
 </details>
@@ -45,13 +45,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
-- [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (6 days ago)
+- [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 week ago)
 - [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 week ago)
 - [chore(deps): update leafwing-input-manager to v0.15](https://github.com/ShenMian/sokoban-rs/pull/10) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 months ago)
 
 <details><summary>more...</summary>
 
-1. [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (6 days ago)
+1. [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 week ago)
 1. [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 week ago)
 1. [chore(deps): update leafwing-input-manager to v0.15](https://github.com/ShenMian/sokoban-rs/pull/10) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 months ago)
 1. [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 months ago)
