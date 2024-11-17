@@ -5,13 +5,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (2 weeks ago)
