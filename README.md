@@ -86,11 +86,11 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 ```txt
-Markdown   6 hrs 49 mins   ██████████████░░░░░░░░░░░   55.76 %
-Haskell    2 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
-Typst      2 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
-Other      37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-YAML       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Markdown   6 hrs 43 mins   █████████████░░░░░░░░░░░░   52.63 %
+Haskell    2 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
+Typst      2 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
+Other      37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+BibTeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 
