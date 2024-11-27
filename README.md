@@ -5,19 +5,19 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (6 days ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 weeks ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (3 weeks ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 month ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 </details>
