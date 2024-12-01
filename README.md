@@ -25,11 +25,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs (today)
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.  (1 day ago)
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (5 days ago)
 
 <details><summary>more...</summary>
 
+1. [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs (today)
 1. [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.  (1 day ago)
 1. [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (5 days ago)
 1. [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (6 days ago)
@@ -39,7 +40,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 month ago)
 1. [maharmstone/btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows (1 month ago)
 1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. (2 months ago)
-1. [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex &amp; inline html) previewer for Neovim (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
