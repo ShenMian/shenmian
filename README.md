@@ -5,13 +5,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 - [ShenMian/test](https://github.com/ShenMian/test) (2 days ago)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/test](https://github.com/ShenMian/test) (2 days ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (2 weeks ago)
