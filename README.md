@@ -5,18 +5,18 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-- [ShenMian/test](https://github.com/ShenMian/test) (3 days ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+- [ShenMian/test](https://github.com/ShenMian/test) (4 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-1. [ShenMian/test](https://github.com/ShenMian/test) (3 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+1. [ShenMian/test](https://github.com/ShenMian/test) (4 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (2 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (3 weeks ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 weeks ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 weeks ago)
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 month ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 month ago)
@@ -25,14 +25,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
-- [longbridgeapp/gpui-component](https://github.com/longbridgeapp/gpui-component) - UI components write in GPUI. (today)
-- [emilk/eframe_template](https://github.com/emilk/eframe_template) - The easy way to make a Rust app with a GUI (4 days ago)
+- [longbridgeapp/gpui-component](https://github.com/longbridgeapp/gpui-component) - UI components write in GPUI. (1 day ago)
+- [emilk/eframe_template](https://github.com/emilk/eframe_template) - The easy way to make a Rust app with a GUI (5 days ago)
 
 <details><summary>more...</summary>
 
-1. [longbridgeapp/gpui-component](https://github.com/longbridgeapp/gpui-component) - UI components write in GPUI. (today)
-1. [emilk/eframe_template](https://github.com/emilk/eframe_template) - The easy way to make a Rust app with a GUI (4 days ago)
-1. [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs (6 days ago)
+1. [longbridgeapp/gpui-component](https://github.com/longbridgeapp/gpui-component) - UI components write in GPUI. (1 day ago)
+1. [emilk/eframe_template](https://github.com/emilk/eframe_template) - The easy way to make a Rust app with a GUI (5 days ago)
+1. [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs (1 week ago)
 1. [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.  (1 week ago)
 1. [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (1 week ago)
 1. [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (1 week ago)
@@ -45,14 +45,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
-- [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-- [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 weeks ago)
+- [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
+- [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
 - [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 month ago)
 
 <details><summary>more...</summary>
 
-1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-1. [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 weeks ago)
+1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
+1. [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
 1. [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 month ago)
 1. [chore(deps): update leafwing-input-manager to v0.15](https://github.com/ShenMian/sokoban-rs/pull/10) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 months ago)
 1. [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (4 months ago)
