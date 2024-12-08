@@ -45,12 +45,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
+- [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (today)
 - [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
 - [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
-- [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 month ago)
 
 <details><summary>more...</summary>
 
+1. [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (today)
 1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
 1. [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
 1. [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 month ago)
@@ -60,7 +61,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [Refactor state management to use StateScoped instead of explicit cleanup](https://github.com/rparrett/entytd/pull/7) on [rparrett/entytd](https://github.com/rparrett/entytd) (5 months ago)
 1. [Upgrade to Bevy 0.14](https://github.com/rparrett/entytd/pull/6) on [rparrett/entytd](https://github.com/rparrett/entytd) (5 months ago)
 1. [Add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian/pull/1) on [Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian) (5 months ago)
-1. [chore(deps): update bevy to v0.14](https://github.com/ShenMian/sokoban-rs/pull/7) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
