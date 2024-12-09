@@ -5,21 +5,21 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (today)
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
+- [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (today)
 
 <details><summary>more...</summary>
 
-1. [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-1. [ShenMian/test2](https://github.com/ShenMian/test2) (today)
+1. [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (5 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (2 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (3 weeks ago)
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 month ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 </details>
 
 #### :star: Recent Stars
@@ -67,15 +67,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.0](https://github.com/ShenMian/tracker/releases/tag/v0.1.0), today) - A terminal-based real-time satellite tracking and orbit prediction application.
-- [ShenMian/test2](https://github.com/ShenMian/test2) ([v0.1.1](https://github.com/ShenMian/test2/releases/tag/v0.1.1), today) - 
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.0.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.0.0), 3 months ago) - Simple admonishment for typst
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 5 months ago) - A sokoban with solver.
 - [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 6 months ago) - 
+- [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 11 months ago) - A simple sokoban.
 
 <details><summary>more...</summary>
 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.0](https://github.com/ShenMian/tracker/releases/tag/v0.1.0), today) - A terminal-based real-time satellite tracking and orbit prediction application.
-1. [ShenMian/test2](https://github.com/ShenMian/test2) ([v0.1.1](https://github.com/ShenMian/test2/releases/tag/v0.1.1), today) - 
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.0.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.0.0), 3 months ago) - Simple admonishment for typst
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 5 months ago) - A sokoban with solver.
 1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 6 months ago) - 
