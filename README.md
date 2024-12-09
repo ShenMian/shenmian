@@ -25,12 +25,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
-- [longbridgeapp/gpui-component](https://github.com/longbridgeapp/gpui-component) - UI components write in GPUI. (2 days ago)
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components write in GPUI. (2 days ago)
 - [emilk/eframe_template](https://github.com/emilk/eframe_template) - The easy way to make a Rust app with a GUI (6 days ago)
 
 <details><summary>more...</summary>
 
-1. [longbridgeapp/gpui-component](https://github.com/longbridgeapp/gpui-component) - UI components write in GPUI. (2 days ago)
+1. [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components write in GPUI. (2 days ago)
 1. [emilk/eframe_template](https://github.com/emilk/eframe_template) - The easy way to make a Rust app with a GUI (6 days ago)
 1. [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs (1 week ago)
 1. [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.  (1 week ago)
