@@ -5,14 +5,14 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 day ago)
-- [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (1 day ago)
+- [ShenMian/bucket](https://github.com/ShenMian/bucket) (today)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 day ago)
+1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (today)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (6 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
@@ -45,12 +45,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
+- [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (today)
 - [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (2 days ago)
 - [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 days ago)
-- [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
 
 <details><summary>more...</summary>
 
+1. [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (today)
 1. [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (2 days ago)
 1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 days ago)
 1. [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
@@ -60,13 +61,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (4 months ago)
 1. [Refactor state management to use StateScoped instead of explicit cleanup](https://github.com/rparrett/entytd/pull/7) on [rparrett/entytd](https://github.com/rparrett/entytd) (5 months ago)
 1. [Upgrade to Bevy 0.14](https://github.com/rparrett/entytd/pull/6) on [rparrett/entytd](https://github.com/rparrett/entytd) (5 months ago)
-1. [Add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian/pull/1) on [Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-2/series-intro-to-github-flow-ShenMian) (5 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.0](https://github.com/ShenMian/tracker/releases/tag/v0.1.0), 1 day ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.1](https://github.com/ShenMian/tracker/releases/tag/v0.1.1), today) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.0.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.0.0), 3 months ago) - Simple admonishment for typst
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 5 months ago) - A sokoban with solver.
 - [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 6 months ago) - 
@@ -74,7 +74,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.0](https://github.com/ShenMian/tracker/releases/tag/v0.1.0), 1 day ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.1](https://github.com/ShenMian/tracker/releases/tag/v0.1.1), today) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.0.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.0.0), 3 months ago) - Simple admonishment for typst
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 5 months ago) - A sokoban with solver.
 1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 6 months ago) - 
