@@ -5,11 +5,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 - [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 day ago)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 day ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 1. [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (2 days ago)
@@ -19,7 +20,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 weeks ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (2 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 weeks ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 </details>
 
 #### :star: Recent Stars
@@ -86,11 +86,11 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 ```txt
-Haskell    1 hr 35 mins    ███████████████▒░░░░░░░░░   60.81 %
-Rust       52 mins         ████████▒░░░░░░░░░░░░░░░░   33.28 %
-Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-TOML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Typst      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Haskell    1 hr 35 mins    █████████████████▒░░░░░░░   69.70 %
+Rust       35 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Typst      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 
