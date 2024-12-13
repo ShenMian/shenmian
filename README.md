@@ -5,19 +5,19 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
 1. [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (4 days ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (1 week ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 weeks ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 weeks ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (3 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
 </details>
