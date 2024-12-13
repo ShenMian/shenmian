@@ -16,8 +16,8 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
 1. [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (4 days ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (1 week ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 weeks ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (3 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
 </details>
