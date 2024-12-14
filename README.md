@@ -45,13 +45,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
-- [build(deps): update bevy to v0.14](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+- [build(deps): update bevy to v0.15](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 days ago)
 - [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (6 days ago)
 
 <details><summary>more...</summary>
 
-1. [build(deps): update bevy to v0.14](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+1. [build(deps): update bevy to v0.15](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 days ago)
 1. [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (6 days ago)
 1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
