@@ -5,18 +5,18 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (4 days ago)
 1. [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (5 days ago)
 1. [ShenMian/test](https://github.com/ShenMian/test) (1 week ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 weeks ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (3 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
@@ -45,12 +45,13 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :hammer: Recent Pull Requests
 
 
+- [build(deps): update bevy to v0.14](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 days ago)
 - [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (6 days ago)
-- [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 
 <details><summary>more...</summary>
 
+1. [build(deps): update bevy to v0.14](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 days ago)
 1. [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (6 days ago)
 1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
@@ -60,7 +61,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [Upgrade dependencies](https://github.com/rparrett/entytd/pull/14) on [rparrett/entytd](https://github.com/rparrett/entytd) (4 months ago)
 1. [feat(camera): add mouse-driven panning](https://github.com/rparrett/entytd/pull/13) on [rparrett/entytd](https://github.com/rparrett/entytd) (4 months ago)
 1. [Refactor state management to use StateScoped instead of explicit cleanup](https://github.com/rparrett/entytd/pull/7) on [rparrett/entytd](https://github.com/rparrett/entytd) (5 months ago)
-1. [Upgrade to Bevy 0.14](https://github.com/rparrett/entytd/pull/6) on [rparrett/entytd](https://github.com/rparrett/entytd) (5 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
