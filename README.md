@@ -66,16 +66,16 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :seedling: Latest releases I've contributed to
 
 
+- [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.1.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.1.0), today) - Simple admonishment for typst
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.2](https://github.com/ShenMian/tracker/releases/tag/v0.1.2), 1 day ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-- [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.0.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.0.0), 3 months ago) - Simple admonishment for typst
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 5 months ago) - A sokoban with solver.
 - [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 6 months ago) - 
 - [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 11 months ago) - A simple sokoban.
 
 <details><summary>more...</summary>
 
+1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.1.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.1.0), today) - Simple admonishment for typst
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.2](https://github.com/ShenMian/tracker/releases/tag/v0.1.2), 1 day ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.0.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.0.0), 3 months ago) - Simple admonishment for typst
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 5 months ago) - A sokoban with solver.
 1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 6 months ago) - 
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 11 months ago) - A simple sokoban.
