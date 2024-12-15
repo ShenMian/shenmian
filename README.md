@@ -25,11 +25,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine. (today)
 - [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust (4 days ago)
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components write in GPUI. (1 week ago)
 
 <details><summary>more...</summary>
 
+1. [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine. (today)
 1. [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust (4 days ago)
 1. [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components write in GPUI. (1 week ago)
 1. [emilk/eframe_template](https://github.com/emilk/eframe_template) - The easy way to make a Rust app with a GUI (1 week ago)
@@ -39,7 +40,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (2 weeks ago)
 1. [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust (3 weeks ago)
 1. [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (1 month ago)
-1. [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game  (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
