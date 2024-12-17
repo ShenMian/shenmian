@@ -86,11 +86,8 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 ```txt
-Haskell   1 hr 25 mins    █████████████████▒░░░░░░░   69.83 %
-Rust      35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.00 %
-Text      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Typst     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Git       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Haskell   0 secs          █████████████▓░░░░░░░░░░░   54.93 %
+Rust      0 secs          ███████████▒░░░░░░░░░░░░░   45.07 %
 ```
 
 
