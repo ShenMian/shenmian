@@ -86,8 +86,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 ```txt
-Haskell   0 secs          █████████████▓░░░░░░░░░░░   54.93 %
-Rust      0 secs          ███████████▒░░░░░░░░░░░░░   45.07 %
+No activity tracked
 ```
 
 
