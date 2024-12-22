@@ -53,7 +53,11 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   16 mins         █████████████████████████   100.00 %
+Markdown   16 mins         ████████████░░░░░░░░░░░░░   47.79 %
+CMake      9 mins          ███████░░░░░░░░░░░░░░░░░░   28.18 %
+Lua        6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+C++        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
