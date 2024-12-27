@@ -5,15 +5,15 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (5 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (6 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (2 weeks ago)
 1. [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (2 weeks ago)
@@ -39,23 +39,23 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (1 month ago)
 1. [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (1 month ago)
 1. [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust (1 month ago)
-1. [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (1 month ago)
+1. [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
 
 
-- [feat: upgrade SFML to 3.0.0](https://github.com/ShenMian/gomoku/pull/2) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (5 days ago)
+- [feat: upgrade SFML to 3.0.0](https://github.com/ShenMian/gomoku/pull/2) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (6 days ago)
 - [build(deps): update bevy to v0.15](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 - [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 weeks ago)
 
 <details><summary>more...</summary>
 
-1. [feat: upgrade SFML to 3.0.0](https://github.com/ShenMian/gomoku/pull/2) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (5 days ago)
+1. [feat: upgrade SFML to 3.0.0](https://github.com/ShenMian/gomoku/pull/2) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (6 days ago)
 1. [build(deps): update bevy to v0.15](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 weeks ago)
 1. [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (2 weeks ago)
-1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
+1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 weeks ago)
 1. [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
 1. [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (1 month ago)
 1. [chore(deps): update leafwing-input-manager to v0.15](https://github.com/ShenMian/sokoban-rs/pull/10) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 months ago)
