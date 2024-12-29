@@ -6,19 +6,19 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (2 weeks ago)
 1. [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (2 weeks ago)
-1. [ShenMian/test](https://github.com/ShenMian/test) (3 weeks ago)
+1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) (3 weeks ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 month ago)
 </details>
 
@@ -69,7 +69,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.1.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.1.0), 2 weeks ago) - Simple admonishment for typst
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.2](https://github.com/ShenMian/tracker/releases/tag/v0.1.2), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 5 months ago) - A sokoban with solver.
-- [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 6 months ago) - 
+- [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 6 months ago) - 
 - [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 11 months ago) - A simple sokoban.
 
 <details><summary>more...</summary>
@@ -77,7 +77,7 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.1.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.1.0), 2 weeks ago) - Simple admonishment for typst
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.2](https://github.com/ShenMian/tracker/releases/tag/v0.1.2), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 5 months ago) - A sokoban with solver.
-1. [ShenMian/test](https://github.com/ShenMian/test) ([v0.1.9](https://github.com/ShenMian/test/releases/tag/v0.1.9), 6 months ago) - 
+1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 6 months ago) - 
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 11 months ago) - A simple sokoban.
 1. [rparrett/entytd](https://github.com/rparrett/entytd) ([v0.3.0](https://github.com/rparrett/entytd/releases/tag/v0.3.0), 11 months ago) - A 2d mining Tower Defense game for Bevy Jam 4
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 2 years ago) - A simple gomoku, supports LAN multiplayer.
