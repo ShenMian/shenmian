@@ -25,11 +25,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### :star: Recent Stars
 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (today)
 - [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine. (2 weeks ago)
-- [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust (2 weeks ago)
 
 <details><summary>more...</summary>
 
+1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (today)
 1. [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine. (2 weeks ago)
 1. [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust (2 weeks ago)
 1. [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components write in GPUI. (3 weeks ago)
@@ -39,7 +40,6 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 1. [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (1 month ago)
 1. [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser (1 month ago)
 1. [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust (1 month ago)
-1. [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조 (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
