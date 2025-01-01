@@ -5,12 +5,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 days ago)
