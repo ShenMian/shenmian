@@ -5,16 +5,16 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 weeks ago)
 1. [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (3 weeks ago)
