@@ -5,12 +5,12 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 #### 🔭 Currently working on
 
 
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
@@ -86,11 +86,11 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 ```txt
-Rust          3 hrs 34 mins   ██████████▓░░░░░░░░░░░░░░   43.06 %
-Markdown      2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.52 %
-Typst         1 hr 46 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-TOML          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-PowerShell    16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Rust          4 hrs 36 mins   ████████████▒░░░░░░░░░░░░   49.40 %
+Markdown      2 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
+Typst         1 hr 46 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+TOML          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+PowerShell    16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
 ```
 
 
