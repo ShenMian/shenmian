@@ -86,11 +86,11 @@ Currently learning Rust :crab:, [C++], [Computer Graphics] and [Game Engine Arch
 
 
 ```txt
-Rust          4 hrs 36 mins   ████████████▒░░░░░░░░░░░░   49.40 %
-Markdown      2 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
-Typst         1 hr 46 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-TOML          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-PowerShell    16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Rust          5 hrs 23 mins   ████████████▓░░░░░░░░░░░░   50.14 %
+Markdown      2 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.12 %
+Typst         1 hr 46 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+TOML          30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Other         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 
