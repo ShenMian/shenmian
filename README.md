@@ -27,11 +27,12 @@ Currently learning [Rust] :crab:.
 #### :star: Recent Stars
 
 
+- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (today)
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (4 days ago)
-- [haecker-felix/hebbot](https://github.com/haecker-felix/hebbot) - A Matrix bot which can generate &#34;This Week in X&#34; like blog posts (1 week ago)
 
 <details><summary>more...</summary>
 
+1. [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (today)
 1. [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (4 days ago)
 1. [haecker-felix/hebbot](https://github.com/haecker-felix/hebbot) - A Matrix bot which can generate &#34;This Week in X&#34; like blog posts (1 week ago)
 1. [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C&#43;&#43;, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing (1 week ago)
@@ -41,7 +42,6 @@ Currently learning [Rust] :crab:.
 1. [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine. (1 month ago)
 1. [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust (1 month ago)
 1. [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI. (1 month ago)
-1. [emilk/eframe_template](https://github.com/emilk/eframe_template) - The easy way to make a Rust app with a GUI (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
