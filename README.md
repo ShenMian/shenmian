@@ -1,25 +1,27 @@
 ### Hi there :wave:
 
-Currently learning Rust :crab:.
+Currently learning [Rust] :crab:.
+
+[Rust]: https://www.rust-lang.org/
 
 #### 🔭 Currently working on
 
 
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 - [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (1 week ago)
 1. [ShenMian/llm-bot](https://github.com/ShenMian/llm-bot) (1 week ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 weeks ago)
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (1 week ago)
 </details>
 
 #### :star: Recent Stars
@@ -102,9 +104,5 @@ Other         28 mins         █░░░░░░░░░░░░░░░�
 - Telegram: [**@ShenMian**](https://t.me/shenmian).
 - Matrix: [**@shenmian:matrix.org**](https://matrix.to/#/@shenmian:matrix.org).
 - PGP Key ID: `264514499FE580D7`.
-
-[C++]:                      https://github.com/ShenMian/Notes/tree/main/docs/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80/C%2B%2B
-[Computer Graphics]:        https://github.com/ShenMian/Notes/tree/main/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6
-[Game Engine Architecture]: https://github.com/ShenMian/Notes/tree/main/docs/%E6%B8%B8%E6%88%8F%E5%BC%95%E6%93%8E%E6%9E%B6%E6%9E%84
 
 
