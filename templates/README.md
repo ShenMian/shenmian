@@ -52,17 +52,9 @@ Currently learning [Rust] :crab:.
 {{- end}}
 </details>
 
-<!--START_SECTION:waka-->
+#### :bar_chart: Programming activity
 
-```txt
-Rust          4 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-Markdown      2 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
-Typst         2 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Haskell       1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-Other         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-```
-
-<!--END_SECTION:waka-->
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ShenMian&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Weekly+programming+activity&layout=compact)
 
 #### :speech_balloon: Contact
 
