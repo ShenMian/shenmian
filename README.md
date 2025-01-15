@@ -16,12 +16,12 @@ Currently learning [Rust] :crab:.
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 days ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
-1. [ShenMian/llm-bot](https://github.com/ShenMian/llm-bot) (1 week ago)
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (1 week ago)
+1. [ShenMian/llm-bot](https://github.com/ShenMian/llm-bot) (1 week ago)
 </details>
 
 #### :star: Recent Stars
@@ -87,17 +87,9 @@ Currently learning [Rust] :crab:.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.0](https://github.com/ShenMian/gomoku/releases/tag/v1.0.0), 2 years ago) - A simple gomoku, supports LAN multiplayer.
 </details>
 
+#### :bar_chart: Programming activity
 
-
-```txt
-Rust          4 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-Markdown      2 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
-Typst         2 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Haskell       1 hr 34 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-Other         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-```
-
-
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ShenMian&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Weekly+programming+activity&layout=compact)
 
 #### :speech_balloon: Contact
 
