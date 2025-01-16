@@ -27,11 +27,12 @@ Currently learning [Rust] :crab:.
 #### :star: Recent Stars
 
 
+- [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本 (today)
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (1 day ago)
-- [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (5 days ago)
 
 <details><summary>more...</summary>
 
+1. [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本 (today)
 1. [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (1 day ago)
 1. [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (5 days ago)
 1. [haecker-felix/hebbot](https://github.com/haecker-felix/hebbot) - A Matrix bot which can generate &#34;This Week in X&#34; like blog posts (1 week ago)
@@ -41,7 +42,6 @@ Currently learning [Rust] :crab:.
 1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (2 weeks ago)
 1. [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine. (1 month ago)
 1. [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust (1 month ago)
-1. [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI. (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
