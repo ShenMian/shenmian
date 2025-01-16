@@ -47,12 +47,13 @@ Currently learning [Rust] :crab:.
 #### :hammer: Recent Pull Requests
 
 
+- [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (today)
 - [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (3 days ago)
 - [refactor: remove unnecessary mut](https://github.com/pepperoni21/ollama-rs/pull/105) on [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (1 week ago)
-- [refactor: derive Debug and Clone for Classification and Elements](https://github.com/neuromorphicsystems/sgp4/pull/15) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 weeks ago)
 
 <details><summary>more...</summary>
 
+1. [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (today)
 1. [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (3 days ago)
 1. [refactor: remove unnecessary mut](https://github.com/pepperoni21/ollama-rs/pull/105) on [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (1 week ago)
 1. [refactor: derive Debug and Clone for Classification and Elements](https://github.com/neuromorphicsystems/sgp4/pull/15) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 weeks ago)
@@ -62,7 +63,6 @@ Currently learning [Rust] :crab:.
 1. [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (1 month ago)
 1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 1. [strawberry: Deprecate manifest](https://github.com/ScoopInstaller/Extras/pull/14382) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 months ago)
-1. [feat(lang): update Chinese translations](https://github.com/jomaway/typst-gentle-clues/pull/26) on [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) (2 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
