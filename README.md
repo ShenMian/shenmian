@@ -15,11 +15,11 @@ Currently learning [Rust] :crab:.
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (today)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (3 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (1 week ago)
 </details>
