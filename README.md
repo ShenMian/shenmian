@@ -7,15 +7,15 @@ Currently learning [Rust] :crab:.
 #### 🔭 Currently working on
 
 
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-- [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (1 day ago)
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (1 day ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 days ago)
@@ -68,17 +68,17 @@ Currently learning [Rust] :crab:.
 #### :seedling: Latest releases I've contributed to
 
 
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), today) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.4](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.4), 1 day ago) - A simple and easy-to-use library for interacting with the Ollama API.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.1.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.1.0), 1 month ago) - Simple admonishment for typst
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.2](https://github.com/ShenMian/tracker/releases/tag/v0.1.2), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 6 months ago) - This template is a great way to get started on a new 2D Bevy game!
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 6 months ago) - A sokoban with solver.
 
 <details><summary>more...</summary>
 
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), today) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.4](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.4), 1 day ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.1.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.1.0), 1 month ago) - Simple admonishment for typst
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.2](https://github.com/ShenMian/tracker/releases/tag/v0.1.2), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 6 months ago) - This template is a great way to get started on a new 2D Bevy game!
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.18](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.18), 6 months ago) - A sokoban with solver.
 1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 7 months ago) - 
