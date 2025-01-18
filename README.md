@@ -27,11 +27,12 @@ Currently learning [Rust] :crab:.
 #### :star: Recent Stars
 
 
+- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability. (today)
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本 (2 days ago)
-- [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (3 days ago)
 
 <details><summary>more...</summary>
 
+1. [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability. (today)
 1. [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本 (2 days ago)
 1. [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (3 days ago)
 1. [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (1 week ago)
@@ -41,7 +42,6 @@ Currently learning [Rust] :crab:.
 1. [Qloapps/QloApps](https://github.com/Qloapps/QloApps) - QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests. (2 weeks ago)
 1. [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web (2 weeks ago)
 1. [Lommix/bevy_hui](https://github.com/Lommix/bevy_hui) - Component based UI crate using Xml/Html with focus on hot reload for the bevy engine. (1 month ago)
-1. [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust (1 month ago)
 </details>
 
 #### :hammer: Recent Pull Requests
