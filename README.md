@@ -8,13 +8,13 @@ Currently learning [Rust] :crab:.
 
 
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (3 days ago)
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (3 days ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 days ago)
