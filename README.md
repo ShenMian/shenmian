@@ -7,14 +7,14 @@ Currently learning [Rust] :crab:.
 #### 🔭 Currently working on
 
 
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (4 days ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (4 days ago)
