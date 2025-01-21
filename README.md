@@ -8,12 +8,12 @@ Currently learning [Rust] :crab:.
 
 
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (5 days ago)
