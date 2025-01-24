@@ -7,19 +7,19 @@ Currently learning [Rust] :crab:.
 #### 🔭 Currently working on
 
 
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-- [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 day ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 day ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
-1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (1 week ago)
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (1 week ago)
+1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (1 week ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 </details>
@@ -27,11 +27,12 @@ Currently learning [Rust] :crab:.
 #### :star: Recent Stars
 
 
+- [flathub/org.gtk.Gtk3theme.Breeze-Dark](https://github.com/flathub/org.gtk.Gtk3theme.Breeze-Dark) -  (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
-- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (3 days ago)
 
 <details><summary>more...</summary>
 
+1. [flathub/org.gtk.Gtk3theme.Breeze-Dark](https://github.com/flathub/org.gtk.Gtk3theme.Breeze-Dark) -  (today)
 1. [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 days ago)
 1. [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (3 days ago)
 1. [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples (5 days ago)
@@ -41,7 +42,6 @@ Currently learning [Rust] :crab:.
 1. [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt. (1 week ago)
 1. [haecker-felix/hebbot](https://github.com/haecker-felix/hebbot) - A Matrix bot which can generate &#34;This Week in X&#34; like blog posts (2 weeks ago)
 1. [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C&#43;&#43;, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing (2 weeks ago)
-1. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (2 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
