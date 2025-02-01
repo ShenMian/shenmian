@@ -1,17 +1,18 @@
 ### Hi there :wave:
 
-Currently learning [Rust] :crab:.
+Currently learning [Rust] :crab:, algorithms and game development.
 
 [Rust]: https://www.rust-lang.org/
 
 #### 🔭 Currently working on
 
 
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
@@ -21,7 +22,6 @@ Currently learning [Rust] :crab:.
 1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 week ago)
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 weeks ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (2 weeks ago)
-1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (2 weeks ago)
 </details>
 
 #### :star: Recent Stars
