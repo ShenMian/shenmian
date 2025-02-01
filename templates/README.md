@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Currently learning [Rust] :crab:.
+Currently learning [Rust] :crab:, algorithms and game development.
 
 [Rust]: https://www.rust-lang.org/
 
