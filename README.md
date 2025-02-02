@@ -7,17 +7,17 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
+- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 day ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (today)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 days ago)
+1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 day ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 week ago)
@@ -27,17 +27,17 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :star: Recent Stars
 
 
-- [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (6 days ago)
-- [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (6 days ago)
+- [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (1 week ago)
+- [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (6 days ago)
-1. [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (6 days ago)
+1. [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (1 week ago)
+1. [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (1 week ago)
 1. [flathub/org.gtk.Gtk3theme.Breeze-Dark](https://github.com/flathub/org.gtk.Gtk3theme.Breeze-Dark) -  (1 week ago)
 1. [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 1. [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (1 week ago)
-1. [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples (1 week ago)
+1. [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples (2 weeks ago)
 1. [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability. (2 weeks ago)
 1. [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本 (2 weeks ago)
 1. [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics (2 weeks ago)
@@ -56,7 +56,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 week ago)
 1. [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 weeks ago)
 1. [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 weeks ago)
-1. [refactor: remove unnecessary mut](https://github.com/pepperoni21/ollama-rs/pull/105) on [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (3 weeks ago)
+1. [refactor: remove unnecessary mut](https://github.com/pepperoni21/ollama-rs/pull/105) on [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (4 weeks ago)
 1. [refactor: derive Debug and Clone for Classification and Elements](https://github.com/neuromorphicsystems/sgp4/pull/15) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (1 month ago)
 1. [feat: upgrade SFML to 3.0.0](https://github.com/ShenMian/gomoku/pull/2) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
 1. [build(deps): update bevy to v0.15](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
@@ -68,7 +68,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 3 days ago) - A simple gomoku, supports LAN multiplayer.
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 4 days ago) - A simple gomoku, supports LAN multiplayer.
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 week ago) - A sokoban with solver.
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.4](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.4), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
@@ -76,7 +76,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 3 days ago) - A simple gomoku, supports LAN multiplayer.
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 4 days ago) - A simple gomoku, supports LAN multiplayer.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 week ago) - A sokoban with solver.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.4](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.4), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
