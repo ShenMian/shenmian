@@ -7,17 +7,17 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (2 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (5 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 week ago)
@@ -27,13 +27,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :star: Recent Stars
 
 
-- [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (today)
-- [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (today)
+- [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (1 day ago)
+- [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (today)
-1. [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (today)
+1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (1 day ago)
+1. [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (1 day ago)
 1. [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (1 week ago)
 1. [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (1 week ago)
 1. [flathub/org.gtk.Gtk3theme.Breeze-Dark](https://github.com/flathub/org.gtk.Gtk3theme.Breeze-Dark) -  (1 week ago)
@@ -49,13 +49,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 - [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 week ago)
 - [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 weeks ago)
-- [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 weeks ago)
+- [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (3 weeks ago)
 
 <details><summary>more...</summary>
 
 1. [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 week ago)
 1. [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 weeks ago)
-1. [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 weeks ago)
+1. [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (3 weeks ago)
 1. [refactor: remove unnecessary mut](https://github.com/pepperoni21/ollama-rs/pull/105) on [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (4 weeks ago)
 1. [refactor: derive Debug and Clone for Classification and Elements](https://github.com/neuromorphicsystems/sgp4/pull/15) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (1 month ago)
 1. [feat: upgrade SFML to 3.0.0](https://github.com/ShenMian/gomoku/pull/2) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
@@ -68,7 +68,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 4 days ago) - A simple gomoku, supports LAN multiplayer.
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 5 days ago) - A simple gomoku, supports LAN multiplayer.
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 week ago) - A sokoban with solver.
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.4](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.4), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
@@ -76,13 +76,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 4 days ago) - A simple gomoku, supports LAN multiplayer.
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 5 days ago) - A simple gomoku, supports LAN multiplayer.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 week ago) - A sokoban with solver.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.4](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.4), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.1.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.1.0), 1 month ago) - Simple admonishment for typst
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 6 months ago) - This template is a great way to get started on a new 2D Bevy game!
-1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 7 months ago) - 
+1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 8 months ago) - 
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 1 year ago) - A simple sokoban.
 1. [rparrett/entytd](https://github.com/rparrett/entytd) ([v0.3.0](https://github.com/rparrett/entytd/releases/tag/v0.3.0), 1 year ago) - A 2d mining Tower Defense game for Bevy Jam 4
 </details>
