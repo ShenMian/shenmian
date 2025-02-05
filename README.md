@@ -7,17 +7,17 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (3 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+- [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (4 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (3 days ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (6 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (4 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (4 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
@@ -27,13 +27,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :star: Recent Stars
 
 
-- [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (2 days ago)
-- [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (2 days ago)
+- [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (3 days ago)
+- [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (2 days ago)
-1. [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (2 days ago)
+1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (3 days ago)
+1. [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (3 days ago)
 1. [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (1 week ago)
 1. [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (1 week ago)
 1. [flathub/org.gtk.Gtk3theme.Breeze-Dark](https://github.com/flathub/org.gtk.Gtk3theme.Breeze-Dark) -  (1 week ago)
@@ -68,7 +68,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 6 days ago) - A simple gomoku, supports LAN multiplayer.
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 1 week ago) - A simple gomoku, supports LAN multiplayer.
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 weeks ago) - A sokoban with solver.
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.4](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.4), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
@@ -76,7 +76,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 6 days ago) - A simple gomoku, supports LAN multiplayer.
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 1 week ago) - A simple gomoku, supports LAN multiplayer.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 weeks ago) - A sokoban with solver.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.4](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.4), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
