@@ -68,18 +68,18 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :seedling: Latest releases I've contributed to
 
 
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.5](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.5), today) - A simple and easy-to-use library for interacting with the Ollama API.
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 1 week ago) - A simple gomoku, supports LAN multiplayer.
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 weeks ago) - A sokoban with solver.
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.4](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.4), 3 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.1.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.1.0), 1 month ago) - Simple admonishment for typst
 
 <details><summary>more...</summary>
 
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.5](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.5), today) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 1 week ago) - A simple gomoku, supports LAN multiplayer.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 weeks ago) - A sokoban with solver.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.4](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.4), 3 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.1.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.1.0), 1 month ago) - Simple admonishment for typst
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 7 months ago) - This template is a great way to get started on a new 2D Bevy game!
 1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 8 months ago) - 
