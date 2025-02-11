@@ -15,13 +15,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (5 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
-1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
+1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
-1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 weeks ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 weeks ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
+1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 weeks ago)
 </details>
 
 #### :star: Recent Stars
