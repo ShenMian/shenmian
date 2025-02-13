@@ -7,12 +7,12 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
