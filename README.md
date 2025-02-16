@@ -20,8 +20,8 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 weeks ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (3 weeks ago)
 1. [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (3 weeks ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (3 weeks ago)
 </details>
 
 #### :star: Recent Stars
