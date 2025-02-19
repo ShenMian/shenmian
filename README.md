@@ -7,19 +7,19 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 day ago)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (4 days ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (5 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (6 days ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 weeks ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 weeks ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (3 weeks ago)
 </details>
