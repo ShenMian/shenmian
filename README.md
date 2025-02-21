@@ -7,18 +7,18 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (2 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
-1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (5 days ago)
-1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (6 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (3 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
+1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (6 days ago)
+1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 weeks ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (4 weeks ago)
@@ -27,19 +27,19 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :star: Recent Stars
 
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 day ago)
-- [icon11-community/Folder11-Ico](https://github.com/icon11-community/Folder11-Ico) - Ico repository for Folder11 (4 days ago)
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (2 days ago)
+- [icon11-community/Folder11-Ico](https://github.com/icon11-community/Folder11-Ico) - Ico repository for Folder11 (5 days ago)
 
 <details><summary>more...</summary>
 
-1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 day ago)
-1. [icon11-community/Folder11-Ico](https://github.com/icon11-community/Folder11-Ico) - Ico repository for Folder11 (4 days ago)
-1. [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon. (4 days ago)
+1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (2 days ago)
+1. [icon11-community/Folder11-Ico](https://github.com/icon11-community/Folder11-Ico) - Ico repository for Folder11 (5 days ago)
+1. [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon. (5 days ago)
 1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (2 weeks ago)
 1. [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (2 weeks ago)
 1. [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (3 weeks ago)
 1. [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (3 weeks ago)
-1. [flathub/org.gtk.Gtk3theme.Breeze-Dark](https://github.com/flathub/org.gtk.Gtk3theme.Breeze-Dark) -  (3 weeks ago)
+1. [flathub/org.gtk.Gtk3theme.Breeze-Dark](https://github.com/flathub/org.gtk.Gtk3theme.Breeze-Dark) -  (4 weeks ago)
 1. [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 month ago)
 1. [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs (1 month ago)
 </details>
@@ -68,7 +68,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :seedling: Latest releases I've contributed to
 
 
-- [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), today) - Simple admonishment for typst
+- [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 1 day ago) - Simple admonishment for typst
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.5](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.5), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 3 weeks ago) - A simple gomoku, supports LAN multiplayer.
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 month ago) - A sokoban with solver.
@@ -76,7 +76,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 <details><summary>more...</summary>
 
-1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), today) - Simple admonishment for typst
+1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 1 day ago) - Simple admonishment for typst
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.5](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.5), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.1](https://github.com/ShenMian/gomoku/releases/tag/v1.0.1), 3 weeks ago) - A simple gomoku, supports LAN multiplayer.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 month ago) - A sokoban with solver.
