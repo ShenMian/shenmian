@@ -8,12 +8,12 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (4 days ago)
