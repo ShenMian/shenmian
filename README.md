@@ -7,12 +7,12 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 days ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (3 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
