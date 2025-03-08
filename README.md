@@ -7,19 +7,19 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (6 days ago)
-1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (6 days ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (6 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
+1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 week ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (2 weeks ago)
-1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (2 weeks ago)
+1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (3 weeks ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (3 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 </details>
@@ -61,14 +61,14 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [feat: upgrade SFML to 3.0.0](https://github.com/ShenMian/gomoku/pull/2) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 months ago)
 1. [build(deps): update bevy to v0.15](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
 1. [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 months ago)
-1. [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (2 months ago)
+1. [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (3 months ago)
 1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 6 days ago) - A simple gomoku, supports LAN multiplayer.
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 week ago) - A simple gomoku, supports LAN multiplayer.
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.6](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.6), 1 week ago) - A simple and easy-to-use library for interacting with the Ollama API.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 2 weeks ago) - Simple admonishment for typst
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 month ago) - A sokoban with solver.
@@ -76,12 +76,12 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 6 days ago) - A simple gomoku, supports LAN multiplayer.
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 week ago) - A simple gomoku, supports LAN multiplayer.
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.6](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.6), 1 week ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 2 weeks ago) - Simple admonishment for typst
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 month ago) - A sokoban with solver.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 7 months ago) - This template is a great way to get started on a new 2D Bevy game!
+1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 8 months ago) - This template is a great way to get started on a new 2D Bevy game!
 1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 9 months ago) - 
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 1 year ago) - A simple sokoban.
 1. [rparrett/entytd](https://github.com/rparrett/entytd) ([v0.3.0](https://github.com/rparrett/entytd/releases/tag/v0.3.0), 1 year ago) - A 2d mining Tower Defense game for Bevy Jam 4
