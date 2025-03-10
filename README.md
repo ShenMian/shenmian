@@ -7,13 +7,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
@@ -60,7 +60,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [refactor: derive Debug and Clone for Classification and Elements](https://github.com/neuromorphicsystems/sgp4/pull/15) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 months ago)
 1. [feat: upgrade SFML to 3.0.0](https://github.com/ShenMian/gomoku/pull/2) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 months ago)
 1. [build(deps): update bevy to v0.15](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
-1. [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 months ago)
+1. [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (3 months ago)
 1. [Add tracker](https://github.com/ratatui/awesome-ratatui/pull/107) on [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) (3 months ago)
 1. [Fix rapid and continuous movement issue](https://github.com/ShenMian/sokoban-rs/pull/14) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 months ago)
 </details>
