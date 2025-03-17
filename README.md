@@ -7,19 +7,19 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (5 days ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 weeks ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (3 weeks ago)
-1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (4 weeks ago)
+1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 month ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 month ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 </details>
@@ -27,12 +27,12 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :star: Recent Stars
 
 
-- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (today)
+- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 day ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 weeks ago)
 
 <details><summary>more...</summary>
 
-1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (today)
+1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 day ago)
 1. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 weeks ago)
 1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (3 weeks ago)
 1. [icon11-community/Folder11-Ico](https://github.com/icon11-community/Folder11-Ico) - Ico repository for Folder11 (4 weeks ago)
@@ -48,13 +48,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 
 - [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 month ago)
-- [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (1 month ago)
+- [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 months ago)
 - [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 months ago)
 
 <details><summary>more...</summary>
 
 1. [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 month ago)
-1. [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (1 month ago)
+1. [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 months ago)
 1. [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 months ago)
 1. [refactor: remove unnecessary mut](https://github.com/pepperoni21/ollama-rs/pull/105) on [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (2 months ago)
 1. [refactor: derive Debug and Clone for Classification and Elements](https://github.com/neuromorphicsystems/sgp4/pull/15) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 months ago)
