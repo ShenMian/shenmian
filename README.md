@@ -7,18 +7,18 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (5 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (6 days ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 weeks ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (3 weeks ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 weeks ago)
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (4 weeks ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 month ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 month ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
@@ -27,16 +27,16 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :star: Recent Stars
 
 
-- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 day ago)
+- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (2 days ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 weeks ago)
 
 <details><summary>more...</summary>
 
-1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 day ago)
+1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (2 days ago)
 1. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 weeks ago)
 1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (3 weeks ago)
-1. [icon11-community/Folder11-Ico](https://github.com/icon11-community/Folder11-Ico) - Ico repository for Folder11 (4 weeks ago)
-1. [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon. (4 weeks ago)
+1. [icon11-community/Folder11-Ico](https://github.com/icon11-community/Folder11-Ico) - Ico repository for Folder11 (1 month ago)
+1. [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon. (1 month ago)
 1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (1 month ago)
 1. [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (1 month ago)
 1. [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (1 month ago)
@@ -72,7 +72,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.6](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.6), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 3 weeks ago) - Simple admonishment for typst
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 month ago) - A sokoban with solver.
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 
 <details><summary>more...</summary>
 
@@ -80,7 +80,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.2.6](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.2.6), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 3 weeks ago) - Simple admonishment for typst
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 month ago) - A sokoban with solver.
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 8 months ago) - This template is a great way to get started on a new 2D Bevy game!
 1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 9 months ago) - 
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 1 year ago) - A simple sokoban.
