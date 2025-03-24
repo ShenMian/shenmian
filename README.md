@@ -7,13 +7,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (3 weeks ago)
@@ -47,13 +47,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :hammer: Recent Pull Requests
 
 
-- [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 month ago)
+- [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 months ago)
 - [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 months ago)
 - [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 months ago)
 
 <details><summary>more...</summary>
 
-1. [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 month ago)
+1. [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 months ago)
 1. [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 months ago)
 1. [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 months ago)
 1. [refactor: remove unnecessary mut](https://github.com/pepperoni21/ollama-rs/pull/105) on [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (2 months ago)
