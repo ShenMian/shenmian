@@ -7,17 +7,17 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
-1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 weeks ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 weeks ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 days ago)
+1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 month ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 month ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 month ago)
@@ -68,16 +68,16 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :seedling: Latest releases I've contributed to
 
 
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), today) - A simple and easy-to-use library for interacting with the Ollama API.
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 4 weeks ago) - A simple gomoku, supports LAN multiplayer.
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 1 day ago) - A simple and easy-to-use library for interacting with the Ollama API.
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 month ago) - A simple gomoku, supports LAN multiplayer.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 1 month ago) - Simple admonishment for typst
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 months ago) - A sokoban with solver.
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 
 <details><summary>more...</summary>
 
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), today) - A simple and easy-to-use library for interacting with the Ollama API.
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 4 weeks ago) - A simple gomoku, supports LAN multiplayer.
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 1 day ago) - A simple and easy-to-use library for interacting with the Ollama API.
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 month ago) - A simple gomoku, supports LAN multiplayer.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 1 month ago) - Simple admonishment for typst
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 months ago) - A sokoban with solver.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.3](https://github.com/ShenMian/tracker/releases/tag/v0.1.3), 2 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
