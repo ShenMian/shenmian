@@ -7,15 +7,15 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (6 days ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 month ago)
@@ -37,8 +37,8 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 month ago)
 1. [icon11-community/Folder-Ico](https://github.com/icon11-community/Folder-Ico) - Ico repository for Folder11 (1 month ago)
 1. [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon. (1 month ago)
-1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (1 month ago)
-1. [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (1 month ago)
+1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (2 months ago)
+1. [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (2 months ago)
 1. [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (2 months ago)
 1. [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (2 months ago)
 1. [flathub/org.gtk.Gtk3theme.Breeze-Dark](https://github.com/flathub/org.gtk.Gtk3theme.Breeze-Dark) -  (2 months ago)
@@ -47,13 +47,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :hammer: Recent Pull Requests
 
 
-- [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (1 day ago)
+- [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (2 days ago)
 - [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 months ago)
 - [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 months ago)
 
 <details><summary>more...</summary>
 
-1. [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (1 day ago)
+1. [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (2 days ago)
 1. [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 months ago)
 1. [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 months ago)
 1. [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 months ago)
@@ -68,7 +68,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :seedling: Latest releases I've contributed to
 
 
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 3 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 4 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 month ago) - A simple gomoku, supports LAN multiplayer.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 1 month ago) - Simple admonishment for typst
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 months ago) - A sokoban with solver.
@@ -76,7 +76,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 <details><summary>more...</summary>
 
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 3 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 4 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 month ago) - A simple gomoku, supports LAN multiplayer.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 1 month ago) - Simple admonishment for typst
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 months ago) - A sokoban with solver.
