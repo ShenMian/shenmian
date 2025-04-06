@@ -27,11 +27,12 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :star: Recent Stars
 
 
+- [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (today)
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (3 weeks ago)
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (1 month ago)
 
 <details><summary>more...</summary>
 
+1. [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (today)
 1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (3 weeks ago)
 1. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (1 month ago)
 1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 month ago)
@@ -41,7 +42,6 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (2 months ago)
 1. [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (2 months ago)
 1. [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (2 months ago)
-1. [flathub/org.gtk.Gtk3theme.Breeze-Dark](https://github.com/flathub/org.gtk.Gtk3theme.Breeze-Dark) -  (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
