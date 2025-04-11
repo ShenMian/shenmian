@@ -8,12 +8,12 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 
 - [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (6 days ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
