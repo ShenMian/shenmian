@@ -7,14 +7,14 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 day ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (2 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 day ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
+1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
@@ -27,13 +27,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :star: Recent Stars
 
 
-- [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (6 days ago)
-- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (3 weeks ago)
+- [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (1 week ago)
+- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (4 weeks ago)
 
 <details><summary>more...</summary>
 
-1. [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (6 days ago)
-1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (3 weeks ago)
+1. [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (1 week ago)
+1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (4 weeks ago)
 1. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (1 month ago)
 1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 month ago)
 1. [icon11-community/Folder-Ico](https://github.com/icon11-community/Folder-Ico) - Ico repository for Folder11 (1 month ago)
@@ -47,21 +47,21 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :hammer: Recent Pull Requests
 
 
-- [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
+- [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
 - [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (1 week ago)
 - [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 months ago)
 
 <details><summary>more...</summary>
 
-1. [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
+1. [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
 1. [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (1 week ago)
 1. [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 months ago)
 1. [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (2 months ago)
-1. [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 months ago)
+1. [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (3 months ago)
 1. [refactor: remove unnecessary mut](https://github.com/pepperoni21/ollama-rs/pull/105) on [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (3 months ago)
 1. [refactor: derive Debug and Clone for Classification and Elements](https://github.com/neuromorphicsystems/sgp4/pull/15) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (3 months ago)
 1. [feat: upgrade SFML to 3.0.0](https://github.com/ShenMian/gomoku/pull/2) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 months ago)
-1. [build(deps): update bevy to v0.15](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 months ago)
+1. [build(deps): update bevy to v0.15](https://github.com/ShenMian/sokoban-rs/pull/15) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 months ago)
 1. [tracker: Add version 0.1.1](https://github.com/ScoopInstaller/Extras/pull/14548) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 months ago)
 </details>
 
@@ -69,7 +69,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 1 week ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 1 week ago) - A simple and easy-to-use library for interacting with the Ollama API.
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 month ago) - A simple gomoku, supports LAN multiplayer.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 1 month ago) - Simple admonishment for typst
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 months ago) - A sokoban with solver.
@@ -77,7 +77,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 <details><summary>more...</summary>
 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 1 week ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 1 week ago) - A simple and easy-to-use library for interacting with the Ollama API.
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 month ago) - A simple gomoku, supports LAN multiplayer.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 1 month ago) - Simple admonishment for typst
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 months ago) - A sokoban with solver.
