@@ -47,12 +47,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :hammer: Recent Pull Requests
 
 
+- [Use of pre-increment/decrement operators for iterators](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
 - [Replace `const std::string_view &amp;` with `std::string_view`](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
 - [Fix code block syntax in documentation](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (3 days ago)
-- [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (6 days ago)
 
 <details><summary>more...</summary>
 
+1. [Use of pre-increment/decrement operators for iterators](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
 1. [Replace `const std::string_view &amp;` with `std::string_view`](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
 1. [Fix code block syntax in documentation](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (3 days ago)
 1. [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (6 days ago)
@@ -62,7 +63,6 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [refactor: replace TextFont struct initialization with from_font_size …](https://github.com/TheBevyFlock/bevy_new_2d/pull/323) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (3 months ago)
 1. [refactor: remove unnecessary mut](https://github.com/pepperoni21/ollama-rs/pull/105) on [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) (3 months ago)
 1. [refactor: derive Debug and Clone for Classification and Elements](https://github.com/neuromorphicsystems/sgp4/pull/15) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (3 months ago)
-1. [feat: upgrade SFML to 3.0.0](https://github.com/ShenMian/gomoku/pull/2) on [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
