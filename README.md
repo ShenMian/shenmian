@@ -7,14 +7,14 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 weeks ago)
@@ -27,15 +27,15 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :star: Recent Stars
 
 
-- [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (1 week ago)
+- [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (2 weeks ago)
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 month ago)
 
 <details><summary>more...</summary>
 
-1. [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (1 week ago)
+1. [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (2 weeks ago)
 1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (1 month ago)
 1. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (1 month ago)
-1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 month ago)
+1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (2 months ago)
 1. [icon11-community/Folder-Ico](https://github.com/icon11-community/Folder-Ico) - Ico repository for Folder11 (2 months ago)
 1. [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon. (2 months ago)
 1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (2 months ago)
@@ -47,17 +47,17 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :hammer: Recent Pull Requests
 
 
-- [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
-- [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80631) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
-- [Use of pre-increment/decrement operators for iterators](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
+- [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
+- [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80631) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
+- [Use of pre-increment/decrement operators for iterators](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
-1. [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80631) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (today)
-1. [Use of pre-increment/decrement operators for iterators](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
-1. [Replace `const std::string_view &amp;` with `std::string_view`](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
-1. [Fix code block syntax in documentation](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (4 days ago)
+1. [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
+1. [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80631) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 day ago)
+1. [Use of pre-increment/decrement operators for iterators](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 days ago)
+1. [Replace `const std::string_view &amp;` with `std::string_view`](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 days ago)
+1. [Fix code block syntax in documentation](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (5 days ago)
 1. [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 week ago)
 1. [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (2 weeks ago)
 1. [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 months ago)
@@ -69,7 +69,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 3 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 month ago) - A simple gomoku, supports LAN multiplayer.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 1 month ago) - Simple admonishment for typst
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 months ago) - A sokoban with solver.
@@ -77,7 +77,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 <details><summary>more...</summary>
 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 2 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.0](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.0), 3 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 month ago) - A simple gomoku, supports LAN multiplayer.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 1 month ago) - Simple admonishment for typst
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 2 months ago) - A sokoban with solver.
