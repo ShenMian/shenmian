@@ -15,13 +15,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (5 days ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (5 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (6 days ago)
 1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (2 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 weeks ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (2 months ago)
 </details>
 
 #### :star: Recent Stars
@@ -61,8 +61,8 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [Fix code block syntax in documentation](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 week ago)
 1. [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 weeks ago)
 1. [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (3 weeks ago)
-1. [sokoban: update license to Apache-2.0](https://github.com/Calinou/scoop-games/pull/1313) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (3 months ago)
-1. [refactor(lib): replace manual clamp with f32::clamp](https://github.com/neuromorphicsystems/sgp4/pull/16) on [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) (3 months ago)
+1. [feat(player): update picker colors to fit UNO cards](https://github.com/ShenMian/uno-cpp/pull/12) on [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (3 weeks ago)
+1. [feat: add audio effects and optimize timing delays](https://github.com/ShenMian/uno-cpp/pull/11) on [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (3 weeks ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
