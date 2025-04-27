@@ -7,12 +7,12 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (1 day ago)
+- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (today)
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) (6 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (1 day ago)
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (6 days ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (6 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
