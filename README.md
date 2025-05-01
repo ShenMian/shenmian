@@ -7,19 +7,19 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (2 days ago)
+- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (3 days ago)
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (2 days ago)
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (3 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (2 weeks ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 weeks ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 weeks ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 months ago)
 </details>
@@ -60,7 +60,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [Replace `const std::string_view &amp;` with `std::string_view`](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 week ago)
 1. [Fix code block syntax in documentation](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 weeks ago)
 1. [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 weeks ago)
-1. [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (4 weeks ago)
+1. [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (1 month ago)
 1. [feat(player): update picker colors to fit UNO cards](https://github.com/ShenMian/uno-cpp/pull/12) on [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (1 month ago)
 1. [feat: add audio effects and optimize timing delays](https://github.com/ShenMian/uno-cpp/pull/11) on [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (1 month ago)
 </details>
@@ -68,16 +68,16 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :seedling: Latest releases I've contributed to
 
 
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 2 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
-- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 2 days ago) - 
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 3 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
+- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 3 days ago) - 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 3 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 2 months ago) - A simple gomoku, supports LAN multiplayer.
 - [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 2 months ago) - Simple admonishment for typst
 
 <details><summary>more...</summary>
 
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 2 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 2 days ago) - 
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 3 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 3 days ago) - 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 3 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 2 months ago) - A simple gomoku, supports LAN multiplayer.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 2 months ago) - Simple admonishment for typst
