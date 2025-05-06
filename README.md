@@ -8,13 +8,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 
 - [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (today)
-- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (today)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 weeks ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (2 weeks ago)
 1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 weeks ago)
