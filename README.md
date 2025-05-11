@@ -7,19 +7,19 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (2 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (3 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (2 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 weeks ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (2 weeks ago)
 1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (3 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
-1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (4 weeks ago)
+1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 month ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 </details>
@@ -68,7 +68,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### :seedling: Latest releases I've contributed to
 
 
-- [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 5 days ago) - A Rust implementation of the SGP4 satellite propagation algorithm
+- [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 6 days ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 1 week ago) - A simple and easy-to-use library for interacting with the Ollama API.
 - [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 1 week ago) - 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
@@ -76,7 +76,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 
 <details><summary>more...</summary>
 
-1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 5 days ago) - A Rust implementation of the SGP4 satellite propagation algorithm
+1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 6 days ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 1 week ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 1 week ago) - 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
