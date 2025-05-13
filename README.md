@@ -7,13 +7,13 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (4 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
+- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (5 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (4 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (5 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 weeks ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (3 weeks ago)
@@ -58,7 +58,7 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80631) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (3 weeks ago)
 1. [Use of pre-increment/decrement operators for iterators](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (3 weeks ago)
 1. [Replace `const std::string_view &amp;` with `std::string_view`](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (3 weeks ago)
-1. [Fix code block syntax in documentation](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (3 weeks ago)
+1. [Fix code block syntax in documentation](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (4 weeks ago)
 1. [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 month ago)
 1. [improve translation consistency](https://github.com/pretzelhammer/rust-blog/pull/97) on [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog) (1 month ago)
 1. [feat(player): update picker colors to fit UNO cards](https://github.com/ShenMian/uno-cpp/pull/12) on [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (1 month ago)
