@@ -7,11 +7,12 @@ Currently learning [Rust] :crab:, algorithms and game development.
 #### 🔭 Currently working on
 
 
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 day ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (1 week ago)
@@ -21,7 +22,6 @@ Currently learning [Rust] :crab:, algorithms and game development.
 1. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (3 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 </details>
 
 #### :star: Recent Stars
