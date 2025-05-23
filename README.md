@@ -8,17 +8,17 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-- [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (5 days ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+- [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (6 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (5 days ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (5 days ago)
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (5 days ago)
-1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (5 days ago)
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (5 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (6 days ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (6 days ago)
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (6 days ago)
+1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (6 days ago)
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (6 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 month ago)
