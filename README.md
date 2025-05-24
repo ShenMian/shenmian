@@ -8,17 +8,17 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-- [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (6 days ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+- [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (6 days ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (6 days ago)
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (6 days ago)
-1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (6 days ago)
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (6 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 week ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (1 week ago)
+1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 week ago)
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/sokoban-tutorial](https://github.com/ShenMian/sokoban-tutorial) (1 month ago)
@@ -28,12 +28,12 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :star: Recent Stars
 
 
-- [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200&#43;经典内核文章，100&#43;内核论文，50&#43;内核项目，500&#43;内核面试题，80&#43;内核视频 (2 weeks ago)
+- [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200&#43;经典内核文章，100&#43;内核论文，50&#43;内核项目，500&#43;内核面试题，80&#43;内核视频 (3 weeks ago)
 - [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (1 month ago)
 
 <details><summary>more...</summary>
 
-1. [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200&#43;经典内核文章，100&#43;内核论文，50&#43;内核项目，500&#43;内核面试题，80&#43;内核视频 (2 weeks ago)
+1. [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200&#43;经典内核文章，100&#43;内核论文，50&#43;内核项目，500&#43;内核面试题，80&#43;内核视频 (3 weeks ago)
 1. [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (1 month ago)
 1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (2 months ago)
 1. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 months ago)
