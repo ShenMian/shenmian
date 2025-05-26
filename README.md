@@ -8,14 +8,14 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### 🔭 Currently working on
 
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 week ago)
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
@@ -42,7 +42,7 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 1. [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon. (3 months ago)
 1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (3 months ago)
 1. [codetechandtutorials/openal-impl](https://github.com/codetechandtutorials/openal-impl) - An example of using the OpenAL sound library. (3 months ago)
-1. [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (3 months ago)
+1. [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (4 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
@@ -69,17 +69,17 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :seedling: Latest releases I've contributed to
 
 
-- [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 2 weeks ago) - A Rust implementation of the SGP4 satellite propagation algorithm
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 3 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
-- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 3 weeks ago) - 
+- [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 3 weeks ago) - A Rust implementation of the SGP4 satellite propagation algorithm
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 4 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
+- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 4 weeks ago) - 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 2 months ago) - A simple gomoku, supports LAN multiplayer.
 
 <details><summary>more...</summary>
 
-1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 2 weeks ago) - A Rust implementation of the SGP4 satellite propagation algorithm
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 3 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 3 weeks ago) - 
+1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 3 weeks ago) - A Rust implementation of the SGP4 satellite propagation algorithm
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 4 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 4 weeks ago) - 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 2 months ago) - A simple gomoku, supports LAN multiplayer.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 3 months ago) - Simple admonishment for typst
