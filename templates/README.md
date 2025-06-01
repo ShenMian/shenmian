@@ -8,8 +8,9 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### 🔭 Currently working on
 
 {{range recentContributions 2}}
+
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
-{{- end}}
+  {{- end}}
 
 <details><summary>more...</summary>
 {{range recentContributions 10}}
@@ -20,8 +21,9 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :star: Recent Stars
 
 {{range recentStars 2}}
+
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+  {{- end}}
 
 <details><summary>more...</summary>
 {{range recentStars 10}}
@@ -32,8 +34,9 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :hammer: Recent Pull Requests
 
 {{range recentPullRequests 3}}
+
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+  {{- end}}
 
 <details><summary>more...</summary>
 {{range recentPullRequests 10}}
@@ -44,8 +47,9 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :seedling: Latest releases I've contributed to
 
 {{range recentReleases 5}}
+
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
+  {{- end}}
 
 <details><summary>more...</summary>
 {{range recentReleases 10}}
@@ -60,13 +64,13 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :computer: Tech Stack
 
 - Operating systems  
-    ![](https://skillicons.dev/icons?i=windows,linux)
+   ![Operating systems](https://skillicons.dev/icons?i=windows,linux)
 - Frameworks  
-    ![](https://skillicons.dev/icons?i=bevy,django,arduino)
+   ![Frameworks](https://skillicons.dev/icons?i=bevy,django,arduino)
 - Languages  
-    ![](https://skillicons.dev/icons?i=rust,cpp,c,md,haskell)
+   ![Languages](https://skillicons.dev/icons?i=rust,cpp,c,md,haskell)
 - Tools  
-    ![](https://skillicons.dev/icons?i=vscode,neovim,git,github,godot,blender,sqlite,cmake)
+   ![Tools](https://skillicons.dev/icons?i=vscode,neovim,git,github,godot,blender,sqlite,cmake)
 
 #### :speech_balloon: Contact
 
