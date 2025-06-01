@@ -8,7 +8,9 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### 🔭 Currently working on
 
 
+
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
+
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 
 <details><summary>more...</summary>
@@ -28,7 +30,9 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :star: Recent Stars
 
 
+
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200&#43;经典内核文章，100&#43;内核论文，50&#43;内核项目，500&#43;内核面试题，80&#43;内核视频 (4 weeks ago)
+
 - [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (1 month ago)
 
 <details><summary>more...</summary>
@@ -48,8 +52,11 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :hammer: Recent Pull Requests
 
 
+
 - [chore(deps): update bevy to v0.16](https://github.com/ShenMian/sokoban-rs/pull/18) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
+
 - [Use &#39;const&#39; for local variables in achievement, action, active_item_c…](https://github.com/CleverRaven/Cataclysm-DDA/pull/80663) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 month ago)
+
 - [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 month ago)
 
 <details><summary>more...</summary>
@@ -69,10 +76,15 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :seedling: Latest releases I've contributed to
 
 
+
 - [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 3 weeks ago) - A Rust implementation of the SGP4 satellite propagation algorithm
+
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.1](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.1), 1 month ago) - A simple and easy-to-use library for interacting with the Ollama API.
+
 - [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 1 month ago) - 
+
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 3 months ago) - A simple gomoku, supports LAN multiplayer.
 
 <details><summary>more...</summary>
@@ -96,13 +108,13 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :computer: Tech Stack
 
 - Operating systems  
-    ![](https://skillicons.dev/icons?i=windows,linux)
+   ![Operating systems](https://skillicons.dev/icons?i=windows,linux)
 - Frameworks  
-    ![](https://skillicons.dev/icons?i=bevy,django,arduino)
+   ![Frameworks](https://skillicons.dev/icons?i=bevy,django,arduino)
 - Languages  
-    ![](https://skillicons.dev/icons?i=rust,cpp,c,md,haskell)
+   ![Languages](https://skillicons.dev/icons?i=rust,cpp,c,md,haskell)
 - Tools  
-    ![](https://skillicons.dev/icons?i=vscode,neovim,git,github,godot,blender,sqlite,cmake)
+   ![Tools](https://skillicons.dev/icons?i=vscode,neovim,git,github,godot,blender,sqlite,cmake)
 
 #### :speech_balloon: Contact
 
