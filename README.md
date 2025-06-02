@@ -9,16 +9,16 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (2 weeks ago)
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (2 weeks ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (2 weeks ago)
