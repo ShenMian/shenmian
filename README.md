@@ -9,19 +9,19 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (6 days ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (3 weeks ago)
 1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (3 weeks ago)
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (3 weeks ago)
