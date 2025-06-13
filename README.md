@@ -9,16 +9,16 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (6 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (6 days ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
