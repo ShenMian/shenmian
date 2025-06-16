@@ -9,43 +9,43 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 week ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (4 weeks ago)
-1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (4 weeks ago)
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (4 weeks ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 weeks ago)
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) (1 month ago)
+1. [ShenMian/quadcopter-arduino](https://github.com/ShenMian/quadcopter-arduino) (1 month ago)
+1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) (1 month ago)
 </details>
 
 #### :star: Recent Stars
 
 
 
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (today)
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (1 day ago)
 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. (2 days ago)
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (today)
-1. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. (2 days ago)
+1. [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (1 day ago)
+1. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. (3 days ago)
 1. [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200&#43;经典内核文章，100&#43;内核论文，50&#43;内核项目，500&#43;内核面试题，80&#43;内核视频 (1 month ago)
 1. [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (2 months ago)
 1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (3 months ago)
 1. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (3 months ago)
 1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (3 months ago)
-1. [icon11-community/Folder-Ico](https://github.com/icon11-community/Folder-Ico) - Ico repository for Folder11 (3 months ago)
-1. [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon. (3 months ago)
+1. [icon11-community/Folder-Ico](https://github.com/icon11-community/Folder-Ico) - Ico repository for Folder11 (4 months ago)
+1. [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon. (4 months ago)
 1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (4 months ago)
 </details>
 
