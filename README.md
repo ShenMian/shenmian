@@ -31,12 +31,13 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (2 days ago)
+- [netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover) - Netdiscover, ARP Scanner (official repository) (today)
 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. (4 days ago)
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (2 days ago)
 
 <details><summary>more...</summary>
 
+1. [netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover) - Netdiscover, ARP Scanner (official repository) (today)
 1. [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (2 days ago)
 1. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. (4 days ago)
 1. [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200&#43;经典内核文章，100&#43;内核论文，50&#43;内核项目，500&#43;内核面试题，80&#43;内核视频 (1 month ago)
@@ -46,7 +47,6 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (3 months ago)
 1. [icon11-community/Folder-Ico](https://github.com/icon11-community/Folder-Ico) - Ico repository for Folder11 (4 months ago)
 1. [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon. (4 months ago)
-1. [Fris0uman/CDDA-Soundpacks](https://github.com/Fris0uman/CDDA-Soundpacks) - A continuation of the CO.AG soundpack initiated by SkyBreach (4 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
