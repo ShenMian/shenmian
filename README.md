@@ -9,15 +9,15 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
-- [ShenMian/bucket](https://github.com/ShenMian/bucket) (today)
+- [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (today)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 day ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (4 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (2 weeks ago)
@@ -31,14 +31,14 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover) - Netdiscover, ARP Scanner (official repository) (4 days ago)
+- [netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover) - Netdiscover, ARP Scanner (official repository) (5 days ago)
 
-- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (6 days ago)
+- [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover) - Netdiscover, ARP Scanner (official repository) (4 days ago)
-1. [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (6 days ago)
+1. [netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover) - Netdiscover, ARP Scanner (official repository) (5 days ago)
+1. [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (1 week ago)
 1. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. (1 week ago)
 1. [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200&#43;经典内核文章，100&#43;内核论文，50&#43;内核项目，500&#43;内核面试题，80&#43;内核视频 (1 month ago)
 1. [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (2 months ago)
@@ -53,7 +53,7 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [blender: Update executable name to blender-launcher.exe in blender.json](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (today)
+- [blender: Update executable name to blender-launcher.exe in blender.json](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 day ago)
 
 - [chore(deps): update bevy to v0.16](https://github.com/ShenMian/sokoban-rs/pull/18) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 
@@ -61,7 +61,7 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 <details><summary>more...</summary>
 
-1. [blender: Update executable name to blender-launcher.exe in blender.json](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (today)
+1. [blender: Update executable name to blender-launcher.exe in blender.json](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 day ago)
 1. [chore(deps): update bevy to v0.16](https://github.com/ShenMian/sokoban-rs/pull/18) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 1. [Use &#39;const&#39; for local variables in achievement, action, active_item_c…](https://github.com/CleverRaven/Cataclysm-DDA/pull/80663) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 months ago)
 1. [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 months ago)
