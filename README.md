@@ -9,15 +9,15 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
-- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 days ago)
+- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 days ago)
-1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (5 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (3 days ago)
+1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (6 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
@@ -31,20 +31,20 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统 (today)
+- [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统 (1 day ago)
 
 - [netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover) - Netdiscover, ARP Scanner (official repository) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统 (today)
+1. [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统 (1 day ago)
 1. [netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover) - Netdiscover, ARP Scanner (official repository) (1 week ago)
 1. [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (1 week ago)
-1. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. (1 week ago)
+1. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. (2 weeks ago)
 1. [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200&#43;经典内核文章，100&#43;内核论文，50&#43;内核项目，500&#43;内核面试题，80&#43;内核视频 (1 month ago)
 1. [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme) - Boot your machine in style with a fluent, modern, and clean GRUB theme. Choose from a growing list of theme variants to show off your *NIX distro! (2 months ago)
 1. [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (3 months ago)
-1. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (3 months ago)
+1. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (4 months ago)
 1. [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (4 months ago)
 1. [icon11-community/Folder-Ico](https://github.com/icon11-community/Folder-Ico) - Ico repository for Folder11 (4 months ago)
 </details>
@@ -53,7 +53,7 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (5 days ago)
+- [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (6 days ago)
 
 - [chore(deps): update bevy to v0.16](https://github.com/ShenMian/sokoban-rs/pull/18) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 
@@ -61,7 +61,7 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 <details><summary>more...</summary>
 
-1. [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (5 days ago)
+1. [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (6 days ago)
 1. [chore(deps): update bevy to v0.16](https://github.com/ShenMian/sokoban-rs/pull/18) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 1. [Use &#39;const&#39; for local variables in achievement, action, active_item_c…](https://github.com/CleverRaven/Cataclysm-DDA/pull/80663) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 months ago)
 1. [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 months ago)
@@ -77,11 +77,11 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 2 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 3 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
 
 - [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 1 month ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 
-- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 1 month ago) - 
+- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 2 months ago) - 
 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 2 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 
@@ -89,9 +89,9 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 <details><summary>more...</summary>
 
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 2 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 3 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 1 month ago) - A Rust implementation of the SGP4 satellite propagation algorithm
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 1 month ago) - 
+1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 2 months ago) - 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 2 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 3 months ago) - A simple gomoku, supports LAN multiplayer.
 1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 4 months ago) - Simple admonishment for typst
