@@ -9,14 +9,14 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (4 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (4 days ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (4 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 week ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 week ago)
