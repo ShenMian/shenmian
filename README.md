@@ -11,13 +11,13 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 weeks ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (2 weeks ago)
