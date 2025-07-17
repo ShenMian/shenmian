@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Currently learning [Rust] :crab:, [KRR], robotics and game development.
+Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game development.
 
 [Rust]: https://www.rust-lang.org/
 [KRR]: https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
@@ -9,12 +9,13 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (5 days ago)
@@ -24,7 +25,6 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (3 weeks ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 month ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 </details>
 
 #### :star: Recent Stars
@@ -57,8 +57,6 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 - [chore(deps): update bevy to v0.16](https://github.com/ShenMian/sokoban-rs/pull/18) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
 
-- [Use &#39;const&#39; for local variables in achievement, action, active_item_c…](https://github.com/CleverRaven/Cataclysm-DDA/pull/80663) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (2 months ago)
-
 <details><summary>more...</summary>
 
 1. [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (3 weeks ago)
@@ -83,10 +81,6 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 
 - [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 2 months ago) - 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 3 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 4 months ago) - A simple gomoku, supports LAN multiplayer.
-
 <details><summary>more...</summary>
 
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 3 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
@@ -104,17 +98,6 @@ Currently learning [Rust] :crab:, [KRR], robotics and game development.
 #### :bar_chart: Programming activity
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ShenMian&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Weekly+programming+activity&layout=compact)
-
-#### :computer: Tech Stack
-
-- Operating systems  
-   ![Operating systems](https://skillicons.dev/icons?i=windows,linux)
-- Frameworks  
-   ![Frameworks](https://skillicons.dev/icons?i=bevy,django,arduino)
-- Languages  
-   ![Languages](https://skillicons.dev/icons?i=rust,cpp,c,md,haskell)
-- Tools  
-   ![Tools](https://skillicons.dev/icons?i=vscode,neovim,git,github,godot,blender,sqlite,cmake)
 
 #### :speech_balloon: Contact
 
