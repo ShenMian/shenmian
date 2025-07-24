@@ -9,19 +9,19 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
-- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (6 days ago)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (6 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (3 weeks ago)
-1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 weeks ago)
+1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
 1. [ShenMian/bucket](https://github.com/ShenMian/bucket) (1 month ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 month ago)
@@ -31,18 +31,18 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework (2 days ago)
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework (3 days ago)
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework (2 days ago)
+1. [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework (3 days ago)
 1. [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 week ago)
 1. [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus (2 weeks ago)
-1. [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. (2 weeks ago)
+1. [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. (3 weeks ago)
 1. [sleuthkit/autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera&#39;s memory card.  (3 weeks ago)
-1. [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统 (3 weeks ago)
+1. [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统 (4 weeks ago)
 1. [netdiscover-scanner/netdiscover](https://github.com/netdiscover-scanner/netdiscover) - Netdiscover, ARP Scanner (official repository) (1 month ago)
 1. [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md (1 month ago)
 1. [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. (1 month ago)
@@ -75,7 +75,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 4 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 1 month ago) - A simple and easy-to-use library for interacting with the Ollama API.
 
 - [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 2 months ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 
@@ -83,7 +83,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 <details><summary>more...</summary>
 
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 4 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 1 month ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 2 months ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 2 months ago) - 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.4](https://github.com/ShenMian/tracker/releases/tag/v0.1.4), 3 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
