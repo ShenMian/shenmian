@@ -9,15 +9,15 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (4 days ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 month ago)
@@ -31,16 +31,16 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone. (today)
+- [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone. (1 day ago)
 
-- [simply-logical/simply-logical](https://github.com/simply-logical/simply-logical) - Online, interactive edition of the &#34;Simply Logical&#34; Prolog textbook (4 days ago)
+- [simply-logical/simply-logical](https://github.com/simply-logical/simply-logical) - Online, interactive edition of the &#34;Simply Logical&#34; Prolog textbook (5 days ago)
 
 <details><summary>more...</summary>
 
-1. [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone. (today)
-1. [simply-logical/simply-logical](https://github.com/simply-logical/simply-logical) - Online, interactive edition of the &#34;Simply Logical&#34; Prolog textbook (4 days ago)
-1. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers. (4 days ago)
-1. [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services (5 days ago)
+1. [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone. (1 day ago)
+1. [simply-logical/simply-logical](https://github.com/simply-logical/simply-logical) - Online, interactive edition of the &#34;Simply Logical&#34; Prolog textbook (5 days ago)
+1. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers. (5 days ago)
+1. [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services (6 days ago)
 1. [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework (2 weeks ago)
 1. [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (3 weeks ago)
 1. [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus (1 month ago)
@@ -75,7 +75,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.8](https://github.com/ShenMian/tracker/releases/tag/v0.1.8), 3 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.8](https://github.com/ShenMian/tracker/releases/tag/v0.1.8), 4 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 1 month ago) - A simple and easy-to-use library for interacting with the Ollama API.
 
@@ -83,7 +83,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.8](https://github.com/ShenMian/tracker/releases/tag/v0.1.8), 3 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.8](https://github.com/ShenMian/tracker/releases/tag/v0.1.8), 4 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 1 month ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 3 months ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 3 months ago) - 
