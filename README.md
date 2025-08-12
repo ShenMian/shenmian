@@ -9,19 +9,19 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (5 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
 1. [ShenMian/sokoban-rs-new](https://github.com/ShenMian/sokoban-rs-new) (5 days ago)
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (6 days ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 weeks ago)
 1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 month ago)
