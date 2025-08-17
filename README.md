@@ -17,7 +17,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/sokoban-rs-new](https://github.com/ShenMian/sokoban-rs-new) (1 week ago)
