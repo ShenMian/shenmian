@@ -9,13 +9,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 
 - [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (5 days ago)
