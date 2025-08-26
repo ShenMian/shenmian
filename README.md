@@ -9,13 +9,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 
 - [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (6 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
@@ -53,12 +53,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 weeks ago)
+- [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (today)
 
-- [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 months ago)
+- [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 weeks ago)
 
 <details><summary>more...</summary>
 
+1. [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (today)
 1. [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 weeks ago)
 1. [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 months ago)
 1. [chore(deps): update bevy to v0.16](https://github.com/ShenMian/sokoban-rs/pull/18) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 months ago)
@@ -68,14 +69,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [Use of pre-increment/decrement operators for iterators](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (4 months ago)
 1. [Replace `const std::string_view &amp;` with `std::string_view`](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (4 months ago)
 1. [Fix code block syntax in documentation](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (4 months ago)
-1. [Refactor documentation to use jsonc syntax highlighting](https://github.com/CleverRaven/Cataclysm-DDA/pull/80550) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (4 months ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
 
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.12](https://github.com/ShenMian/tracker/releases/tag/v0.1.12), 5 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.13](https://github.com/ShenMian/tracker/releases/tag/v0.1.13), today) - A terminal-based real-time satellite tracking and orbit prediction application.
 
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 2 months ago) - A simple and easy-to-use library for interacting with the Ollama API.
 
@@ -83,7 +83,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.12](https://github.com/ShenMian/tracker/releases/tag/v0.1.12), 5 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.13](https://github.com/ShenMian/tracker/releases/tag/v0.1.13), today) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 2 months ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 3 months ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 4 months ago) - 
