@@ -31,12 +31,14 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone. (3 weeks ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (today)
 
-- [simply-logical/simply-logical](https://github.com/simply-logical/simply-logical) - Online, interactive edition of the &#34;Simply Logical&#34; Prolog textbook (1 month ago)
+- [PgBiel/typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables (today)
 
 <details><summary>more...</summary>
 
+1. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (today)
+1. [PgBiel/typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables (today)
 1. [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone. (3 weeks ago)
 1. [simply-logical/simply-logical](https://github.com/simply-logical/simply-logical) - Online, interactive edition of the &#34;Simply Logical&#34; Prolog textbook (1 month ago)
 1. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers. (1 month ago)
@@ -45,8 +47,6 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 month ago)
 1. [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus (1 month ago)
 1. [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. (1 month ago)
-1. [sleuthkit/autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera&#39;s memory card.  (1 month ago)
-1. [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统 (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
