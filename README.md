@@ -9,16 +9,16 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
-1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (2 weeks ago)
+1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 weeks ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (3 weeks ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 weeks ago)
 1. [ShenMian/sokoban-rs-new](https://github.com/ShenMian/sokoban-rs-new) (1 month ago)
