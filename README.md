@@ -9,12 +9,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/curling](https://github.com/ShenMian/curling) (today)
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (5 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/curling](https://github.com/ShenMian/curling) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (5 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
@@ -24,7 +25,6 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [ShenMian/sokoban-rs-new](https://github.com/ShenMian/sokoban-rs-new) (1 month ago)
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (1 month ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
-1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (2 months ago)
 </details>
 
 #### :star: Recent Stars
