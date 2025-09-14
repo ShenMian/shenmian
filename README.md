@@ -31,12 +31,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources (2 weeks ago)
+- [rsms/inter](https://github.com/rsms/inter) - The Inter font family (today)
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 weeks ago)
+- [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources (2 weeks ago)
 
 <details><summary>more...</summary>
 
+1. [rsms/inter](https://github.com/rsms/inter) - The Inter font family (today)
 1. [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources (2 weeks ago)
 1. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 weeks ago)
 1. [PgBiel/typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables (2 weeks ago)
@@ -46,7 +47,6 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services (1 month ago)
 1. [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework (1 month ago)
 1. [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (2 months ago)
-1. [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
