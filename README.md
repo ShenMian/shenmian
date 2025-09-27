@@ -31,12 +31,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [rsms/inter](https://github.com/rsms/inter) - The Inter font family (1 week ago)
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (today)
 
-- [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources (3 weeks ago)
+- [rsms/inter](https://github.com/rsms/inter) - The Inter font family (1 week ago)
 
 <details><summary>more...</summary>
 
+1. [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (today)
 1. [rsms/inter](https://github.com/rsms/inter) - The Inter font family (1 week ago)
 1. [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources (3 weeks ago)
 1. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 weeks ago)
@@ -46,7 +47,6 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers. (1 month ago)
 1. [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services (1 month ago)
 1. [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework (2 months ago)
-1. [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
