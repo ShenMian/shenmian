@@ -9,15 +9,15 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-1. [ShenMian/curling](https://github.com/ShenMian/curling) (1 week ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+1. [ShenMian/curling](https://github.com/ShenMian/curling) (2 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (1 month ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 month ago)
@@ -31,22 +31,22 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [madjin/awesome-cc0](https://github.com/madjin/awesome-cc0) - awesome list of free to use public domain CC0 licensed assets from across the internet (today)
+- [madjin/awesome-cc0](https://github.com/madjin/awesome-cc0) - awesome list of free to use public domain CC0 licensed assets from across the internet (1 day ago)
 
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (today)
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [madjin/awesome-cc0](https://github.com/madjin/awesome-cc0) - awesome list of free to use public domain CC0 licensed assets from across the internet (today)
-1. [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (today)
-1. [rsms/inter](https://github.com/rsms/inter) - The Inter font family (1 week ago)
-1. [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources (3 weeks ago)
+1. [madjin/awesome-cc0](https://github.com/madjin/awesome-cc0) - awesome list of free to use public domain CC0 licensed assets from across the internet (1 day ago)
+1. [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (1 day ago)
+1. [rsms/inter](https://github.com/rsms/inter) - The Inter font family (2 weeks ago)
+1. [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources (4 weeks ago)
 1. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 weeks ago)
 1. [PgBiel/typst-diagbox](https://github.com/PgBiel/typst-diagbox) - A library for diagonal line dividers in Typst tables (4 weeks ago)
 1. [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone. (1 month ago)
 1. [simply-logical/simply-logical](https://github.com/simply-logical/simply-logical) - Online, interactive edition of the &#34;Simply Logical&#34; Prolog textbook (1 month ago)
 1. [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers. (1 month ago)
-1. [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services (1 month ago)
+1. [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
