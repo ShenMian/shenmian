@@ -64,6 +64,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 #### :speech_balloon: Contact
 
 - Telegram: [**@ShenMian**](https://t.me/shenmian).
+- Signal: [`shenmian.98`](https://signal.me/#eu/_D9646AEKnZo2lNxL1avl9eRgySSH5tNZABYKXVGdB8x05o8YQJGC6CpGqUt2WT1).
 - Matrix: [**@shenmian:matrix.org**](https://matrix.to/#/@shenmian:matrix.org).
 - PGP Key ID: `264514499FE580D7`.
 
