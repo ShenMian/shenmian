@@ -9,15 +9,15 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 days ago)
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
-1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (6 days ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
+1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 weeks ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (1 month ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
@@ -31,16 +31,16 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. (1 week ago)
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. (2 weeks ago)
 
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (2 weeks ago)
 
 <details><summary>more...</summary>
 
-1. [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. (1 week ago)
+1. [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. (2 weeks ago)
 1. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (2 weeks ago)
-1. [madjin/awesome-cc0](https://github.com/madjin/awesome-cc0) - awesome list of free to use public domain CC0 licensed assets from across the internet (2 weeks ago)
-1. [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (2 weeks ago)
+1. [madjin/awesome-cc0](https://github.com/madjin/awesome-cc0) - awesome list of free to use public domain CC0 licensed assets from across the internet (3 weeks ago)
+1. [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (3 weeks ago)
 1. [rsms/inter](https://github.com/rsms/inter) - The Inter font family (1 month ago)
 1. [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources (1 month ago)
 1. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 month ago)
@@ -63,7 +63,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (2 months ago)
 1. [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (3 months ago)
 1. [chore(deps): update bevy to v0.16](https://github.com/ShenMian/sokoban-rs/pull/18) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 months ago)
-1. [Use &#39;const&#39; for local variables in achievement, action, active_item_c…](https://github.com/CleverRaven/Cataclysm-DDA/pull/80663) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (5 months ago)
+1. [Use &#39;const&#39; for local variables in achievement, action, active_item_c…](https://github.com/CleverRaven/Cataclysm-DDA/pull/80663) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (6 months ago)
 1. [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80633) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (6 months ago)
 1. [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80631) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (6 months ago)
 1. [Use of pre-increment/decrement operators for iterators](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (6 months ago)
@@ -88,8 +88,8 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 5 months ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 5 months ago) - 
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 7 months ago) - A simple gomoku, supports LAN multiplayer.
-1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 7 months ago) - Simple admonishment for typst
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 8 months ago) - A sokoban with solver.
+1. [jomaway/typst-gentle-clues](https://github.com/jomaway/typst-gentle-clues) ([v1.2.0](https://github.com/jomaway/typst-gentle-clues/releases/tag/v1.2.0), 8 months ago) - Simple admonishment for typst
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 9 months ago) - A sokoban with solver.
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 1 year ago) - This template is a great way to get started on a new 2D Bevy game!
 1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 1 year ago) - 
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 2 years ago) - A simple sokoban.
