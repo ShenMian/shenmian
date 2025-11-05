@@ -9,15 +9,15 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 weeks ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (3 weeks ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (1 month ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 months ago)
@@ -31,13 +31,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (1 day ago)
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (2 days ago)
 
 - [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist Pomodoro timer for Android based on Material 3 Expressive (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (1 day ago)
+1. [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (2 days ago)
 1. [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist Pomodoro timer for Android based on Material 3 Expressive (1 week ago)
 1. [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. (1 month ago)
 1. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (1 month ago)
@@ -75,7 +75,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.15](https://github.com/ShenMian/tracker/releases/tag/v0.1.15), today) - A terminal-based real-time satellite tracking and orbit prediction application.
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.15](https://github.com/ShenMian/tracker/releases/tag/v0.1.15), 1 day ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 4 months ago) - A simple and easy-to-use library for interacting with the Ollama API.
 
@@ -83,7 +83,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.15](https://github.com/ShenMian/tracker/releases/tag/v0.1.15), today) - A terminal-based real-time satellite tracking and orbit prediction application.
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.15](https://github.com/ShenMian/tracker/releases/tag/v0.1.15), 1 day ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.2](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.2), 4 months ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 6 months ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 6 months ago) - 
