@@ -33,12 +33,12 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (1 week ago)
 
-- [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist Pomodoro timer for Android based on Material 3 Expressive (2 weeks ago)
+- [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist, data-oriented pomodoro timer for Android based on Material 3 Expressive (2 weeks ago)
 
 <details><summary>more...</summary>
 
 1. [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (1 week ago)
-1. [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist Pomodoro timer for Android based on Material 3 Expressive (2 weeks ago)
+1. [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist, data-oriented pomodoro timer for Android based on Material 3 Expressive (2 weeks ago)
 1. [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. (1 month ago)
 1. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (1 month ago)
 1. [madjin/awesome-cc0](https://github.com/madjin/awesome-cc0) - awesome list of free to use public domain CC0 licensed assets from across the internet (1 month ago)
