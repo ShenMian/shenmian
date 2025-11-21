@@ -9,14 +9,14 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
+- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (5 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 month ago)
@@ -24,7 +24,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 months ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 months ago)
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (3 months ago)
-1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (4 months ago)
+1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (5 months ago)
 </details>
 
 #### :star: Recent Stars
@@ -75,7 +75,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.3](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.3), 2 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.3](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.3), 3 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.15](https://github.com/ShenMian/tracker/releases/tag/v0.1.15), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 
@@ -83,7 +83,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 <details><summary>more...</summary>
 
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.3](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.3), 2 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.3](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.3), 3 days ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.15](https://github.com/ShenMian/tracker/releases/tag/v0.1.15), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 6 months ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 6 months ago) - 
