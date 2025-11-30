@@ -9,13 +9,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
@@ -90,7 +90,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 9 months ago) - A simple gomoku, supports LAN multiplayer.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 10 months ago) - A sokoban with solver.
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 1 year ago) - This template is a great way to get started on a new 2D Bevy game!
-1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 1 year ago) - 
+1. [ShenMian/bevy_test](https://github.com/ShenMian/bevy_test) ([v0.1.9](https://github.com/ShenMian/bevy_test/releases/tag/v0.1.9), 2 years ago) - 
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 2 years ago) - A simple sokoban.
 </details>
 
