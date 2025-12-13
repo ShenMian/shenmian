@@ -11,16 +11,16 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 weeks ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 weeks ago)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 weeks ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 weeks ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (2 months ago)
-1. [ShenMian/curling](https://github.com/ShenMian/curling) (2 months ago)
+1. [ShenMian/curling](https://github.com/ShenMian/curling) (3 months ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 months ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 months ago)
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (4 months ago)
@@ -31,12 +31,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms. (1 week ago)
+- [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (1 day ago)
 
-- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (1 month ago)
+- [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms. (1 week ago)
 
 <details><summary>more...</summary>
 
+1. [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (1 day ago)
 1. [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms. (1 week ago)
 1. [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (1 month ago)
 1. [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist, data-oriented pomodoro timer for Android based on Material 3 Expressive (1 month ago)
@@ -44,9 +45,8 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (2 months ago)
 1. [madjin/awesome-cc0](https://github.com/madjin/awesome-cc0) - awesome list of free to use public domain CC0 licensed assets from across the internet (2 months ago)
 1. [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (2 months ago)
-1. [rsms/inter](https://github.com/rsms/inter) - The Inter font family (2 months ago)
+1. [rsms/inter](https://github.com/rsms/inter) - The Inter font family (3 months ago)
 1. [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources (3 months ago)
-1. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
