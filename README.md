@@ -31,15 +31,15 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) -  (today)
+- [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) -  (1 day ago)
 
-- [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation. (2 days ago)
+- [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation. (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) -  (today)
-1. [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation. (2 days ago)
-1. [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (3 days ago)
+1. [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) -  (1 day ago)
+1. [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation. (3 days ago)
+1. [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (4 days ago)
 1. [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms. (2 weeks ago)
 1. [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (1 month ago)
 1. [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist, data-oriented pomodoro timer for Android based on Material 3 Expressive (1 month ago)
@@ -75,7 +75,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.3](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.3), 3 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
+- [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.3](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.3), 4 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.15](https://github.com/ShenMian/tracker/releases/tag/v0.1.15), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 
@@ -83,7 +83,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 <details><summary>more...</summary>
 
-1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.3](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.3), 3 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
+1. [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.3](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.3), 4 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.15](https://github.com/ShenMian/tracker/releases/tag/v0.1.15), 1 month ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 7 months ago) - A Rust implementation of the SGP4 satellite propagation algorithm
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 7 months ago) - 
