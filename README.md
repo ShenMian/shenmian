@@ -31,12 +31,13 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) -  (1 day ago)
+- [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C&#43;&#43; and using SDL, The Powder Toy is a desktop version of the classic &#39;falling sand&#39; physics sandbox, it simulates air pressure and velocity as well as heat. (today)
 
-- [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation. (3 days ago)
+- [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) -  (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C&#43;&#43; and using SDL, The Powder Toy is a desktop version of the classic &#39;falling sand&#39; physics sandbox, it simulates air pressure and velocity as well as heat. (today)
 1. [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) -  (1 day ago)
 1. [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation. (3 days ago)
 1. [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (4 days ago)
@@ -46,7 +47,6 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO. (2 months ago)
 1. [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think (2 months ago)
 1. [madjin/awesome-cc0](https://github.com/madjin/awesome-cc0) - awesome list of free to use public domain CC0 licensed assets from across the internet (2 months ago)
-1. [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
