@@ -75,11 +75,11 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.16](https://github.com/ShenMian/tracker/releases/tag/v0.1.16), today) - A terminal-based real-time satellite tracking and orbit prediction application.
+
 - [pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs) ([v0.3.3](https://github.com/pepperoni21/ollama-rs/releases/tag/v0.3.3), 4 weeks ago) - A simple and easy-to-use library for interacting with the Ollama API.
 
 - [neuromorphicsystems/sgp4](https://github.com/neuromorphicsystems/sgp4) ([2.3.0](https://github.com/neuromorphicsystems/sgp4/releases/tag/2.3.0), 7 months ago) - A Rust implementation of the SGP4 satellite propagation algorithm
-
-- [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 7 months ago) - 
 
 <details><summary>more...</summary>
 
