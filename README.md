@@ -9,17 +9,17 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (2 months ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (3 months ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (4 months ago)
@@ -101,7 +101,6 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 - Telegram: [**@ShenMian**](https://t.me/shenmian).
 - Signal: [`shenmian.98`](https://signal.me/#eu/_D9646AEKnZo2lNxL1avl9eRgySSH5tNZABYKXVGdB8x05o8YQJGC6CpGqUt2WT1).
-- Matrix: [**@shenmian:matrix.org**](https://matrix.to/#/@shenmian:matrix.org).
 - PGP Key ID: `264514499FE580D7`.
 
 
