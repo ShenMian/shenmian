@@ -42,7 +42,7 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 1. [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C&#43;&#43; and using SDL, The Powder Toy is a desktop version of the classic &#39;falling sand&#39; physics sandbox, it simulates air pressure and velocity as well as heat. (2 weeks ago)
 1. [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) -  (2 weeks ago)
 1. [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation. (3 weeks ago)
-1. [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (3 weeks ago)
+1. [wusimpl/AntigravityQuotaWatcher](https://github.com/wusimpl/AntigravityQuotaWatcher) - Google Antigravity AI模型配额监控插件 (Antigravity AI Model Quota Watching) (3 weeks ago)
 1. [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms. (1 month ago)
 1. [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (2 months ago)
 1. [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist, data-oriented pomodoro timer for Android based on Material 3 Expressive (2 months ago)
