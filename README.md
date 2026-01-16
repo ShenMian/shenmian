@@ -9,16 +9,16 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 weeks ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (3 months ago)
@@ -100,6 +100,6 @@ Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game de
 
 - Telegram: [**@ShenMian**](https://t.me/shenmian).
 - Signal: [`shenmian.98`](https://signal.me/#eu/_D9646AEKnZo2lNxL1avl9eRgySSH5tNZABYKXVGdB8x05o8YQJGC6CpGqUt2WT1).
-- PGP Key ID: `264514499FE580D7`.
+- PGP Key ID: [264514499FE580D7](https://keys.openpgp.org/vks/v1/by-fingerprint/F547B2656276257EFACBDAD2264514499FE580D7).
 
 
