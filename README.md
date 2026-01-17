@@ -8,18 +8,18 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 
 
-- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
-
 - [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 day ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (1 day ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (4 months ago)
@@ -89,10 +89,6 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 2 years ago) - This template is a great way to get started on a new 2D Bevy game!
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 2 years ago) - A simple sokoban.
 </details>
-
-#### :bar_chart: Programming activity
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=ShenMian&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Weekly+programming+activity&layout=compact)
 
 #### :speech_balloon: Contact
 
