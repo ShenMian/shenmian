@@ -1,9 +1,8 @@
 ### Hi there :wave:
 
-Currently learning [Rust] :crab:, [KRR], robotics, computer graphics and game development.
+Currently learning [Rust] :crab:, cloud computing, game development and computer graphics.
 
 [Rust]: https://www.rust-lang.org/
-[KRR]: https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
 
 #### 🔭 Currently working on
 
