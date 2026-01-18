@@ -8,19 +8,19 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
-- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
-1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (1 day ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 weeks ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 day ago)
+1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (2 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (2 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (4 months ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (5 months ago)
@@ -30,13 +30,13 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (6 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (6 days ago)
+1. [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 1. [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol (1 week ago)
 1. [GelamiSalami/GPU-Falling-Sand-CA](https://github.com/GelamiSalami/GPU-Falling-Sand-CA) - GPU Falling sand simulation using block cellular automata (3 weeks ago)
 1. [cortex-command-community/Cortex-Command-Community-Project](https://github.com/cortex-command-community/Cortex-Command-Community-Project) - Cortex Command - Open Source under GNU AGPL v3 (4 weeks ago)
