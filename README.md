@@ -19,11 +19,11 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 days ago)
 1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (3 days ago)
-1. [ShenMian/theory_of_computation](https://github.com/ShenMian/theory_of_computation) (3 days ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (4 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (4 months ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (5 months ago)
+1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (5 months ago)
 </details>
 
 #### :star: Recent Stars
