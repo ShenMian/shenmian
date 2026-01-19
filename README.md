@@ -8,13 +8,13 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 
 - [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 days ago)
