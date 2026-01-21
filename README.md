@@ -8,19 +8,19 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 
-- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 days ago)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (4 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 days ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 days ago)
-1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (4 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (4 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (5 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
+1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (5 days ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 month ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 month ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 months ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (4 months ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (5 months ago)
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (5 months ago)
@@ -38,7 +38,7 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 1. [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 1. [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol (2 weeks ago)
-1. [GelamiSalami/GPU-Falling-Sand-CA](https://github.com/GelamiSalami/GPU-Falling-Sand-CA) - GPU Falling sand simulation using block cellular automata (4 weeks ago)
+1. [GelamiSalami/GPU-Falling-Sand-CA](https://github.com/GelamiSalami/GPU-Falling-Sand-CA) - GPU Falling sand simulation using block cellular automata (1 month ago)
 1. [cortex-command-community/Cortex-Command-Community-Project](https://github.com/cortex-command-community/Cortex-Command-Community-Project) - Cortex Command - Open Source under GNU AGPL v3 (1 month ago)
 1. [The-Powder-Toy/The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C&#43;&#43; and using SDL, The Powder Toy is a desktop version of the classic &#39;falling sand&#39; physics sandbox, it simulates air pressure and velocity as well as heat. (1 month ago)
 1. [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) -  (1 month ago)
