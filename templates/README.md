@@ -7,9 +7,8 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### 🔭 Currently working on
 
 {{range recentContributions 2}}
-
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
-  {{- end}}
+{{- end}}
 
 <details><summary>more...</summary>
 {{range recentContributions 10}}
@@ -17,25 +16,11 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 {{- end}}
 </details>
 
-#### :star: Recent Stars
-
-{{range recentStars 2}}
-
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-  {{- end}}
-
-<details><summary>more...</summary>
-{{range recentStars 10}}
-1. [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-</details>
-
 #### :hammer: Recent Pull Requests
 
 {{range recentPullRequests 2}}
-
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-  {{- end}}
+{{- end}}
 
 <details><summary>more...</summary>
 {{range recentPullRequests 10}}
@@ -46,9 +31,8 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### :seedling: Latest releases I've contributed to
 
 {{range recentReleases 3}}
-
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-  {{- end}}
+{{- end}}
 
 <details><summary>more...</summary>
 {{range recentReleases 10}}
