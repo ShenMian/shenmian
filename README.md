@@ -65,6 +65,6 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 - Telegram: [`@ShenMian`](https://t.me/shenmian).
 - Signal: [`shenmian.98`](https://signal.me/#eu/_D9646AEKnZo2lNxL1avl9eRgySSH5tNZABYKXVGdB8x05o8YQJGC6CpGqUt2WT1).
-- PGP Key ID: [`264514499FE580D7`](https://keys.openpgp.org/vks/v1/by-fingerprint/F547B2656276257EFACBDAD2264514499FE580D7).
+- PGP Key: [`264514499FE580D7`](https://keys.openpgp.org/vks/v1/by-fingerprint/F547B2656276257EFACBDAD2264514499FE580D7).
 
 
