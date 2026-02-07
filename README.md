@@ -7,15 +7,15 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
-1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (2 days ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
+1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 days ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (4 days ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (2 weeks ago)
@@ -47,13 +47,13 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.18](https://github.com/ShenMian/tracker/releases/tag/v0.1.18), 2 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.18](https://github.com/ShenMian/tracker/releases/tag/v0.1.18), 3 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 9 months ago) - 
 - [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 11 months ago) - A simple gomoku, supports LAN multiplayer.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.18](https://github.com/ShenMian/tracker/releases/tag/v0.1.18), 2 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.18](https://github.com/ShenMian/tracker/releases/tag/v0.1.18), 3 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 9 months ago) - 
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 11 months ago) - A simple gomoku, supports LAN multiplayer.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 year ago) - A sokoban with solver.
