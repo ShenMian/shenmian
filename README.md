@@ -47,16 +47,16 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### :seedling: Latest releases I've contributed to
 
 
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), today) - A sokoban with solver.
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.18](https://github.com/ShenMian/tracker/releases/tag/v0.1.18), 6 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 9 months ago) - 
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 11 months ago) - A simple gomoku, supports LAN multiplayer.
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), today) - A sokoban with solver.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.18](https://github.com/ShenMian/tracker/releases/tag/v0.1.18), 6 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 9 months ago) - 
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 11 months ago) - A simple gomoku, supports LAN multiplayer.
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.19](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.19), 1 year ago) - A sokoban with solver.
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 2 years ago) - This template is a great way to get started on a new 2D Bevy game!
 1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 2 years ago) - A simple sokoban.
 </details>
