@@ -7,33 +7,33 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 weeks ago)
-1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 weeks ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 weeks ago)
+1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (4 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (4 weeks ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (1 month ago)
 1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (1 month ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 months ago)
-1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (6 months ago)
+1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (7 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
 
 
 - [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (6 months ago)
-- [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (6 months ago)
+- [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (7 months ago)
 
 <details><summary>more...</summary>
 
 1. [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (6 months ago)
-1. [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (6 months ago)
+1. [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (7 months ago)
 1. [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (8 months ago)
 1. [chore(deps): update bevy to v0.16](https://github.com/ShenMian/sokoban-rs/pull/18) on [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (9 months ago)
 1. [Use &#39;const&#39; for local variables in achievement, action, active_item_c…](https://github.com/CleverRaven/Cataclysm-DDA/pull/80663) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (10 months ago)
@@ -48,13 +48,13 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 3 weeks ago) - A sokoban with solver.
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.18](https://github.com/ShenMian/tracker/releases/tag/v0.1.18), 3 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.18](https://github.com/ShenMian/tracker/releases/tag/v0.1.18), 4 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 10 months ago) - 
 
 <details><summary>more...</summary>
 
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 3 weeks ago) - A sokoban with solver.
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.18](https://github.com/ShenMian/tracker/releases/tag/v0.1.18), 3 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.18](https://github.com/ShenMian/tracker/releases/tag/v0.1.18), 4 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 10 months ago) - 
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 year ago) - A simple gomoku, supports LAN multiplayer.
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 2 years ago) - This template is a great way to get started on a new 2D Bevy game!
