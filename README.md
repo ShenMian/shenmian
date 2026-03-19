@@ -7,11 +7,12 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### 🔭 Currently working on
 
 
+- [ShenMian/lectures](https://github.com/ShenMian/lectures) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 weeks ago)
@@ -19,7 +20,6 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (1 month ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (1 month ago)
-1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (1 month ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 months ago)
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (7 months ago)
 </details>
