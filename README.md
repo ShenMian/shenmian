@@ -7,15 +7,15 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+- [ShenMian/lectures](https://github.com/ShenMian/lectures) (today)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (today)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
-1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (2 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 weeks ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (2 months ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
