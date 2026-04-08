@@ -7,12 +7,11 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### 🔭 Currently working on
 
 
-- [ShenMian/lectures](https://github.com/ShenMian/lectures) (today)
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/lectures](https://github.com/ShenMian/lectures) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
@@ -22,6 +21,7 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (2 months ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (3 months ago)
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (8 months ago)
+1. [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (9 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
