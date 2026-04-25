@@ -47,13 +47,13 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.19](https://github.com/ShenMian/tracker/releases/tag/v0.1.19), 1 week ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.20](https://github.com/ShenMian/tracker/releases/tag/v0.1.20), today) - A terminal-based real-time satellite tracking and orbit prediction application.
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 2 months ago) - A sokoban with solver.
 - [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 1 year ago) - 
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.19](https://github.com/ShenMian/tracker/releases/tag/v0.1.19), 1 week ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.20](https://github.com/ShenMian/tracker/releases/tag/v0.1.20), today) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 2 months ago) - A sokoban with solver.
 1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 1 year ago) - 
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 year ago) - A simple gomoku, supports LAN multiplayer.
