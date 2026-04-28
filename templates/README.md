@@ -30,7 +30,7 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 #### :seedling: Latest releases I've contributed to
 
-{{range recentReleases 3}}
+{{range recentReleases 2}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
