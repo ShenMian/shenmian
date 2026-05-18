@@ -7,15 +7,15 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (5 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (6 days ago)
-1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (1 week ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (5 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
+1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (2 weeks ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 weeks ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 months ago)
@@ -54,10 +54,8 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.20](https://github.com/ShenMian/tracker/releases/tag/v0.1.20), 3 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 3 months ago) - A sokoban with solver.
-1. [ShenMian/uno-cpp](https://github.com/ShenMian/uno-cpp) ([v0.1.0](https://github.com/ShenMian/uno-cpp/releases/tag/v0.1.0), 1 year ago) - 
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 year ago) - A simple gomoku, supports LAN multiplayer.
 1. [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) ([v0.1.0](https://github.com/TheBevyFlock/bevy_new_2d/releases/tag/v0.1.0), 2 years ago) - This template is a great way to get started on a new 2D Bevy game!
-1. [ShenMian/sokoban-cpp](https://github.com/ShenMian/sokoban-cpp) ([v0.2.0](https://github.com/ShenMian/sokoban-cpp/releases/tag/v0.2.0), 2 years ago) - A simple sokoban.
 </details>
 
 #### :speech_balloon: Contact
