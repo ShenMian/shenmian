@@ -7,15 +7,15 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### 🔭 Currently working on
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
-1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (4 weeks ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
+1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (1 month ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 month ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 month ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 months ago)
