@@ -8,15 +8,15 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 
 
 - [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (today)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (4 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 month ago)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (2 months ago)
