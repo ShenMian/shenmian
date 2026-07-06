@@ -19,7 +19,7 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (today)
-1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (4 days ago)
+1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (5 days ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
 1. [ShenMian/curling](https://github.com/ShenMian/curling) (5 months ago)
 </details>
@@ -47,12 +47,12 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.6](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.6), today) - 
+- [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.6](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.6), 1 day ago) - 
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.20](https://github.com/ShenMian/tracker/releases/tag/v0.1.20), 2 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.6](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.6), today) - 
+1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.6](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.6), 1 day ago) - 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.20](https://github.com/ShenMian/tracker/releases/tag/v0.1.20), 2 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 4 months ago) - A sokoban with solver.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 1 year ago) - A simple gomoku, supports LAN multiplayer.
