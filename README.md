@@ -27,11 +27,12 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### :hammer: Recent Pull Requests
 
 
+- [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (today)
 - [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (10 months ago)
-- [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (11 months ago)
 
 <details><summary>more...</summary>
 
+1. [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (today)
 1. [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (10 months ago)
 1. [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (11 months ago)
 1. [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 year ago)
@@ -41,7 +42,6 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 1. [Remove unnecessary const modifiers from function parameters](https://github.com/CleverRaven/Cataclysm-DDA/pull/80631) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 year ago)
 1. [Use of pre-increment/decrement operators for iterators](https://github.com/CleverRaven/Cataclysm-DDA/pull/80617) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 year ago)
 1. [Replace `const std::string_view &amp;` with `std::string_view`](https://github.com/CleverRaven/Cataclysm-DDA/pull/80611) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 year ago)
-1. [Fix code block syntax in documentation](https://github.com/CleverRaven/Cataclysm-DDA/pull/80576) on [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) (1 year ago)
 </details>
 
 #### :seedling: Latest releases I've contributed to
