@@ -7,32 +7,32 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (today)
-- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
+- [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (1 day ago)
+- [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (today)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (1 day ago)
+1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
-1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (1 week ago)
+1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (2 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
 
 
-- [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (4 days ago)
+- [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (5 days ago)
 - [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (10 months ago)
 
 <details><summary>more...</summary>
 
-1. [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (4 days ago)
+1. [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (5 days ago)
 1. [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (10 months ago)
 1. [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (11 months ago)
 1. [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 year ago)
