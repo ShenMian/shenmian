@@ -1,17 +1,18 @@
 ### Hi there :wave:
 
-Currently learning [Rust] :crab:, cloud computing, game development and computer graphics.
+Currently learning [Rust] :crab:, game development and computer graphics.
 
 [Rust]: https://www.rust-lang.org/
 
 #### 🔭 Currently working on
 
 
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (5 days ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (5 days ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (1 week ago)
@@ -21,7 +22,6 @@ Currently learning [Rust] :crab:, cloud computing, game development and computer
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (2 weeks ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 weeks ago)
 1. [ShenMian/telegram-llm-bot](https://github.com/ShenMian/telegram-llm-bot) (3 weeks ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
