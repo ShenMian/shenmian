@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Currently learning [Rust] :crab:, cloud computing, game development and computer graphics.
+Currently learning [Rust] :crab:, game development and computer graphics.
 
 [Rust]: https://www.rust-lang.org/
 
