@@ -7,13 +7,13 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### 🔭 Currently working on
 
 
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 - [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (1 week ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 months ago)
