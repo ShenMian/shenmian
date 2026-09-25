@@ -19,9 +19,9 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (2 months ago)
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 months ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 months ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 months ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 months ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
