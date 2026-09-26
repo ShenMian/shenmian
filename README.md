@@ -7,12 +7,12 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (1 day ago)
+- [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (1 day ago)
+1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (1 day ago)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (3 days ago)
@@ -47,12 +47,12 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.7](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.7), 1 day ago) - 
+- [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.10](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.10), today) - 
 - [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.0](https://github.com/ShenMian/boxman/releases/tag/v0.1.0), 1 day ago) - A port of BoxMan to the desktop
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.7](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.7), 1 day ago) - 
+1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.10](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.10), today) - 
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.0](https://github.com/ShenMian/boxman/releases/tag/v0.1.0), 1 day ago) - A port of BoxMan to the desktop
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.1.20](https://github.com/ShenMian/tracker/releases/tag/v0.1.20), 5 months ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 7 months ago) - A sokoban with solver.
