@@ -7,12 +7,12 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### 🔭 Currently working on
 
 
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 - [ShenMian/boxman](https://github.com/ShenMian/boxman) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (1 day ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (2 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (3 days ago)
