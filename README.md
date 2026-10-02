@@ -47,12 +47,12 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.3](https://github.com/ShenMian/boxman/releases/tag/v0.1.3), today) - A port of BoxMan to the desktop
+- [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.5](https://github.com/ShenMian/boxman/releases/tag/v0.1.5), today) - A port of BoxMan to the desktop
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.0](https://github.com/ShenMian/tracker/releases/tag/v0.2.0), 3 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.3](https://github.com/ShenMian/boxman/releases/tag/v0.1.3), today) - A port of BoxMan to the desktop
+1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.5](https://github.com/ShenMian/boxman/releases/tag/v0.1.5), today) - A port of BoxMan to the desktop
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.0](https://github.com/ShenMian/tracker/releases/tag/v0.2.0), 3 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.11](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.11), 6 days ago) - 
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 7 months ago) - A sokoban with solver.
