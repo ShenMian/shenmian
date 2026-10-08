@@ -7,13 +7,13 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### 🔭 Currently working on
 
 
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 - [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (3 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
@@ -47,12 +47,12 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.1](https://github.com/ShenMian/sokoban/releases/tag/v0.1.1), 1 day ago) - A Sokoban game built with Godot and Rust.
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.2](https://github.com/ShenMian/sokoban/releases/tag/v0.1.2), today) - A Sokoban game built with Godot and Rust.
 - [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 3 days ago) - 
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.1](https://github.com/ShenMian/sokoban/releases/tag/v0.1.1), 1 day ago) - A Sokoban game built with Godot and Rust.
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.2](https://github.com/ShenMian/sokoban/releases/tag/v0.1.2), today) - A Sokoban game built with Godot and Rust.
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 3 days ago) - 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.1](https://github.com/ShenMian/tracker/releases/tag/v0.2.1), 4 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.5](https://github.com/ShenMian/boxman/releases/tag/v0.1.5), 6 days ago) - A port of BoxMan to the desktop
