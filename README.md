@@ -7,17 +7,17 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
-1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (2 days ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
-1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (5 days ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
+1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (3 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
+1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (6 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (2 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
@@ -27,12 +27,12 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### :hammer: Recent Pull Requests
 
 
-- [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (2 months ago)
+- [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (3 months ago)
 - [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (1 year ago)
 
 <details><summary>more...</summary>
 
-1. [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (2 months ago)
+1. [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (3 months ago)
 1. [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (1 year ago)
 1. [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (1 year ago)
 1. [blender@4.4.3: Update executable name to blender-launcher.exe](https://github.com/ScoopInstaller/Extras/pull/15649) on [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) (1 year ago)
@@ -47,16 +47,16 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.1](https://github.com/ShenMian/sokoban/releases/tag/v0.1.1), today) - A Sokoban game built with Godot and Rust.
-- [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 2 days ago) - 
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.1](https://github.com/ShenMian/sokoban/releases/tag/v0.1.1), 1 day ago) - A Sokoban game built with Godot and Rust.
+- [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 3 days ago) - 
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.1](https://github.com/ShenMian/sokoban/releases/tag/v0.1.1), today) - A Sokoban game built with Godot and Rust.
-1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 2 days ago) - 
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.1](https://github.com/ShenMian/tracker/releases/tag/v0.2.1), 3 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.5](https://github.com/ShenMian/boxman/releases/tag/v0.1.5), 5 days ago) - A port of BoxMan to the desktop
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 7 months ago) - A sokoban with solver.
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.1](https://github.com/ShenMian/sokoban/releases/tag/v0.1.1), 1 day ago) - A Sokoban game built with Godot and Rust.
+1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 3 days ago) - 
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.1](https://github.com/ShenMian/tracker/releases/tag/v0.2.1), 4 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.5](https://github.com/ShenMian/boxman/releases/tag/v0.1.5), 6 days ago) - A port of BoxMan to the desktop
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 8 months ago) - A sokoban with solver.
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 2 years ago) - A simple gomoku, supports LAN multiplayer.
 </details>
 
