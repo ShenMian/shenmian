@@ -7,13 +7,13 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### 🔭 Currently working on
 
 
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (3 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
