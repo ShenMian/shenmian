@@ -7,13 +7,14 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### 🔭 Currently working on
 
 
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 - [ShenMian/boxman](https://github.com/ShenMian/boxman) (today)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (today)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (3 days ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (4 days ago)
@@ -21,7 +22,6 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (2 weeks ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
-1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
@@ -47,12 +47,12 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.6](https://github.com/ShenMian/boxman/releases/tag/v0.1.6), today) - A port of BoxMan to the desktop
+- [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.7](https://github.com/ShenMian/boxman/releases/tag/v0.1.7), today) - A port of BoxMan to the desktop
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.2](https://github.com/ShenMian/sokoban/releases/tag/v0.1.2), 1 day ago) - A Sokoban game built with Godot and Rust.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.6](https://github.com/ShenMian/boxman/releases/tag/v0.1.6), today) - A port of BoxMan to the desktop
+1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.7](https://github.com/ShenMian/boxman/releases/tag/v0.1.7), today) - A port of BoxMan to the desktop
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.2](https://github.com/ShenMian/sokoban/releases/tag/v0.1.2), 1 day ago) - A Sokoban game built with Godot and Rust.
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 4 days ago) - 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.1](https://github.com/ShenMian/tracker/releases/tag/v0.2.1), 5 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
