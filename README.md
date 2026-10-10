@@ -7,21 +7,21 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### 🔭 Currently working on
 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) (today)
 - [ShenMian/boxman](https://github.com/ShenMian/boxman) (today)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [krahets/hello-algo](https://github.com/krahets/hello-algo) (today)
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (today)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (5 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (6 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (2 weeks ago)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 months ago)
 </details>
 
 #### :hammer: Recent Pull Requests
@@ -57,6 +57,7 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 5 days ago) - 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.1](https://github.com/ShenMian/tracker/releases/tag/v0.2.1), 6 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 8 months ago) - A sokoban with solver.
+1. [krahets/hello-algo](https://github.com/krahets/hello-algo) ([1.3.0](https://github.com/krahets/hello-algo/releases/tag/1.3.0), 9 months ago) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C&#43;&#43;, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 2 years ago) - A simple gomoku, supports LAN multiplayer.
 </details>
 
