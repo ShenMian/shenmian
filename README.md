@@ -14,9 +14,9 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 
 1. [krahets/hello-algo](https://github.com/krahets/hello-algo) (today)
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (today)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 day ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (4 days ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (5 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (6 days ago)
