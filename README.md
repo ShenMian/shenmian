@@ -8,19 +8,19 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 
 
 - [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
+- [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
-1. [krahets/hello-algo](https://github.com/krahets/hello-algo) (3 days ago)
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (3 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+1. [krahets/hello-algo](https://github.com/krahets/hello-algo) (3 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (1 week ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (2 weeks ago)
 </details>
 
