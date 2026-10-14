@@ -7,21 +7,21 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### 🔭 Currently working on
 
 
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
+- [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (today)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
+1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
-1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (4 days ago)
 1. [krahets/hello-algo](https://github.com/krahets/hello-algo) (4 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
+1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (4 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (1 week ago)
-1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (3 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
