@@ -7,19 +7,19 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### 🔭 Currently working on
 
 
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
-1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
-1. [krahets/hello-algo](https://github.com/krahets/hello-algo) (5 days ago)
-1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (5 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (6 days ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (2 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (3 days ago)
+1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (6 days ago)
+1. [krahets/hello-algo](https://github.com/krahets/hello-algo) (6 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) (1 week ago)
 </details>
@@ -47,16 +47,16 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.5](https://github.com/ShenMian/sokoban/releases/tag/v0.1.5), 1 day ago) - A Sokoban game built with Godot and Rust.
-- [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.7](https://github.com/ShenMian/boxman/releases/tag/v0.1.7), 6 days ago) - A port of BoxMan to the desktop
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.23](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.23), today) - A sokoban with solver.
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.5](https://github.com/ShenMian/sokoban/releases/tag/v0.1.5), 2 days ago) - A Sokoban game built with Godot and Rust.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.5](https://github.com/ShenMian/sokoban/releases/tag/v0.1.5), 1 day ago) - A Sokoban game built with Godot and Rust.
-1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.7](https://github.com/ShenMian/boxman/releases/tag/v0.1.7), 6 days ago) - A port of BoxMan to the desktop
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.23](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.23), today) - A sokoban with solver.
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.5](https://github.com/ShenMian/sokoban/releases/tag/v0.1.5), 2 days ago) - A Sokoban game built with Godot and Rust.
+1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.7](https://github.com/ShenMian/boxman/releases/tag/v0.1.7), 1 week ago) - A port of BoxMan to the desktop
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 1 week ago) - 
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.1](https://github.com/ShenMian/tracker/releases/tag/v0.2.1), 1 week ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.22](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.22), 8 months ago) - A sokoban with solver.
 1. [krahets/hello-algo](https://github.com/krahets/hello-algo) ([1.3.0](https://github.com/krahets/hello-algo/releases/tag/1.3.0), 9 months ago) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C&#43;&#43;, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 2 years ago) - A simple gomoku, supports LAN multiplayer.
 </details>
