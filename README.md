@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Currently learning [Rust] :crab:, game development and computer graphics.
+Currently learning [Rust] :crab:, game development, software security and deep learning.
 
 [Rust]: https://www.rust-lang.org/
 
@@ -8,12 +8,12 @@ Currently learning [Rust] :crab:, game development and computer graphics.
 
 
 - [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 day ago)
+- [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 day ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (today)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (6 days ago)
