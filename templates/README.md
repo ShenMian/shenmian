@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Currently learning [Rust] :crab:, game development and computer graphics.
+Currently learning [Rust] :crab:, game development, software security and deep learning.
 
 [Rust]: https://www.rust-lang.org/
 
