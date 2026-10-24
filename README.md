@@ -7,20 +7,20 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
-1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (today)
-1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 day ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (5 days ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
+1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (1 day ago)
+1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
-1. [krahets/hello-algo](https://github.com/krahets/hello-algo) (1 week ago)
+1. [krahets/hello-algo](https://github.com/krahets/hello-algo) (2 weeks ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 weeks ago)
 </details>
 
@@ -47,12 +47,12 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.6](https://github.com/ShenMian/sokoban/releases/tag/v0.1.6), 5 days ago) - A Sokoban game built with Godot and Rust.
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.6](https://github.com/ShenMian/sokoban/releases/tag/v0.1.6), 6 days ago) - A Sokoban game built with Godot and Rust.
 - [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.23](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.23), 1 week ago) - A sokoban with solver.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.6](https://github.com/ShenMian/sokoban/releases/tag/v0.1.6), 5 days ago) - A Sokoban game built with Godot and Rust.
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.6](https://github.com/ShenMian/sokoban/releases/tag/v0.1.6), 6 days ago) - A Sokoban game built with Godot and Rust.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.23](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.23), 1 week ago) - A sokoban with solver.
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) ([v0.1.7](https://github.com/ShenMian/boxman/releases/tag/v0.1.7), 2 weeks ago) - A port of BoxMan to the desktop
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 2 weeks ago) - 
