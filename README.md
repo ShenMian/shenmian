@@ -8,20 +8,20 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 
 
 - [ShenMian/sokofetch](https://github.com/ShenMian/sokofetch) (today)
-- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/sokofetch](https://github.com/ShenMian/sokofetch) (today)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (today)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (today)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (1 day ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (2 days ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/letslogic](https://github.com/ShenMian/letslogic) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
-1. [krahets/hello-algo](https://github.com/krahets/hello-algo) (2 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
