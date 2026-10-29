@@ -7,21 +7,21 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
+- [ShenMian/festival-rs](https://github.com/ShenMian/festival-rs) (today)
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-- [ShenMian/sokofetch](https://github.com/ShenMian/sokofetch) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/festival-rs](https://github.com/ShenMian/festival-rs) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 1. [ShenMian/sokofetch](https://github.com/ShenMian/sokofetch) (1 day ago)
-1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (4 days ago)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (4 days ago)
+1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (3 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (4 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (5 days ago)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (5 days ago)
 1. [ShenMian/boxman](https://github.com/ShenMian/boxman) (6 days ago)
 1. [ShenMian/shenmian](https://github.com/ShenMian/shenmian) (1 week ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
@@ -47,11 +47,12 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### :seedling: Latest releases I've contributed to
 
 
+- [ShenMian/festival-rs](https://github.com/ShenMian/festival-rs) ([v0.1.1](https://github.com/ShenMian/festival-rs/releases/tag/v0.1.1), today) - An AI-assisted Rust port of Festival.
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.2](https://github.com/ShenMian/tracker/releases/tag/v0.2.2), 1 day ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.7](https://github.com/ShenMian/sokoban/releases/tag/v0.1.7), 4 days ago) - A Sokoban game built with Godot and Rust.
 
 <details><summary>more...</summary>
 
+1. [ShenMian/festival-rs](https://github.com/ShenMian/festival-rs) ([v0.1.1](https://github.com/ShenMian/festival-rs/releases/tag/v0.1.1), today) - An AI-assisted Rust port of Festival.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.2](https://github.com/ShenMian/tracker/releases/tag/v0.2.2), 1 day ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.7](https://github.com/ShenMian/sokoban/releases/tag/v0.1.7), 4 days ago) - A Sokoban game built with Godot and Rust.
 1. [ShenMian/sokofetch](https://github.com/ShenMian/sokofetch) ([v0.1.0](https://github.com/ShenMian/sokofetch/releases/tag/v0.1.0), 5 days ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
