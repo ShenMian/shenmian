@@ -7,16 +7,16 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 - [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) (today)
-- [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) (today)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) (today)
 1. [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
 1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (1 day ago)
 1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (1 day ago)
