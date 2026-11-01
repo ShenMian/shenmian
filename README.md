@@ -8,11 +8,12 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 
 
 - [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) (today)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
+- [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) (today)
 
 <details><summary>more...</summary>
 
 1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) (today)
+1. [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
@@ -21,7 +22,6 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (1 day ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (1 week ago)
-1. [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
