@@ -7,19 +7,19 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
-- [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) (today)
+- [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
-1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) (today)
-1. [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) (today)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (1 day ago)
-1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (1 day ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
+1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) (1 day ago)
+1. [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) (1 day ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (2 days ago)
+1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (2 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/deepseek-enhance](https://github.com/ShenMian/deepseek-enhance) (1 week ago)
 </details>
@@ -47,18 +47,18 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### :seedling: Latest releases I've contributed to
 
 
-- [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), today) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
-- [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.2](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.2), 2 days ago) - An AI-assisted Rust port of Festival.
+- [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 1 day ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
+- [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.2](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.2), 3 days ago) - An AI-assisted Rust port of Festival.
 
 <details><summary>more...</summary>
 
-1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), today) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
-1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.2](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.2), 2 days ago) - An AI-assisted Rust port of Festival.
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.2](https://github.com/ShenMian/tracker/releases/tag/v0.2.2), 4 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
+1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 1 day ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
+1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.2](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.2), 3 days ago) - An AI-assisted Rust port of Festival.
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.2](https://github.com/ShenMian/tracker/releases/tag/v0.2.2), 5 days ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.7](https://github.com/ShenMian/sokoban/releases/tag/v0.1.7), 1 week ago) - A Sokoban game built with Godot and Rust.
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.23](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.23), 2 weeks ago) - A sokoban with solver.
 1. [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) ([v0.1.7](https://github.com/sokoban-lab/boxman/releases/tag/v0.1.7), 3 weeks ago) - A port of BoxMan to the desktop.
-1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 3 weeks ago) - 
+1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 4 weeks ago) - 
 1. [krahets/hello-algo](https://github.com/krahets/hello-algo) ([1.3.0](https://github.com/krahets/hello-algo/releases/tag/1.3.0), 10 months ago) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C&#43;&#43;, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 2 years ago) - A simple gomoku, supports LAN multiplayer.
 </details>
