@@ -7,14 +7,14 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 - [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (today)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 days ago)
 1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (3 days ago)
 1. [rparrett/entytd](https://github.com/rparrett/entytd) (3 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (4 days ago)
