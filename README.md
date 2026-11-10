@@ -12,13 +12,13 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 day ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 day ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
-1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (4 days ago)
-1. [rparrett/entytd](https://github.com/rparrett/entytd) (4 days ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (5 days ago)
-1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (6 days ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (2 days ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (2 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (3 days ago)
+1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (5 days ago)
+1. [rparrett/entytd](https://github.com/rparrett/entytd) (5 days ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (6 days ago)
+1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (1 week ago)
 1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) (1 week ago)
 1. [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
@@ -27,12 +27,12 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### :hammer: Recent Pull Requests
 
 
-- [Upgrade to Bevy 0.19](https://github.com/rparrett/entytd/pull/21) on [rparrett/entytd](https://github.com/rparrett/entytd) (4 days ago)
+- [Upgrade to Bevy 0.19](https://github.com/rparrett/entytd/pull/21) on [rparrett/entytd](https://github.com/rparrett/entytd) (5 days ago)
 - [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (4 months ago)
 
 <details><summary>more...</summary>
 
-1. [Upgrade to Bevy 0.19](https://github.com/rparrett/entytd/pull/21) on [rparrett/entytd](https://github.com/rparrett/entytd) (4 days ago)
+1. [Upgrade to Bevy 0.19](https://github.com/rparrett/entytd/pull/21) on [rparrett/entytd](https://github.com/rparrett/entytd) (5 days ago)
 1. [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (4 months ago)
 1. [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (1 year ago)
 1. [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (1 year ago)
@@ -47,12 +47,12 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### :seedling: Latest releases I've contributed to
 
 
-- [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.4](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.4), 6 days ago) - An AI-assisted Rust port of Festival.
+- [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.4](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.4), 1 week ago) - An AI-assisted Rust port of Festival.
 - [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 1 week ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
 
 <details><summary>more...</summary>
 
-1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.4](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.4), 6 days ago) - An AI-assisted Rust port of Festival.
+1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.4](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.4), 1 week ago) - An AI-assisted Rust port of Festival.
 1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 1 week ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.2](https://github.com/ShenMian/tracker/releases/tag/v0.2.2), 1 week ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.7](https://github.com/ShenMian/sokoban/releases/tag/v0.1.7), 2 weeks ago) - A Sokoban game built with Godot and Rust.
