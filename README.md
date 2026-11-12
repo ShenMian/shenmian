@@ -7,11 +7,12 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
+- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
 - [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (4 days ago)
-- [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (4 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (4 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
@@ -21,7 +22,6 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (1 week ago)
 1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) (1 week ago)
 1. [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) (1 week ago)
-1. [ShenMian/notes](https://github.com/ShenMian/notes) (2 weeks ago)
 </details>
 
 #### :hammer: Recent Pull Requests
@@ -47,11 +47,12 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### :seedling: Latest releases I've contributed to
 
 
+- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.1](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.1), today) - A lean inline web page translator
 - [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.4](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.4), 1 week ago) - An AI-assisted Rust port of Festival.
-- [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 1 week ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
 
 <details><summary>more...</summary>
 
+1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.1](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.1), today) - A lean inline web page translator
 1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.4](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.4), 1 week ago) - An AI-assisted Rust port of Festival.
 1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 1 week ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.2](https://github.com/ShenMian/tracker/releases/tag/v0.2.2), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
@@ -61,7 +62,6 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 1 month ago) - 
 1. [krahets/hello-algo](https://github.com/krahets/hello-algo) ([1.3.0](https://github.com/krahets/hello-algo/releases/tag/1.3.0), 10 months ago) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C&#43;&#43;, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 1. [ShenMian/gomoku](https://github.com/ShenMian/gomoku) ([v1.0.2](https://github.com/ShenMian/gomoku/releases/tag/v1.0.2), 2 years ago) - A simple gomoku, supports LAN multiplayer.
-1. [rparrett/entytd](https://github.com/rparrett/entytd) ([v0.3.0](https://github.com/rparrett/entytd/releases/tag/v0.3.0), 2 years ago) - A 2d mining Tower Defense game for Bevy Jam 4
 </details>
 
 #### :speech_balloon: Contact
