@@ -14,10 +14,10 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 
 1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (today)
+1. [rparrett/entytd](https://github.com/rparrett/entytd) (today)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (5 days ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (5 days ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (6 days ago)
-1. [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
 1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (1 week ago)
