@@ -7,12 +7,12 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
-- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (1 day ago)
+- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
 - [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (1 day ago)
+1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
 1. [rparrett/entytd](https://github.com/rparrett/entytd) (1 day ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (6 days ago)
