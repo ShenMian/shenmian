@@ -8,15 +8,15 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 
 
 - [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
-- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+- [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (today)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 1. [rparrett/entytd](https://github.com/rparrett/entytd) (2 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 week ago)
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
@@ -47,12 +47,12 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.2](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.2), 2 days ago) - A lean inline web page translator
+- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.3](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.3), today) - A lean inline web page translator.
 - [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.4](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.4), 1 week ago) - An AI-assisted Rust port of Festival.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.2](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.2), 2 days ago) - A lean inline web page translator
+1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.3](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.3), today) - A lean inline web page translator.
 1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.4](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.4), 1 week ago) - An AI-assisted Rust port of Festival.
 1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 2 weeks ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.2](https://github.com/ShenMian/tracker/releases/tag/v0.2.2), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
