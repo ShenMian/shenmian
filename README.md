@@ -8,31 +8,31 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 
 
 - [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
-- [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
+- [ShenMian/notes](https://github.com/ShenMian/notes) (today)
 
 <details><summary>more...</summary>
 
 1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
-1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 day ago)
-1. [rparrett/entytd](https://github.com/rparrett/entytd) (1 day ago)
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (6 days ago)
-1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (6 days ago)
+1. [ShenMian/notes](https://github.com/ShenMian/notes) (today)
+1. [rparrett/entytd](https://github.com/rparrett/entytd) (2 days ago)
+1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (2 days ago)
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 week ago)
+1. [ShenMian/tracker](https://github.com/ShenMian/tracker) (1 week ago)
 1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 week ago)
-1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
+1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (1 week ago)
 1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (1 week ago)
-1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
 
 
-- [build(deps): upgrade to Bevy 0.20](https://github.com/rparrett/entytd/pull/22) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 day ago)
+- [build(deps): upgrade to Bevy 0.20](https://github.com/rparrett/entytd/pull/22) on [rparrett/entytd](https://github.com/rparrett/entytd) (2 days ago)
 - [Upgrade to Bevy 0.19](https://github.com/rparrett/entytd/pull/21) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
 
 <details><summary>more...</summary>
 
-1. [build(deps): upgrade to Bevy 0.20](https://github.com/rparrett/entytd/pull/22) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 day ago)
+1. [build(deps): upgrade to Bevy 0.20](https://github.com/rparrett/entytd/pull/22) on [rparrett/entytd](https://github.com/rparrett/entytd) (2 days ago)
 1. [Upgrade to Bevy 0.19](https://github.com/rparrett/entytd/pull/21) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
 1. [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (4 months ago)
 1. [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (1 year ago)
@@ -47,17 +47,17 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.2](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.2), 1 day ago) - A lean inline web page translator
+- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.2](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.2), 2 days ago) - A lean inline web page translator
 - [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.4](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.4), 1 week ago) - An AI-assisted Rust port of Festival.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.2](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.2), 1 day ago) - A lean inline web page translator
+1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.2](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.2), 2 days ago) - A lean inline web page translator
 1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.4](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.4), 1 week ago) - An AI-assisted Rust port of Festival.
-1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 1 week ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
+1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 2 weeks ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.2](https://github.com/ShenMian/tracker/releases/tag/v0.2.2), 2 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
-1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.7](https://github.com/ShenMian/sokoban/releases/tag/v0.1.7), 2 weeks ago) - A Sokoban game built with Godot and Rust.
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.23](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.23), 4 weeks ago) - A sokoban with solver.
+1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.7](https://github.com/ShenMian/sokoban/releases/tag/v0.1.7), 3 weeks ago) - A Sokoban game built with Godot and Rust.
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) ([v0.1.23](https://github.com/ShenMian/sokoban-rs/releases/tag/v0.1.23), 1 month ago) - A sokoban with solver.
 1. [sokoban-lab/boxman](https://github.com/sokoban-lab/boxman) ([v0.1.7](https://github.com/sokoban-lab/boxman/releases/tag/v0.1.7), 1 month ago) - A port of BoxMan to the desktop.
 1. [ShenMian/sokoban-test](https://github.com/ShenMian/sokoban-test) ([v0.0.20](https://github.com/ShenMian/sokoban-test/releases/tag/v0.0.20), 1 month ago) - 
 1. [krahets/hello-algo](https://github.com/krahets/hello-algo) ([1.3.0](https://github.com/krahets/hello-algo/releases/tag/1.3.0), 10 months ago) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C&#43;&#43;, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
