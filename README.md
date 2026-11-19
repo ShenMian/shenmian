@@ -7,14 +7,14 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
+- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
 - [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (1 day ago)
-- [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (1 day ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (today)
 1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (1 day ago)
 1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (1 day ago)
-1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (1 day ago)
 1. [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) (1 day ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (3 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (4 days ago)
