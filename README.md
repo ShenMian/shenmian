@@ -7,21 +7,21 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 - [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) (1 day ago)
-- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (2 days ago)
 
 <details><summary>more...</summary>
 
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (today)
 1. [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) (1 day ago)
 1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (2 days ago)
 1. [sokoban-lab/.github](https://github.com/sokoban-lab/.github) (2 days ago)
-1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (3 days ago)
 1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (3 days ago)
+1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (3 days ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (5 days ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (6 days ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (6 days ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
-1. [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
 </details>
 
 #### :hammer: Recent Pull Requests
