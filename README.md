@@ -7,18 +7,18 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-- [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) (2 days ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
+- [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) (3 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (1 day ago)
-1. [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) (2 days ago)
-1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (3 days ago)
-1. [sokoban-lab/.github](https://github.com/sokoban-lab/.github) (3 days ago)
-1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (4 days ago)
-1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (4 days ago)
-1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (6 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (2 days ago)
+1. [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) (3 days ago)
+1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (4 days ago)
+1. [sokoban-lab/.github](https://github.com/sokoban-lab/.github) (4 days ago)
+1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (5 days ago)
+1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (5 days ago)
+1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
 1. [ShenMian/notes](https://github.com/ShenMian/notes) (1 week ago)
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) (1 week ago)
 1. [ShenMian/dotfiles](https://github.com/ShenMian/dotfiles) (1 week ago)
@@ -47,14 +47,14 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### :seedling: Latest releases I've contributed to
 
 
-- [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) ([v0.1.2](https://github.com/sokoban-lab/sokovision/releases/tag/v0.1.2), 2 days ago) - Recognize Sokoban boards from screenshots and export them to XSB format.
-- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.5](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.5), 4 days ago) - A lean inline web page translator.
+- [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) ([v0.1.2](https://github.com/sokoban-lab/sokovision/releases/tag/v0.1.2), 3 days ago) - Recognize Sokoban boards from screenshots and export them to XSB format.
+- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.5](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.5), 5 days ago) - A lean inline web page translator.
 
 <details><summary>more...</summary>
 
-1. [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) ([v0.1.2](https://github.com/sokoban-lab/sokovision/releases/tag/v0.1.2), 2 days ago) - Recognize Sokoban boards from screenshots and export them to XSB format.
-1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.5](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.5), 4 days ago) - A lean inline web page translator.
-1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.5](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.5), 4 days ago) - An AI-assisted Rust port of Festival.
+1. [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) ([v0.1.2](https://github.com/sokoban-lab/sokovision/releases/tag/v0.1.2), 3 days ago) - Recognize Sokoban boards from screenshots and export them to XSB format.
+1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.5](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.5), 5 days ago) - A lean inline web page translator.
+1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.5](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.5), 5 days ago) - An AI-assisted Rust port of Festival.
 1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 3 weeks ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.2](https://github.com/ShenMian/tracker/releases/tag/v0.2.2), 3 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
 1. [ShenMian/sokoban](https://github.com/ShenMian/sokoban) ([v0.1.7](https://github.com/ShenMian/sokoban/releases/tag/v0.1.7), 4 weeks ago) - A Sokoban game built with Godot and Rust.
