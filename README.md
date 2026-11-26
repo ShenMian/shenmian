@@ -7,15 +7,15 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### 🔭 Currently working on
 
 
-- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (2 days ago)
-- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 days ago)
+- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (3 days ago)
+- [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
 
 <details><summary>more...</summary>
 
-1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (2 days ago)
-1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (4 days ago)
-1. [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) (5 days ago)
-1. [sokoban-lab/.github](https://github.com/sokoban-lab/.github) (6 days ago)
+1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) (3 days ago)
+1. [ShenMian/sokoban-rs](https://github.com/ShenMian/sokoban-rs) (5 days ago)
+1. [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) (6 days ago)
+1. [sokoban-lab/.github](https://github.com/sokoban-lab/.github) (1 week ago)
 1. [ShenMian/soukoban-cli](https://github.com/ShenMian/soukoban-cli) (1 week ago)
 1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) (1 week ago)
 1. [ShenMian/soukoban](https://github.com/ShenMian/soukoban) (1 week ago)
@@ -28,12 +28,12 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 
 
 - [build(deps): upgrade to Bevy 0.20](https://github.com/rparrett/entytd/pull/22) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
-- [Upgrade to Bevy 0.19](https://github.com/rparrett/entytd/pull/21) on [rparrett/entytd](https://github.com/rparrett/entytd) (2 weeks ago)
+- [Upgrade to Bevy 0.19](https://github.com/rparrett/entytd/pull/21) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 weeks ago)
 
 <details><summary>more...</summary>
 
 1. [build(deps): upgrade to Bevy 0.20](https://github.com/rparrett/entytd/pull/22) on [rparrett/entytd](https://github.com/rparrett/entytd) (1 week ago)
-1. [Upgrade to Bevy 0.19](https://github.com/rparrett/entytd/pull/21) on [rparrett/entytd](https://github.com/rparrett/entytd) (2 weeks ago)
+1. [Upgrade to Bevy 0.19](https://github.com/rparrett/entytd/pull/21) on [rparrett/entytd](https://github.com/rparrett/entytd) (3 weeks ago)
 1. [fix: fix C&#43;&#43; array initialization in array.md](https://github.com/krahets/hello-algo/pull/1936) on [krahets/hello-algo](https://github.com/krahets/hello-algo) (4 months ago)
 1. [Some refactoring](https://github.com/mrclputra/bevy_tracksat/pull/3) on [mrclputra/bevy_tracksat](https://github.com/mrclputra/bevy_tracksat) (1 year ago)
 1. [Simplify `Sprite` initialization in player bundle](https://github.com/TheBevyFlock/bevy_new_2d/pull/450) on [TheBevyFlock/bevy_new_2d](https://github.com/TheBevyFlock/bevy_new_2d) (1 year ago)
@@ -47,13 +47,13 @@ Currently learning [Rust] :crab:, game development, software security and deep l
 #### :seedling: Latest releases I've contributed to
 
 
-- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.6](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.6), 2 days ago) - A lean inline web page translator.
-- [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) ([v0.1.2](https://github.com/sokoban-lab/sokovision/releases/tag/v0.1.2), 5 days ago) - Recognize Sokoban boards from screenshots and export them to XSB format.
+- [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.6](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.6), 3 days ago) - A lean inline web page translator.
+- [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) ([v0.1.2](https://github.com/sokoban-lab/sokovision/releases/tag/v0.1.2), 6 days ago) - Recognize Sokoban boards from screenshots and export them to XSB format.
 
 <details><summary>more...</summary>
 
-1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.6](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.6), 2 days ago) - A lean inline web page translator.
-1. [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) ([v0.1.2](https://github.com/sokoban-lab/sokovision/releases/tag/v0.1.2), 5 days ago) - Recognize Sokoban boards from screenshots and export them to XSB format.
+1. [ShenMian/inline-translator](https://github.com/ShenMian/inline-translator) ([v0.0.6](https://github.com/ShenMian/inline-translator/releases/tag/v0.0.6), 3 days ago) - A lean inline web page translator.
+1. [sokoban-lab/sokovision](https://github.com/sokoban-lab/sokovision) ([v0.1.2](https://github.com/sokoban-lab/sokovision/releases/tag/v0.1.2), 6 days ago) - Recognize Sokoban boards from screenshots and export them to XSB format.
 1. [sokoban-lab/festival-rs](https://github.com/sokoban-lab/festival-rs) ([v0.1.5](https://github.com/sokoban-lab/festival-rs/releases/tag/v0.1.5), 1 week ago) - An AI-assisted Rust port of Festival.
 1. [sokoban-lab/sokofetch](https://github.com/sokoban-lab/sokofetch) ([v0.1.4](https://github.com/sokoban-lab/sokofetch/releases/tag/v0.1.4), 3 weeks ago) - Fetch a Sokoban Online author&#39;s levels into an XSB level collection.
 1. [ShenMian/tracker](https://github.com/ShenMian/tracker) ([v0.2.2](https://github.com/ShenMian/tracker/releases/tag/v0.2.2), 4 weeks ago) - A terminal-based real-time satellite tracking and orbit prediction application.
